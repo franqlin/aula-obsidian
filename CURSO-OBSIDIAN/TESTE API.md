@@ -1,0 +1,274 @@
+**Resultado da Busca Instagram:* franqsoares_*
+![[CURSO-OBSIDIAN/media/file_39411.jpeg]]
+        - **ABOUT**: null
+        - **ACCOUNT BADGES**:
+        - **ACCOUNT CATEGORY**: 
+        - **ACCOUNT TYPE**: 3
+        - **ACTIVE STANDALONE FUNDRAISERS**:
+          - **FUNDRAISERS**:
+          - **TOTAL COUNT**: 0
+        - **ADDITIONAL BUSINESS ADDRESSES**:
+        - **ADJUSTED BANNERS ORDER**:
+        - **ADS INCENTIVE EXPIRATION DATE**: null
+        - **ADS PAGE ID**: null
+        - **ADS PAGE NAME**: null
+        - **AUTO EXPAND CHAINING**: false
+        - **AVATAR STATUS**:
+          - **HAS AVATAR**: false
+        - **BIO LINKS**:
+          - **0**:
+            - **ICON URL**: 
+            - **IMAGE URL**: 
+            - **IS PINNED**: false
+            - **IS VERIFIED**: false
+            - **LINK ID**: 18078985951715900
+            - **LINK TYPE**: external
+            - **LYNX URL**: https://l.instagram.com/?u=https%3A%2F%2Fwbeduca.com.br%2Fpt%2Fcursos%2Fmasterclass-zettelkasten-com-obsidian-para-investigacao-em-fontes-abertas%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAablAmMwOxGAr16yhTkfMZSk5VGm16ZgOms2NsiAVue9KJvN8t_yBXWiUVE_aem__d9N4ORs36LDaYg0HFcKaQ&e=AT11SAEk50TjuvoOdaDd-fd3Vgk6TAGswkNcL5KrCQIzB_DIiExaFyV9Yxpz9AC6503xEoMFR3WDpRplHFgBEQvuiXBdUFKWqJNeSXk
+            - **MEDIA TYPE**: none
+            - **OPEN EXTERNAL URL WITH IN APP BROWSER**: true
+            - **TITLE**: Curso de Obsidian e Zettelkasten
+            - **URL**: https://wbeduca.com.br/pt/cursos/masterclass-zettelkasten-com-obsidian-para-investigacao-em-fontes-abertas
+        - **BIOGRAPHY**: Professor e Perito Computacional.
+        - **BIOGRAPHY EMAIL**: null
+        - **BIOGRAPHY WITH ENTITIES**:
+          - **ENTITIES**:
+          - **RAW TEXT**: Professor e Perito Computacional.
+        - **BIRTHDAY TODAY VISIBILITY FOR VIEWER**: NOT_VISIBLE
+        - **BUSINESS CONTACT METHOD**: UNKNOWN
+        - **CAN ADD FB GROUP LINK ON PROFILE**: false
+        - **CAN HIDE CATEGORY**: true
+        - **CAN HIDE PUBLIC CONTACTS**: true
+        - **CAN USE AFFILIATE PARTNERSHIP MESSAGING AS BRAND**: false
+        - **CAN USE AFFILIATE PARTNERSHIP MESSAGING AS CREATOR**: false
+        - **CAN USE BRANDED CONTENT DISCOVERY AS BRAND**: false
+        - **CAN USE BRANDED CONTENT DISCOVERY AS CREATOR**: false
+        - **CAN USE PAID PARTNERSHIP MESSAGING AS CREATOR**: false
+        - **CATEGORY**: Education
+        - **CATEGORY ID**: 2250
+        - **CHAINING UPSELL CARDS**:
+        - **CONTACT PHONE NUMBER**: 
+        - **CREATOR SHOPPING INFO**:
+          - **LINKED MERCHANT ACCOUNTS**:
+        - **CURRENT CATALOG ID**: null
+        - **DIRECT MESSAGING**: 
+        - **ENABLE ADD SCHOOL IN EDIT PROFILE**: false
+        - **EXISTING USER AGE COLLECTION ENABLED**: true
+        - **EXTERNAL LYNX URL**: https://l.instagram.com/?u=https%3A%2F%2Fwbeduca.com.br%2Fpt%2Fcursos%2Fmasterclass-zettelkasten-com-obsidian-para-investigacao-em-fontes-abertas%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAablAmMwOxGAr16yhTkfMZSk5VGm16ZgOms2NsiAVue9KJvN8t_yBXWiUVE_aem__d9N4ORs36LDaYg0HFcKaQ&e=AT11SAEk50TjuvoOdaDd-fd3Vgk6TAGswkNcL5KrCQIzB_DIiExaFyV9Yxpz9AC6503xEoMFR3WDpRplHFgBEQvuiXBdUFKWqJNeSXk
+        - **EXTERNAL URL**: https://wbeduca.com.br/pt/cursos/masterclass-zettelkasten-com-obsidian-para-investigacao-em-fontes-abertas
+        - **FAN CLUB INFO**:
+          - **AUTOSAVE TO EXCLUSIVE HIGHLIGHT**: null
+          - **CONNECTED MEMBER COUNT**: null
+          - **FAN CLUB ID**: null
+          - **FAN CLUB NAME**: null
+          - **FAN CONSIDERATION PAGE REVAMP ELIGIBLITY**: null
+          - **HAS CREATED SSC**: null
+          - **HAS ENOUGH SUBSCRIBERS FOR SSC**: null
+          - **IS FAN CLUB GIFTING ELIGIBLE**: null
+          - **IS FAN CLUB REFERRAL ELIGIBLE**: null
+          - **IS FREE TRIAL ELIGIBLE**: null
+          - **LARGEST PUBLIC BC ID**: null
+          - **SUBSCRIBER COUNT**: null
+        - **FBID V2**: 17841464447820399
+        - **FEED POST RESHARE DISABLED**: false
+        - **FOLLOW FRICTION TYPE**: 0
+        - **FOLLOWER COUNT**: 298
+        - **FOLLOWING COUNT**: 2090
+        - **FULL NAME**: Franq
+        - **HAS ANONYMOUS PROFILE PICTURE**: false
+        - **HAS BIOGRAPHY TRANSLATION**: true
+        - **HAS CHAINING**: true
+        - **HAS CHAINS**: false
+        - **HAS COLLAB COLLECTIONS**: false
+        - **HAS EVER SELECTED TOPICS**: false
+        - **HAS EXCLUSIVE FEED CONTENT**: false
+        - **HAS FAN CLUB SUBSCRIPTIONS**: false
+        - **HAS GEN AI PERSONAS FOR PROFILE BANNER**: false
+        - **HAS GUIDES**: false
+        - **HAS HIGHLIGHT REELS**: false
+        - **HAS IG PROFILE**: true
+        - **HAS LEGACY BB PENDING PROFILE PICTURE UPDATE**: false
+        - **HAS MUSIC ON PROFILE**: false
+        - **HAS MV4B PENDING PROFILE PICTURE UPDATE**: false
+        - **HAS NME BADGE**: false
+        - **HAS PRIVATE COLLECTIONS**: true
+        - **HAS PUBLIC TAB THREADS**: true
+        - **HAS VIDEOS**: false
+        - **HAS VIEWS FETCHING**: true
+        - **HD PROFILE PIC URL INFO**:
+          - **HEIGHT**: 1080
+          - **URL**: ![[CURSO-OBSIDIAN/media/file_19399.jpeg]]
+          - **WIDTH**: 1080
+        - **HD PROFILE PIC VERSIONS**:
+          - **0**:
+            - **HEIGHT**: 320
+            - **URL**: ![[CURSO-OBSIDIAN/media/file_31733.jpeg]]
+            - **WIDTH**: 320
+          - **1**:
+            - **HEIGHT**: 640
+            - **URL**: ![[CURSO-OBSIDIAN/media/file_02273.jpeg]]
+            - **WIDTH**: 640
+        - **HIGHLIGHT RESHARE DISABLED**: false
+        - **HIGHLIGHTS TRAY TYPE**: DEFAULT
+        - **ID**: 64483196260
+        - **INCLUDE DIRECT BLACKLIST STATUS**: true
+        - **INSTAGRAM PK**: 64483196260
+        - **INTEROP MESSAGING USER FBID**: 17847116805148260
+        - **IS ACTIVE ON TEXT POST APP**: true
+        - **IS AUTO CONFIRM ENABLED FOR ALL RECIPROCAL FOLLOW REQUESTS**: false
+        - **IS BESTIE**: false
+        - **IS BUSINESS**: false
+        - **IS CALL TO ACTION ENABLED**: false
+        - **IS CATEGORY TAPPABLE**: false
+        - **IS CREATOR AGENT ENABLED**: false
+        - **IS DIRECT ROLL CALL ENABLED**: true
+        - **IS ELIGIBLE FOR DIVERSE OWNED BUSINESS INFO**: false
+        - **IS ELIGIBLE FOR META VERIFIED ENHANCED LINK SHEET**: false
+        - **IS ELIGIBLE FOR META VERIFIED ENHANCED LINK SHEET CONSUMPTION**: false
+        - **IS ELIGIBLE FOR META VERIFIED LABEL**: true
+        - **IS ELIGIBLE FOR META VERIFIED LINKS IN REELS**: false
+        - **IS ELIGIBLE FOR META VERIFIED MULTIPLE ADDRESSES CONSUMPTION**: false
+        - **IS ELIGIBLE FOR META VERIFIED MULTIPLE ADDRESSES CREATION**: false
+        - **IS ELIGIBLE FOR META VERIFIED RELATED ACCOUNTS**: false
+        - **IS ELIGIBLE FOR POST BOOST MV UPSELL**: false
+        - **IS ELIGIBLE FOR REQUEST MESSAGE**: false
+        - **IS ELIGIBLE TO DISPLAY DIVERSE OWNED BUSINESS INFO**: false
+        - **IS FAVORITE**: false
+        - **IS FAVORITE FOR CLIPS**: false
+        - **IS FAVORITE FOR HIGHLIGHTS**: false
+        - **IS FAVORITE FOR IGTV**: false
+        - **IS FAVORITE FOR STORIES**: false
+        - **IS IN CANADA**: false
+        - **IS INTEREST ACCOUNT**: true
+        - **IS LEGACY VERIFIED MAX PROFILE PIC EDIT REACHED**: false
+        - **IS MEMORIALIZED**: false
+        - **IS META VERIFIED RELATED ACCOUNTS DISPLAY ENABLED**: false
+        - **IS MV4B APPLICATION MATURED FOR PROFILE EDIT**: true
+        - **IS MV4B BIZ ASSET PROFILE LOCKED**: false
+        - **IS MV4B MAX PROFILE EDIT REACHED**: false
+        - **IS NEW TO INSTAGRAM**: false
+        - **IS OPAL ENABLED**: false
+        - **IS OPEN TO COLLAB**: false
+        - **IS OREGON CUSTOM GENDER CONSENTED**: false
+        - **IS PARENTING ACCOUNT**: false
+        - **IS POTENTIAL BUSINESS**: false
+        - **IS PRIVATE**: false
+        - **IS PROFILE AUDIO CALL ENABLED**: false
+        - **IS PROFILE BROADCAST SHARING ENABLED**: true
+        - **IS PROFILE PICTURE EXPANSION ENABLED**: true
+        - **IS RECON AD CTA ON PROFILE ELIGIBLE WITH VIEWER**: true
+        - **IS REGULATED C18**: false
+        - **IS REGULATED NEWS IN VIEWER LOCATION**: false
+        - **IS REMIX SETTING ENABLED FOR POSTS**: true
+        - **IS REMIX SETTING ENABLED FOR REELS**: true
+        - **IS SECONDARY ACCOUNT CREATION**: true
+        - **IS STORIES TEASER MUTED**: false
+        - **IS SUPERVISION FEATURES ENABLED**: false
+        - **IS VERIFIED**: false
+        - **IS WHATSAPP LINKED**: false
+        - **LATEST BESTIES REEL MEDIA**: 0
+        - **LATEST REEL MEDIA**: 0
+        - **LIVE SUBSCRIPTION STATUS**: default
+        - **LOCATION DATA**:
+          - **ADDRESS STREET**: 
+          - **CITY ID**: 0
+          - **CITY NAME**: 
+          - **INSTAGRAM LOCATION ID**: 
+          - **LATITUDE**: 0
+          - **LONGITUDE**: 0
+          - **ZIP**: 
+        - **MEDIA COUNT**: 9
+        - **MERCHANT CHECKOUT STYLE**: none
+        - **META VERIFIED BENEFITS INFO**:
+          - **IS ELIGIBLE FOR META VERIFIED CONTENT PROTECTION**: false
+        - **META VERIFIED RELATED ACCOUNTS COUNT**: 0
+        - **NAMETAG**:
+          - **AVAILABLE THEME COLORS**:
+            - **0**: -1
+            - **1**: 7747834
+            - **2**: 13828293
+            - **3**: 16712041
+            - **4**: 16742912
+            - **5**: 0
+          - **BACKGROUND IMAGE URL**: 
+          - **EMOJI**: 😀
+          - **EMOJI COLOR**: -16777216
+          - **GRADIENT**: 3
+          - **IS BACKGROUND IMAGE BLURRED**: false
+          - **MODE**: 0
+          - **SELECTED THEME COLOR**: -1
+          - **SELFIE STICKER**: 0
+          - **SELFIE URL**: 
+          - **THEME COLOR**:
+            - **AVAILABLE THEME COLORS**:
+              - **0**:
+                - **DISPLAY LABEL**: Default
+                - **INT VALUE**: -1
+              - **1**:
+                - **DISPLAY LABEL**: Purple
+                - **INT VALUE**: 7747834
+              - **2**:
+                - **DISPLAY LABEL**: Lavender
+                - **INT VALUE**: 13828293
+              - **3**:
+                - **DISPLAY LABEL**: Pink
+                - **INT VALUE**: 16712041
+              - **4**:
+                - **DISPLAY LABEL**: Orange
+                - **INT VALUE**: 16742912
+              - **5**:
+                - **DISPLAY LABEL**: Black
+                - **INT VALUE**: 0
+            - **SELECTED THEME COLOR**:
+              - **DISPLAY LABEL**: Default
+              - **INT VALUE**: -1
+        - **NONPRO CAN MAYBE SEE PROFILE HYPERCARD**: false
+        - **NOT META VERIFIED FRICTION INFO**:
+          - **IS ELIGIBLE FOR LABEL FRICTION**: false
+          - **LABEL FRICTION CONTENT**: Not Meta Verified
+        - **OPEN EXTERNAL URL WITH IN APP BROWSER**: true
+        - **PAGE ID**: null
+        - **PAGE NAME**: null
+        - **PINNED CHANNELS INFO**:
+          - **HAS PUBLIC CHANNELS**: false
+          - **PINNED CHANNELS LIST**:
+        - **PRIMARY PROFILE LINK TYPE**: 0
+        - **PROFESSIONAL CONVERSION SUGGESTED ACCOUNT TYPE**: 2
+        - **PROFILE CONTEXT**: 
+        - **PROFILE CONTEXT FACEPILE USERS**:
+        - **PROFILE CONTEXT LINKS WITH USER IDS**:
+        - **PROFILE PIC GENAI TOOL INFO**:
+        - **PROFILE PIC ID**: 3527605519705289133
+        - **PROFILE PIC URL**: ![[CURSO-OBSIDIAN/media/file_63898.jpeg]]
+        - **PROFILE PIC URL HD**: ![[CURSO-OBSIDIAN/media/file_67391.jpeg]]
+        - **PROFILE REELS SORTING ELIGIBILITY**: CHECK_VIEWER_QE
+        - **PROFILE TYPE**: 0
+        - **PRONOUNS**:
+        - **PUBLIC EMAIL**: 
+        - **PUBLIC PHONE COUNTRY CODE**: 
+        - **PUBLIC PHONE NUMBER**: 
+        - **RECON FEATURES**:
+          - **ENABLE RECON CTA**: true
+        - **RECS FROM FRIENDS**:
+          - **ENABLE RECS FROM FRIENDS**: false
+          - **RECS FROM FRIENDS ENTRY POINT TYPE**: banner
+        - **RELEVANT NEWS REGULATION LOCATIONS**:
+        - **REMOVE MESSAGE ENTRYPOINT**: false
+        - **REQUEST CONTACT ENABLED**: false
+        - **SELLER SHOPPABLE FEED TYPE**: none
+        - **SHOW ACCOUNT TRANSPARENCY DETAILS**: true
+        - **SHOW BLUE BADGE ON MAIN PROFILE**: false
+        - **SHOW POST INSIGHTS ENTRY POINT**: true
+        - **SHOW SCHOOLS BADGE**: null
+        - **SHOW SHOPPABLE FEED**: false
+        - **SPAM FOLLOWER SETTING ENABLED**: true
+        - **TEXT APP LAST VISITED TIME**: null
+        - **TEXT POST APP BADGE LABEL**: franqsoares_
+        - **TEXT POST NEW POST COUNT**: 1
+        - **THIRD PARTY DOWNLOADS ENABLED**: 1
+        - **THREADS PROFILE GLYPH URL**: https://www.threads.net/@franqsoares_?modal=true&xmt=AQGzy5C3gec43zk0ZEL52fX9I8RRU8FCIobLL4lv6cZPZTM
+        - **TOTAL AR EFFECTS**: 0
+        - **TOTAL IGTV VIDEOS**: 0
+        - **TRANSPARENCY PRODUCT ENABLED**: false
+        - **UPCOMING EVENTS**:
+        - **USERNAME**: franqsoares_
+        - **VIEWS ON GRID STATUS**: SHOW_VIEWS_ON_GRID

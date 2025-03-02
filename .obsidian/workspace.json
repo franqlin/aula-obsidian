@@ -1,0 +1,289 @@
+{
+  "main": {
+    "id": "73f766f243b46998",
+    "type": "split",
+    "children": [
+      {
+        "id": "d906708e1d07ba92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dec271e18c90c101",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c6473732153b19da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CURSO-ZETTELKASTEN/OBSIDIAN/9. O Método Zettelkasten.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. O Método Zettelkasten"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1e5c334b3cc652a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "26ff47bfcf48d850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db7fa5c6913b86b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3020db7a3f87e948",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "908bde6f83bbbfbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 512.5
+  },
+  "right": {
+    "id": "07ceb56b031f6880",
+    "type": "split",
+    "children": [
+      {
+        "id": "6477ec9c66d4cd22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9acbf3e2360583a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-01 22.48.53.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2025-03-01 22.48.53.excalidraw"
+            }
+          },
+          {
+            "id": "9712f3cf8a8c15a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-01 22.48.53.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2025-03-01 22.48.53.excalidraw"
+            }
+          },
+          {
+            "id": "b1f54f3889bff5d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ab5deadb5bf3e5f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CURSO-ZETTELKASTEN/OBSIDIAN/9. O Método Zettelkasten.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 9. O Método Zettelkasten"
+            }
+          },
+          {
+            "id": "1262f755af7a84b8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a2e4724e39403360",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "214f20b3b0a67cd1",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "59c50e2a9416276d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "1991e15ca2f2fc19",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "juggl:Juggl global graph": false,
+      "odysseus-plugin:Odysseus::Enquecimento de Mídia\"": false
+    }
+  },
+  "active": "c6473732153b19da",
+  "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/OBSIDIAN/8. Mapas de Conteúdo.md",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/9. O Método Zettelkasten.md",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/7. Organizando suas anotações.md",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/6. Uma introdução ao Markdown.md",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/5. Uma introdução aos links.md",
+    "README.md",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/4. Crie sua primeira nota.md",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/3. Introdução às notas de obsidiana.md",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/2. O Obsidian é gratuito?.md",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/1. Posso usar Obsidian?.md",
+    "CURSO-ZETTELKASTEN/1 Conteúdo Programático/Conteúdo Programático.md",
+    "CURSO-ZETTELKASTEN/OBSIDIAN",
+    "CURSO-OBSIDIAN/TESTE API.md",
+    "CURSO-OBSIDIAN/media/file_67391.jpeg.md",
+    "CURSO-OBSIDIAN/media/file_67391.jpeg",
+    "CURSO-OBSIDIAN/media/file_63898.jpeg.md",
+    "CURSO-OBSIDIAN/media/file_63898.jpeg",
+    "CURSO-OBSIDIAN/media/file_02273.jpeg.md",
+    "CURSO-OBSIDIAN/media/file_02273.jpeg",
+    "CURSO-OBSIDIAN/media/file_31733.jpeg.md",
+    "CURSO-OBSIDIAN/media/file_31733.jpeg",
+    "CURSO-OBSIDIAN/media/file_19399.jpeg.md",
+    "CURSO-OBSIDIAN/media/file_19399.jpeg",
+    "CURSO-OBSIDIAN/media/file_39411.jpeg.md",
+    "CURSO-OBSIDIAN/media/file_39411.jpeg",
+    "CURSO-OBSIDIAN/media",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Nota 1d Conclusão.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Temas das Músicas.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Nota 1c Impacto Cultural.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Nota 1b Conexões Temáticas.md",
+    "attachments/Pasted image 20250301214722.png",
+    "attachments/Pasted image 20250301214249.png",
+    "CURSO-ZETTELKASTEN/Images/image.png",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/9. RESUMO - Tópicos Principais e Ideias Centrais.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/8. Estudo de caso.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/image 2.png",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas",
+    "Tipos de Notas 1aaafbce366a80e1a7b1f38221196338",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/zetelkastten-digital",
+    "CURSO-ZETTELKASTEN/Images",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/principios-notas-inteligentes",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos",
+    "CANVA.canvas",
+    "CURSO-OBSIDIAN/inbox/Artigos/CANVAS-ARTICLES.canvas"
+  ]
+}
