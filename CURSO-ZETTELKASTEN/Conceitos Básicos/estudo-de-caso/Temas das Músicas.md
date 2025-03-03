@@ -1,4 +1,5 @@
-# 1. Gráfico 1: Temas das Músicas
+#estudodecaso 
+
 
 Aqui estão os **gráficos** no formato `.md` para serem utilizados no **Notion**, seguindo uma estrutura clara e visualmente organizada:
 

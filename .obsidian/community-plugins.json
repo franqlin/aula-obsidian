@@ -5,5 +5,10 @@
   "juggl",
   "odysseus-plugin",
   "obsidian-enhancing-export",
-  "better-export-pdf"
+  "better-export-pdf",
+  "dataview",
+  "obsidian-mind-map",
+  "obsidian-kanban",
+  "page-properties",
+  "templater-obsidian"
 ]

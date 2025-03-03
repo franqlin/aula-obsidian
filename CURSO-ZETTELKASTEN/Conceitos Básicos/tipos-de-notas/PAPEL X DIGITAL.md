@@ -1,6 +1,6 @@
 
 
-Este trecho compara as vantagens e desvantagens de **notas digitais** e **notas em papel**, destacando como cada formato se adapta a diferentes necessidades e contextos. Aqui está uma explicação detalhada:
+Este trecho compara as vantagens e desvantagens de **notas digitais** e **notas em papel**, destacando como cada #formato se adapta a diferentes necessidades e contextos. Aqui está uma explicação detalhada:
 
 ---
 

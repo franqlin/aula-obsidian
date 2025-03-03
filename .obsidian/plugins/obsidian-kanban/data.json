@@ -1,0 +1,23 @@
+{
+  "new-note-template": "kanban-templates/new kaban Note.md",
+  "tag-sort": [
+    {
+      "tag": "#youtube"
+    },
+    {
+      "tag": ""
+    }
+  ],
+  "tag-colors": [
+    {
+      "tagKey": "#youtube",
+      "color": "rgba(174, 245, 93, 1)",
+      "backgroundColor": "rgba(77, 24, 201, 0.1)"
+    },
+    {
+      "tagKey": "",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ]
+}

@@ -8,5 +8,6 @@
   "attachmentFolderPath": "attachments",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "newFileFolderPath": "CURSO-OBSIDIAN/journal"
+  "newFileFolderPath": "CURSO-OBSIDIAN/journal",
+  "propertiesInDocument": "visible"
 }

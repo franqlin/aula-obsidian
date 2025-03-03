@@ -6,7 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "⏺"
+      "LiAlarmClock",
+      "LiMapPinMinus",
+      "LiLinksComingIn",
+      "LiAirplay",
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,5 +32,22 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
-  }
+  },
+  "CURSO-ZETTELKASTEN/OBSIDIAN/Dataview/2. Como usar o Dataview.md": "LiAlarmSmoke",
+  "CURSO-ZETTELKASTEN/OBSIDIAN/Dataview": "LiFolder",
+  "CURSO-ZETTELKASTEN/1 Conteúdo Programático": "LiFolder",
+  "CURSO-ZETTELKASTEN/OBSIDIAN/Dataview/1. Dataview.md": "LiAlarmClockCheck",
+  "CURSO-ZETTELKASTEN/OBSIDIAN/Dataview/3. Exemplo - DATAVIEW.md": "LiActivitySquare",
+  "CURSO-ZETTELKASTEN/Conceitos Básicos": "LiFolder",
+  "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas": "LiFolder",
+  "CURSO-ZETTELKASTEN/1 Conteúdo Programático/Conteúdo Programático.md": "LiActivitySquare",
+  "CURSO-ZETTELKASTEN/1 Conteúdo Programático/Turbinar_a_Inteligncia.png": "LiMap",
+  "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso": "LiFolder",
+  "CURSO-ZETTELKASTEN/Conceitos Básicos/principios-notas-inteligentes": "LiFolder",
+  "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas": "LiFolder",
+  "CURSO-ZETTELKASTEN/Conceitos Básicos/zetelkastten-digital": "LiFolder",
+  "CURSO-ZETTELKASTEN/Images": "LiImage",
+  "CURSO-ZETTELKASTEN/OBSIDIAN": "LiAirplay",
+  "CURSO-ZETTELKASTEN/LINKS.md": "LiLinksComingIn",
+  "CURSO-ZETTELKASTEN/OBSIDIAN/Mapas de conteudo": "LiMapPinMinus"
 }

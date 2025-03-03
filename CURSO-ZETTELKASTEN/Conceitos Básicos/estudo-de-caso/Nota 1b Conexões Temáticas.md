@@ -1,5 +1,5 @@
-# Nota 1b: Conexões Temáticas
 
+#estudodecaso
 ### Conexões Temáticas
 
 - **Desapego vs. Superação**:

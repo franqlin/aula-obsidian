@@ -1,24 +1,27 @@
+---
+tags:
+  - intro
+  - zettelkasten
+autor: Franqlin Soares
+Criação:
+---
 # 1. Conteúdo Programático
+
+
+
 
 **Seção 1: Introdução ao Zettelkasten e Obsidian**
 
 1. O que é Zettelkasten?
+```dataview
+LIST
+FROM "CURSO-ZETTELKASTEN/Conceitos Básicos" AND #intro 
+```
+ 
 
-	- [[1. Conceitos de Gestão do conhecimento]]
-	- [[2. Como escrever notas inteligentes]]
-	- [[3. Slip-box de Luhmann]]
-	- [[4. How to Take Smart Notes]]
-	- [[5. Zettelkasten Digital]]
-	- [[6. Tipos de Notas]]
-	- [[7. Editar notas]]
-	- [[8. Estudo de caso]]
-	- [[9. RESUMO - Tópicos Principais e Ideias Centrais]]
-	
-	  
+3. Introdução ao Obsidian
 
-1. Introdução ao Obsidian
-
-- Visão geral da ferramenta e suas funcionalidades.
+- Visão geral da ferramenta e suas *funcionalidades*.
 
 1. Instalação e Configuração do Obsidian
 
@@ -30,7 +33,12 @@
 
 - Apresentação de plugins úteis como:
 - Dataview: Para consultas e visualizações de dados.
+```dataview
+LIST
+FROM "CURSO-ZETTELKASTEN/OBSIDIAN/Dataview" 
+```
 - Markdown Links: Para criar links entre notas.
+- [x]   Uso de Mapas Mentais
 - Calendar: Para gerenciar prazos e tarefas.
 
 1. Organizando o Vault
@@ -38,3 +46,5 @@
 - Estruturação de pastas e notas.
 
 1. Personalizando o Obsidian
+- [x] plugins
+- [x] Dataview

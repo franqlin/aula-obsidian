@@ -1,4 +1,4 @@
-# Nota 1c: Impacto Cultural
+#estudodecaso 
 
 ### Impacto Cultural
 

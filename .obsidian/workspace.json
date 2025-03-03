@@ -4,37 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d906708e1d07ba92",
+        "id": "2f9e64c4a428172e",
         "type": "tabs",
         "children": [
           {
-            "id": "dec271e18c90c101",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "juggl_view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c6473732153b19da",
+            "id": "6f760b737a67425d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/OBSIDIAN/9. O Método Zettelkasten.md",
+                "file": "OSINT-CASES/Planejar etapas de coleta e análise de dados..md",
                 "mode": "source",
-                "source": false
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "9. O Método Zettelkasten"
+              "title": "Planejar etapas de coleta e análise de dados."
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,10 +51,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -66,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[autor: Franqlin Soares]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -84,7 +81,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
@@ -107,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-01 22.48.53.excalidraw.md",
+                "file": "CURSO-ZETTELKASTEN/PLUGINS LIST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-03-01 22.48.53.excalidraw"
+              "title": "Backlinks for PLUGINS LIST"
             }
           },
           {
@@ -126,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-01 22.48.53.excalidraw.md",
+                "file": "CURSO-ZETTELKASTEN/PLUGINS LIST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-03-01 22.48.53.excalidraw"
+              "title": "Outgoing links from PLUGINS LIST"
             }
           },
           {
@@ -155,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/OBSIDIAN/9. O Método Zettelkasten.md",
+                "file": "OSINT-CASES/Planejar etapas de coleta e análise de dados..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 9. O Método Zettelkasten"
+              "title": "Sumário de Planejar etapas de coleta e análise de dados."
             }
           },
           {
@@ -170,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -180,18 +177,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "214f20b3b0a67cd1",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -205,7 +192,7 @@
             }
           },
           {
-            "id": "1991e15ca2f2fc19",
+            "id": "a39f94ad0dd2f31d",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -215,74 +202,77 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 584.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-kanban:Criar um novo quadro": false,
       "juggl:Juggl global graph": false,
-      "odysseus-plugin:Odysseus::Enquecimento de Mídia\"": false
+      "odysseus-plugin:Odysseus::Enquecimento de Mídia\"": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6473732153b19da",
+  "active": "6f760b737a67425d",
   "lastOpenFiles": [
-    "CURSO-ZETTELKASTEN/OBSIDIAN/8. Mapas de Conteúdo.md",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/9. O Método Zettelkasten.md",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/7. Organizando suas anotações.md",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/6. Uma introdução ao Markdown.md",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/5. Uma introdução aos links.md",
+    "OSINT-CASES/Pesquisa/Identificar fontes de dados abertos relevantes..md",
+    "OSINT-CASES/Pesquisa/Escopo da Pesquisa.md",
+    "CURSO-ZETTELKASTEN/LINKS.md",
+    "OSINT-CASES/Sem título.md",
+    "Sem título.md",
+    "TEMPLATES/Meeting.md",
+    "Sem título 1.md",
+    "OSINT-CASES/Pesquisa/Verificar Ferramentas.md",
+    "OSINT-CASES/KANBAN.md",
+    "OSINT-CASES/Planejar etapas de coleta e análise de dados..md",
+    "TEMPLATES",
+    "04-03-2025.md",
+    "02-03-2025.md",
+    "CURSO-ZETTELKASTEN/PLUGINS LIST.md",
+    "CURSO-ZETTELKASTEN/Untitled Kanban 1.md",
+    "CURSO-ZETTELKASTEN/Untitled Kanban.md",
+    "OSINT-CASES/Untitled Kanban.md",
+    "kanban-templates/Board Kanban para Pesquisas OSINT.md",
+    "attachments/Pasted image 20250302233639.png",
+    "kanban-templates/new kaban Note.md",
+    "kanban-templates/Analise.md",
+    "kanban-templates/Untitled.md",
+    "kanban-templates/1. Definir objetivos e escopo da pesquisa..md",
     "README.md",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/4. Crie sua primeira nota.md",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/3. Introdução às notas de obsidiana.md",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/2. O Obsidian é gratuito?.md",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/1. Posso usar Obsidian?.md",
-    "CURSO-ZETTELKASTEN/1 Conteúdo Programático/Conteúdo Programático.md",
-    "CURSO-ZETTELKASTEN/OBSIDIAN",
-    "CURSO-OBSIDIAN/TESTE API.md",
-    "CURSO-OBSIDIAN/media/file_67391.jpeg.md",
-    "CURSO-OBSIDIAN/media/file_67391.jpeg",
-    "CURSO-OBSIDIAN/media/file_63898.jpeg.md",
-    "CURSO-OBSIDIAN/media/file_63898.jpeg",
-    "CURSO-OBSIDIAN/media/file_02273.jpeg.md",
-    "CURSO-OBSIDIAN/media/file_02273.jpeg",
-    "CURSO-OBSIDIAN/media/file_31733.jpeg.md",
-    "CURSO-OBSIDIAN/media/file_31733.jpeg",
-    "CURSO-OBSIDIAN/media/file_19399.jpeg.md",
-    "CURSO-OBSIDIAN/media/file_19399.jpeg",
-    "CURSO-OBSIDIAN/media/file_39411.jpeg.md",
-    "CURSO-OBSIDIAN/media/file_39411.jpeg",
-    "CURSO-OBSIDIAN/media",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Nota 1d Conclusão.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Temas das Músicas.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Nota 1c Impacto Cultural.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso/Nota 1b Conexões Temáticas.md",
-    "attachments/Pasted image 20250301214722.png",
-    "attachments/Pasted image 20250301214249.png",
-    "CURSO-ZETTELKASTEN/Images/image.png",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/9. RESUMO - Tópicos Principais e Ideias Centrais.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/8. Estudo de caso.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/estudo-de-caso",
+    "OSINT-CASES/Pesquisa",
+    "attachments/Pasted image 20250302231732.png",
+    "OSINT-CASES/Create a note.md",
+    "OSINT-CASES",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/9. O Método Zettelkasten.md",
+    "kanban-templates/Untitled Kanban.md",
+    "CURSO-ZETTELKASTEN/Criar lista de URL para Pesquisa.md",
+    "kanban-templates",
     "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/image 2.png",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas",
-    "Tipos de Notas 1aaafbce366a80e1a7b1f38221196338",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/zetelkastten-digital",
-    "CURSO-ZETTELKASTEN/Images",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/principios-notas-inteligentes",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/image 1.png",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/image.png",
+    "CURSO-ZETTELKASTEN/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Untitled",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/principios-notas-inteligentes/Untitled",
+    "Untitled.canvas",
+    "attachments/Pasted image 20250302192336.png",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/Dataview",
+    "CURSO-ZETTELKASTEN/OBSIDIAN/Mapas de conteudo",
+    "CURSO-ZETTELKASTEN/OBSIDIAN",
+    "CURSO-OBSIDIAN/media/file_67391.jpeg",
+    "CURSO-OBSIDIAN/media/file_63898.jpeg",
+    "CURSO-OBSIDIAN/media/file_02273.jpeg",
+    "CURSO-OBSIDIAN/media",
     "CANVA.canvas",
     "CURSO-OBSIDIAN/inbox/Artigos/CANVAS-ARTICLES.canvas"
   ]
