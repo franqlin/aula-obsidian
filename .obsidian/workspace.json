@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/Planejar etapas de coleta e análise de dados..md",
+                "file": "OSINT-CASES/Ferramentas OSINT por Tipo/Ferramentas OSINT por Tipo.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Planejar etapas de coleta e análise de dados."
+              "title": "Ferramentas OSINT por Tipo"
+            }
+          },
+          {
+            "id": "25389c15509cc3d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSINT-CASES/Pesquisa/Verificar Ferramentas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Verificar Ferramentas"
+            }
+          },
+          {
+            "id": "0a7dcab5dd96fdb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSINT-CASES/Ferramentas OSINT por Tipo/Busca de Pessoas e Informações Pessoais.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Busca de Pessoas e Informações Pessoais"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[autor: Franqlin Soares]",
+                "query": "tag:#Busca",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/Planejar etapas de coleta e análise de dados..md",
+                "file": "OSINT-CASES/Pesquisa/Verificar Ferramentas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Planejar etapas de coleta e análise de dados."
+              "title": "Sumário de Verificar Ferramentas"
             }
           },
           {
@@ -224,39 +273,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f760b737a67425d",
+  "active": "25389c15509cc3d2",
   "lastOpenFiles": [
     "OSINT-CASES/Pesquisa/Identificar fontes de dados abertos relevantes..md",
     "OSINT-CASES/Pesquisa/Escopo da Pesquisa.md",
+    "OSINT-CASES/Ferramentas OSINT por Tipo/Geolocalização e Mapeamento.md",
+    "OSINT-CASES/Ferramentas OSINT por Tipo/Ferramentas OSINT por Tipo.md",
+    "OSINT-CASES/Ferramentas OSINT por Tipo/Busca de Pessoas e Informações Pessoais.md",
+    "OSINT-CASES/Planejar etapas de coleta e análise de dados..md",
+    "OSINT-CASES/Ferramentas OSINT por Tipo/Sem título 1.md",
+    "OSINT-CASES/Pesquisa/Verificar Ferramentas.md",
+    "OSINT-CASES/KANBAN.md",
+    "OSINT-CASES/Ferramentas OSINT por Tipo/Sem título.md",
+    "OSINT-CASES/Ferramentas OSINT por Tipo",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/5. Zettelkasten Digital.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/6. Tipos de Notas.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/PAPEL X DIGITAL.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Atualizações Dinâmicas.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Leitura Digital vs. Leitura em Papel.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Notas de Literatura (Literature Notes).md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Notas Passageiras (Fleeting Notes).md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Notas permanentes (Permanent notes).md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/O Que escrever nas notas.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Condensação de Passagens.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/Estrutura de Notas.md",
+    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/Criação de Notas Permanentes 1aaafbce366a80d4b2bbd652fa7276b0.md",
     "CURSO-ZETTELKASTEN/LINKS.md",
     "OSINT-CASES/Sem título.md",
     "Sem título.md",
     "TEMPLATES/Meeting.md",
-    "Sem título 1.md",
-    "OSINT-CASES/Pesquisa/Verificar Ferramentas.md",
-    "OSINT-CASES/KANBAN.md",
-    "OSINT-CASES/Planejar etapas de coleta e análise de dados..md",
     "TEMPLATES",
-    "04-03-2025.md",
-    "02-03-2025.md",
-    "CURSO-ZETTELKASTEN/PLUGINS LIST.md",
-    "CURSO-ZETTELKASTEN/Untitled Kanban 1.md",
-    "CURSO-ZETTELKASTEN/Untitled Kanban.md",
-    "OSINT-CASES/Untitled Kanban.md",
-    "kanban-templates/Board Kanban para Pesquisas OSINT.md",
     "attachments/Pasted image 20250302233639.png",
-    "kanban-templates/new kaban Note.md",
-    "kanban-templates/Analise.md",
-    "kanban-templates/Untitled.md",
-    "kanban-templates/1. Definir objetivos e escopo da pesquisa..md",
-    "README.md",
     "OSINT-CASES/Pesquisa",
     "attachments/Pasted image 20250302231732.png",
-    "OSINT-CASES/Create a note.md",
     "OSINT-CASES",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/9. O Método Zettelkasten.md",
-    "kanban-templates/Untitled Kanban.md",
-    "CURSO-ZETTELKASTEN/Criar lista de URL para Pesquisa.md",
     "kanban-templates",
     "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/image 2.png",
     "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/image 1.png",
@@ -272,7 +322,6 @@
     "CURSO-OBSIDIAN/media/file_67391.jpeg",
     "CURSO-OBSIDIAN/media/file_63898.jpeg",
     "CURSO-OBSIDIAN/media/file_02273.jpeg",
-    "CURSO-OBSIDIAN/media",
     "CANVA.canvas",
     "CURSO-OBSIDIAN/inbox/Artigos/CANVAS-ARTICLES.canvas"
   ]
