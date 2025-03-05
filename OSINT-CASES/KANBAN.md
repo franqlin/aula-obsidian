@@ -20,22 +20,22 @@ kanban-plugin: board
 
 ## DOING (2)
 
-**Complete**
 - [x] 6. Coletar dados de redes sociais e fóruns.
 - [x] [[Planejar etapas de coleta e análise de dados.]]
 
 
 ## DONE
 
-
-
-***
-
-## Archive
-
 - [x] [[Escopo da Pesquisa]] @{03-03-2025} @@{12:15} #youtube
 - [x] [[Identificar fontes de dados abertos relevantes.]]
 - [x] [[Verificar Ferramentas]]
+
+
+## Archive
+
+
+
+
 
 %% kanban:settings
 ```

@@ -1,7 +1,7 @@
 # Nomeclatura de Arquivos
 
 ### **1. Nomear Arquivos com Números de ID Únicos**
-
+#card #card 
 - **O que é**: Atribuir um **número de ID único** (por exemplo, um timestamp como `20250302153912`) que não tem relação com o conteúdo da nota.
 - **Prós**:
     - **Links à prova de falhas**: Alterar o nome da nota não quebra os links existentes.
@@ -12,7 +12,7 @@
 ---
 
 ### **2. Nomear Arquivos com Frases Significativas**
-
+#card 
 - **O que é**: Usar **frases descritivas** que resumem o conteúdo da nota, como `"pacientes com córtex pré-frontal danificado não aprenderam"`.
 - **Prós**:
     - **Contexto imediato**: O nome da nota indica claramente o seu conteúdo, facilitando a busca e a identificação.
@@ -23,7 +23,7 @@
 ---
 
 ### **3. Nomear Arquivos com Folgezettel**
-
+#card 
 - **O que é**: Um sistema complexo de nomenclatura usado por **Niklas Luhmann**, onde cada nota recebe um **ID único codificado** que reflete sua relação hierárquica ou sequencial com outras notas.
 - **Prós**:
     - **Estrutura clara**: Facilita a organização de notas em uma sequência lógica ou hierárquica.
@@ -34,7 +34,7 @@
 
 ---
 
-### **4. Considerações Gerais**
+### **4. Considerações Gerais** #card 
 
 - **Futuro**: Escolha um sistema de nomenclatura que seja **à prova de mudanças**, caso o foco da nota evolua.
 - **Eficiência**: O sistema deve facilitar a **criação de novas notas** e a **recuperação de notas antigas**.
