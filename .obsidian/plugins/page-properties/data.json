@@ -1,0 +1,20 @@
+{
+  "fieldsAreInnerLinks": false,
+  "autolinkPatterns": [
+    {
+      "field": "github",
+      "prefix": "https://github.com/{0}"
+    },
+    {
+      "field": "wiki",
+      "prefix": "https://wikipedia.org/wiki/{0}"
+    },
+    {
+      "field": "twitter",
+      "prefix": "https://twitter.com/{0}"
+    }
+  ],
+  "hideInReaderMode": [
+    "public"
+  ]
+}

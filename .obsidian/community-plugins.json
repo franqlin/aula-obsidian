@@ -10,5 +10,13 @@
   "obsidian-mind-map",
   "obsidian-kanban",
   "page-properties",
-  "templater-obsidian"
+  "templater-obsidian",
+  "convert-url-to-iframe",
+  "media-notes",
+  "surfing",
+  "media-sync",
+  "api-request",
+  "slides-extended",
+  "mermaid-tools",
+  "mermaid-themes"
 ]

@@ -6,15 +6,28 @@
       {
         "id": "2f9e64c4a428172e",
         "type": "tabs",
+        "dimension": 51.372315035799524,
         "children": [
           {
             "id": "6f760b737a67425d",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/image 1.png"
+              },
+              "icon": "lucide-image",
+              "title": "image 1"
+            }
+          },
+          {
+            "id": "7b6b00b246fe4a3a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT por Tipo/Ferramentas OSINT por Tipo.md",
-                "mode": "source",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,59 +41,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ferramentas OSINT por Tipo"
-            }
-          },
-          {
-            "id": "25389c15509cc3d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT-CASES/Pesquisa/Verificar Ferramentas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Verificar Ferramentas"
-            }
-          },
-          {
-            "id": "0a7dcab5dd96fdb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT por Tipo/Busca de Pessoas e Informações Pessoais.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Busca de Pessoas e Informações Pessoais"
+              "title": "0.SLIDES"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "81c6780eb7dd7985",
+        "type": "tabs",
+        "dimension": 48.627684964200476,
+        "children": [
+          {
+            "id": "1c74ece6faf6f1c5",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: 0.SLIDES.md"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,12 +114,22 @@
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
+          },
+          {
+            "id": "78c8cca82af39bb1",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 512.5
+    "width": 200
   },
   "right": {
     "id": "07ceb56b031f6880",
@@ -201,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/Pesquisa/Verificar Ferramentas.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Verificar Ferramentas"
+              "title": "Sumário de 0.SLIDES"
             }
           },
           {
@@ -249,13 +241,23 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "d6ee26905bc644b2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 584.5,
+    "width": 577.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -270,58 +272,62 @@
       "juggl:Juggl global graph": false,
       "odysseus-plugin:Odysseus::Enquecimento de Mídia\"": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "media-sync:Media sync": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false,
+      "slides-extended:Show slide preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "25389c15509cc3d2",
+  "active": "7b6b00b246fe4a3a",
   "lastOpenFiles": [
-    "OSINT-CASES/Pesquisa/Identificar fontes de dados abertos relevantes..md",
-    "OSINT-CASES/Pesquisa/Escopo da Pesquisa.md",
-    "OSINT-CASES/Ferramentas OSINT por Tipo/Geolocalização e Mapeamento.md",
-    "OSINT-CASES/Ferramentas OSINT por Tipo/Ferramentas OSINT por Tipo.md",
+    "attachments/Pasted image 20250305003514.png",
+    "attachments/Pasted image 20250305003407.png",
+    "attachments/Pasted image 20250305003259.png",
+    "attachments/Pasted image 20250305003218.png",
+    "attachments/Pasted image 20250305003136.png",
+    "attachments/Pasted image 20250305003107.png",
+    "attachments/Pasted image 20250305002938.png",
+    "attachments/Pasted image 20250305002850.png",
+    "attachments/Pasted image 20250305002819.png",
+    "attachments/Pasted image 20250305002357.png",
+    "attachments/Pasted image 20250305001315.png",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/Capturando Conhecimento.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/tipos-de-notas/PAPEL X DIGITAL.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/6. Tipos de Notas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/tipos-de-notas/O Que escrever nas notas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/tipos-de-notas/Leitura Digital vs. Leitura em Papel.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/tipos-de-notas/Atualizações Dinâmicas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/tipos-de-notas/Condensação de Passagens.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/tipos-de-notas/Notas de Literatura (Literature Notes).md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/tipos-de-notas/Notas Passageiras (Fleeting Notes).md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/tipos-de-notas/Notas permanentes (Permanent notes).md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/1. Conceitos de Gestão do conhecimento.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/3. Slip-box de Luhmann.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/5. Zettelkasten Digital.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/4. How to Take Smart Notes.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/1. Introdução.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/2. As Origens do Método Zettelkasten.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/Estrutura Básica de Pastas para Zettelkasten no Obsidian.md",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação",
+    "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/Zettelkasten na prática.md",
+    "CURSO-ZETTELKASTEN/INBOX/PLUGINS LIST.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES",
     "OSINT-CASES/Ferramentas OSINT por Tipo/Busca de Pessoas e Informações Pessoais.md",
-    "OSINT-CASES/Planejar etapas de coleta e análise de dados..md",
-    "OSINT-CASES/Ferramentas OSINT por Tipo/Sem título 1.md",
-    "OSINT-CASES/Pesquisa/Verificar Ferramentas.md",
-    "OSINT-CASES/KANBAN.md",
-    "OSINT-CASES/Ferramentas OSINT por Tipo/Sem título.md",
-    "OSINT-CASES/Ferramentas OSINT por Tipo",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/5. Zettelkasten Digital.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/6. Tipos de Notas.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/PAPEL X DIGITAL.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Atualizações Dinâmicas.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Leitura Digital vs. Leitura em Papel.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Notas de Literatura (Literature Notes).md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Notas Passageiras (Fleeting Notes).md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Notas permanentes (Permanent notes).md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/O Que escrever nas notas.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Condensação de Passagens.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/Estrutura de Notas.md",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/Criação de Notas Permanentes 1aaafbce366a80d4b2bbd652fa7276b0.md",
-    "CURSO-ZETTELKASTEN/LINKS.md",
-    "OSINT-CASES/Sem título.md",
-    "Sem título.md",
-    "TEMPLATES/Meeting.md",
-    "TEMPLATES",
-    "attachments/Pasted image 20250302233639.png",
-    "OSINT-CASES/Pesquisa",
-    "attachments/Pasted image 20250302231732.png",
-    "OSINT-CASES",
-    "kanban-templates",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/image 2.png",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/image 1.png",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/editar-notas/image.png",
-    "CURSO-ZETTELKASTEN/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/tipos-de-notas/Untitled",
-    "CURSO-ZETTELKASTEN/Conceitos Básicos/principios-notas-inteligentes/Untitled",
+    "CURSO-ZETTELKASTEN/REFERENCIAS",
+    "CURSO-ZETTELKASTEN/INBOX",
+    "FRANCES/ARQUIVO",
+    "FRANCES/PROJETOS",
+    "FRANCES/TEMPLATES",
+    "FRANCES/REFERENCIAS",
+    "FRANCES/NOTAS PERMANENTES",
+    "FRANCES/INBOX",
     "Untitled.canvas",
-    "attachments/Pasted image 20250302192336.png",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/Dataview",
-    "CURSO-ZETTELKASTEN/OBSIDIAN/Mapas de conteudo",
-    "CURSO-ZETTELKASTEN/OBSIDIAN",
-    "CURSO-OBSIDIAN/media/file_67391.jpeg",
-    "CURSO-OBSIDIAN/media/file_63898.jpeg",
-    "CURSO-OBSIDIAN/media/file_02273.jpeg",
     "CANVA.canvas",
     "CURSO-OBSIDIAN/inbox/Artigos/CANVAS-ARTICLES.canvas"
   ]
