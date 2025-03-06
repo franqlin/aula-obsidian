@@ -1,0 +1,2 @@
+- [Buscar Informações de Instituições de Ensino Superior](https://emec.mec.gov.br/emec/nova#avancada)
+- [Busca Textual - CNPq](https://buscatextual.cnpq.br/buscatextual/busca.do?metodo=apresentar)

@@ -1,0 +1,2 @@
+- [Cadastro Nacional de Estabelecimentos de Saúde](https://cnes.datasus.gov.br/)
+- [Fundo Nacional de Saúde (FNS)](https://consultafns.saude.gov.br/#/consolidada)

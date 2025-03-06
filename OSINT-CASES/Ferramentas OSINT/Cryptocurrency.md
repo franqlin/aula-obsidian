@@ -1,0 +1,7 @@
+- [Bitcoin Who's Who](https://bitcoinwhoswho.com/)
+- [Binance](https://www.binance.com/en)
+- [Blockchain Explorer](https://www.blockchain.com/explorer)
+- [Cryptocurrency OSINT](https://start.me/p/ek4rxK/cryptocurrency-osint?ref=csilinux)
+- [Legit Bitcoin](https://www.bitcoinwhoswho.com/legitbitcoin/)
+- [Blocks](http://blocks.loki/)
+- [Oxen](http://oxen.loki/)

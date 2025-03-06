@@ -1,6 +1,7 @@
 <iframe title="Como usar o zettelkasten na prática" src="https://www.youtube.com/embed/00L6A4tVvCA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 
+
 <iframe title="Como Usar o OBSIDIAN Com DATAVIEW | Tutorial OBSIDIAN para INICIANTES 🚀" src="https://www.youtube.com/embed/AfsTBr0ENNs?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
 
 

@@ -1,0 +1,6 @@
+- [Gralhix](https://gralhix.wordpress.com/?ref=csilinux)
+- [ORNL Digital Twin](https://www.ornl.gov/news/ornls-simulation-tool-creates-digital-twin-buildings-coast-coast)
+- [Virtual Vacation](https://virtualvacation.us/guess)
+- [Geotastic](https://geotastic.net/home)
+- [GetLost Game](https://getlostgame.app/)
+- [Seterra](https://www.geoguessr.com/seterra/en)

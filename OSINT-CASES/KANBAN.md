@@ -6,7 +6,12 @@ kanban-plugin: board
 
 ## DO
 
+- [x] [[Escopo da Pesquisa]] @{03-03-2025} @@{12:15} #youtube
+- [x] [[Planejar etapas de coleta e análise de dados.]]
+- [x] [[Identificar fontes de dados abertos relevantes.]]
+- [x] [[Verificar Ferramentas]]
 - [ ] 5. Coletar informações iniciais sobre o alvo.
+- [x] 6. Coletar dados de redes sociais e fóruns.
 - [ ] 7. Analisar metadados de documentos públicos.
 - [ ] 8. Verificar informações em bases de dados abertas.
 - [ ] 9. Monitorar atividades online relacionadas ao alvo.
@@ -20,15 +25,10 @@ kanban-plugin: board
 
 ## DOING (2)
 
-- [x] 6. Coletar dados de redes sociais e fóruns.
-- [x] [[Planejar etapas de coleta e análise de dados.]]
 
 
 ## DONE
 
-- [x] [[Escopo da Pesquisa]] @{03-03-2025} @@{12:15} #youtube
-- [x] [[Identificar fontes de dados abertos relevantes.]]
-- [x] [[Verificar Ferramentas]]
 
 
 ## Archive
