@@ -18,5 +18,10 @@
   "api-request",
   "slides-extended",
   "mermaid-tools",
-  "mermaid-themes"
+  "mermaid-themes",
+  "slide-note",
+  "marp",
+  "flashcards-obsidian",
+  "canvas-presentation",
+  "note-refactor-obsidian"
 ]

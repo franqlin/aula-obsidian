@@ -10,7 +10,7 @@
   "enableTimeBar": false,
   "theme": "black",
   "highlightTheme": "zenburn.css",
-  "transition": "zoom",
+  "transition": "convex",
   "transitionSpeed": "fast",
   "controls": true,
   "progress": true,

@@ -14,5 +14,50 @@
       ],
       "key": "M"
     }
+  ],
+  "canvas-presentation:mark-slide-number": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "C"
+    }
+  ],
+  "canvas-presentation:next-slide": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "canvas-presentation:previous-slide": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "canvas-presentation:next-group-in-viewport": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "."
+    }
+  ],
+  "canvas-presentation:previous-group-in-viewport": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": ","
+    }
   ]
 }
