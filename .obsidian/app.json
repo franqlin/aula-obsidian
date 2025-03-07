@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "newFileFolderPath": "CURSO-OBSIDIAN/journal",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "vimMode": false
 }
