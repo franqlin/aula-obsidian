@@ -1,5 +1,5 @@
 {
-  "fieldsAreInnerLinks": false,
+  "fieldsAreInnerLinks": true,
   "autolinkPatterns": [
     {
       "field": "github",
