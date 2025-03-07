@@ -33,8 +33,8 @@
       "model_key": "None"
     },
     "language": "en",
-    "review_context": false,
+    "review_context": true,
     "lookup_limit": "10",
-    "send_tool_output_in_user_message": false
+    "send_tool_output_in_user_message": true
   }
 }
