@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Temas das Músicas - Nota Central"
+              "title": "2. Como escrever notas inteligentes"
             }
           }
         ]
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 352
   },
   "right": {
     "id": "07ceb56b031f6880",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Temas das Músicas - Nota Central"
+              "title": "Links inversos para 2. Como escrever notas inteligentes"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Temas das Músicas - Nota Central"
+              "title": "Links de saída para 2. Como escrever notas inteligentes"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Temas das Músicas - Nota Central"
+              "title": "Sumário de 2. Como escrever notas inteligentes"
             }
           },
           {
@@ -206,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 577.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,33 +234,34 @@
   },
   "active": "d9cc0ccd6e53d49c",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/3. Slip-box de Luhmann.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/4. How to Take Smart Notes.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/5. Zettelkasten Digital.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/Zettelkasten na prática.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/9. RESUMO - Tópicos Principais e Ideias Centrais.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/8. Estudo de caso.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/7. Editar notas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/image.png",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/5.2 Análise e resumo do conteúdo fornecido.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/5.1 Links vs Tags.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/PASTAS-ZETELLKASTEN/Estrutura Básica de Pastas para Zettelkasten no Obsidian.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas.md",
     "18-03-2025.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/PASTAS-ZETELLKASTEN/Estrutura Básica de Pastas para Zettelkasten no Obsidian.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/1. Conceitos de Gestão do conhecimento.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/7. Editar notas.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/6. Tipos de Notas.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Impacto Cultural.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/8. Estudo de caso.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1b Conexões Temáticas.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1c Impacto Cultural.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1d Conclusão.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/3. Exemplo - DATAVIEW.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/3. O que é um jardim digital.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/2. O que são Mapas de Conteúdo.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/2. O Obsidian é gratuito.md",
-    "OSINT-CASES/Ferramentas OSINT/License & VReg.md",
     "OSINT-CASES/CASOS/CASO-001",
-    "OSINT-CASES/Ferramentas OSINT/Email.md",
-    "OSINT-CASES/Ferramentas OSINT/Documentos e Casos Judiciais.md",
-    "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
-    "OSINT-CASES/Ferramentas OSINT/Countries.md",
-    "OSINT-CASES/Ferramentas OSINT/Consulta de Processos.md",
-    "OSINT-CASES/Ferramentas OSINT/Busca de Pessoas e Informações Pessoais.md",
     "OSINT-CASES/NOTAS/Locais",
     "OSINT-CASES/NOTAS/EVENTOS",
     "OSINT-CASES/NOTAS/PESSOAS",
@@ -279,7 +281,6 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image.png",
-    "attachments/Pasted image 20250301214722.png",
     "Untitled.canvas",
     "CANVA.canvas",
     "CURSO-OBSIDIAN/inbox/Artigos/CANVAS-ARTICLES.canvas"
