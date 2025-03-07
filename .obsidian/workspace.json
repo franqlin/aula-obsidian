@@ -6,17 +6,68 @@
       {
         "id": "ef521f9369e80adf",
         "type": "tabs",
+        "dimension": 30.05249343832021,
         "children": [
           {
             "id": "f8961a81f863c1c9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png"
+                "file": "OSINT-CASES/Ferramentas OSINT/GEOINT.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Turbinar_a_Inteligncia"
+              "icon": "lucide-file",
+              "title": "GEOINT"
+            }
+          }
+        ]
+      },
+      {
+        "id": "51f6d4d6054cc65f",
+        "type": "tabs",
+        "dimension": 36.61417322834646,
+        "children": [
+          {
+            "id": "b5fa3679d08e2bd5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://spectrummonitoring.com/frequencies/"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Global Mobile Frequencies Database by Spectrummonitoring.com"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6bfee8c0ac282eaa",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "4bf99e64f0a5d4ff",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: 0.SLIDES.md"
             }
           }
         ]
@@ -102,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
+                "file": "OSINT-CASES/Ferramentas OSINT/GEOINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Turbinar_a_Inteligncia"
+              "title": "Links inversos para GEOINT"
             }
           },
           {
@@ -121,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
+                "file": "OSINT-CASES/Ferramentas OSINT/GEOINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Turbinar_a_Inteligncia"
+              "title": "Links de saída para GEOINT"
             }
           },
           {
@@ -150,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
+                "file": "OSINT-CASES/Ferramentas OSINT/GEOINT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Turbinar_a_Inteligncia"
+              "title": "Sumário de GEOINT"
             }
           },
           {
@@ -254,6 +305,23 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
+    "OSINT-CASES/Ferramentas OSINT/Flight Tracker.md",
+    "OSINT-CASES/Ferramentas OSINT/Estação Rádio Base - ERBs.md",
+    "OSINT-CASES/Ferramentas OSINT/Email.md",
+    "OSINT-CASES/Ferramentas OSINT/Domain Info.md",
+    "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
+    "OSINT-CASES/Ferramentas OSINT/Countries.md",
+    "OSINT-CASES/Ferramentas OSINT/Consulta de Processos.md",
+    "OSINT-CASES/Ferramentas OSINT/Busca de Pessoas e Informações Pessoais.md",
+    "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
+    "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image.png",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Estrutura de Notas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Criação de Notas Permanentes 1aaafbce366a80d4b2bbd652fa7276b0.md",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/WIKI-LUHMANN.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
@@ -267,20 +335,7 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/5. Zettelkasten Digital.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/Zettelkasten na prática.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/9. RESUMO - Tópicos Principais e Ideias Centrais.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/8. Estudo de caso.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/7. Editar notas.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/image.png",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/5.2 Análise e resumo do conteúdo fornecido.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/5.1 Links vs Tags.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/PASTAS-ZETELLKASTEN/Estrutura Básica de Pastas para Zettelkasten no Obsidian.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/1. Conceitos de Gestão do conhecimento.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/6. Tipos de Notas.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Impacto Cultural.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
     "OSINT-CASES/CASOS/CASO-001",
     "OSINT-CASES/NOTAS/Locais",
     "OSINT-CASES/NOTAS/EVENTOS",
@@ -296,11 +351,7 @@
     "attachments/Pasted image 20250305141257.png",
     "attachments/Pasted image 20250305141155.png",
     "attachments/Pasted image 20250305140734.png",
-    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
     "attachments/Pasted image 20250305131739.png",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image.png",
     "Untitled.canvas",
     "CANVA.canvas",
     "CURSO-OBSIDIAN/inbox/Artigos/CANVAS-ARTICLES.canvas"
