@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/License & VReg.md",
+                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "License & VReg"
+              "title": "GIT"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/License & VReg.md",
+                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de License & VReg"
+              "title": "Sumário de GIT"
             }
           },
           {
@@ -272,15 +272,16 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "slide-note:Slide Note Block Generator": false,
       "marp:Marp: Open Preview": false,
-      "remotely-save:Remotely Save": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db7fa5c6913b86b4",
+  "active": "fa411bb83137ff63",
   "lastOpenFiles": [
-    "OSINT-CASES/CASOS/CASO-001",
     "OSINT-CASES/Ferramentas OSINT/License & VReg.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+    "OSINT-CASES/CASOS/CASO-001",
     "OSINT-CASES/Ferramentas OSINT/Email.md",
     "OSINT-CASES/Ferramentas OSINT/Documentos e Casos Judiciais.md",
     "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
@@ -315,7 +316,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias",
     "OSINT-CASES/Fontes/Mídia/Sem título",
     "OSINT-CASES/FONTES/Mídia",
-    "OSINT-CASES/FONTES/Fechada",
     "attachments/Pasted image 20250305143027.png",
     "attachments/Pasted image 20250305141257.png",
     "attachments/Pasted image 20250305141155.png",
