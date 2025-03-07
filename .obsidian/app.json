@@ -10,5 +10,9 @@
   "newFileLocation": "current",
   "newFileFolderPath": "CURSO-OBSIDIAN/journal",
   "propertiesInDocument": "visible",
-  "vimMode": false
+  "vimMode": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "useMarkdownLinks": false
 }

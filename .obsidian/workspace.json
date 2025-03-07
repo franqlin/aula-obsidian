@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
-                "mode": "source",
-                "source": false,
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Impacto Cultural.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
-                  "showSearch": false,
+                  "showSearch": true,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Nota 1a Estrutura Musical"
+              "title": "Impacto Cultural"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Impacto Cultural.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Nota 1a Estrutura Musical"
+              "title": "Sumário de Impacto Cultural"
             }
           },
           {
@@ -254,6 +254,12 @@
   },
   "active": "e6ae6bde206be0d9",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1b Conexões Temáticas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1c Impacto Cultural.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1d Conclusão.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas - Nota Central.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Impacto Cultural.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/3. Exemplo - DATAVIEW.md",
@@ -275,12 +281,6 @@
     "OSINT-CASES/Ferramentas OSINT/Pessoas Desaparecidas.md",
     "OSINT-CASES/Ferramentas OSINT/Motores de Busca Contexto Brasil.md",
     "OSINT-CASES/Ferramentas OSINT/Mapas e Georreferenciamento.md",
-    "OSINT-CASES/Ferramentas OSINT/Geolocalização e Mapeamento.md",
-    "OSINT-CASES/Ferramentas OSINT/GEOINT.md",
-    "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
-    "OSINT-CASES/Ferramentas OSINT/Telecom.md",
-    "OSINT-CASES/Ferramentas OSINT/Social Media.md",
-    "OSINT-CASES/Ferramentas OSINT/Messaging.md",
     "OSINT-CASES/NOTAS/Locais",
     "OSINT-CASES/NOTAS/EVENTOS",
     "OSINT-CASES/NOTAS/PESSOAS",
