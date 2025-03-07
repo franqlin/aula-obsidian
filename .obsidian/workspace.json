@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2. Como usar o Dataview"
-            }
-          },
-          {
-            "id": "fa411bb83137ff63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/3. Exemplo - DATAVIEW.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "3. Exemplo - DATAVIEW"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/3. Exemplo - DATAVIEW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de GIT"
+              "title": "Sumário de 3. Exemplo - DATAVIEW"
             }
           },
           {
@@ -277,13 +252,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa411bb83137ff63",
+  "active": "e6ae6bde206be0d9",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/3. O que é um jardim digital.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/2. O que são Mapas de Conteúdo.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/2. O Obsidian é gratuito.md",
     "OSINT-CASES/Ferramentas OSINT/License & VReg.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "OSINT-CASES/CASOS/CASO-001",
     "OSINT-CASES/Ferramentas OSINT/Email.md",
     "OSINT-CASES/Ferramentas OSINT/Documentos e Casos Judiciais.md",
@@ -305,7 +281,6 @@
     "OSINT-CASES/Ferramentas OSINT/Messaging.md",
     "OSINT-CASES/Ferramentas OSINT/Leaks.md",
     "OSINT-CASES/Ferramentas OSINT/Informações Acadêmicas.md",
-    "OSINT-CASES/Ferramentas OSINT/Images and Video.md",
     "OSINT-CASES/NOTAS/Locais",
     "OSINT-CASES/NOTAS/EVENTOS",
     "OSINT-CASES/NOTAS/PESSOAS",
