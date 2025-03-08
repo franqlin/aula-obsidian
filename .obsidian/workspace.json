@@ -6,7 +6,7 @@
       {
         "id": "ef521f9369e80adf",
         "type": "tabs",
-        "dimension": 60.1,
+        "dimension": 50,
         "children": [
           {
             "id": "f8961a81f863c1c9",
@@ -27,18 +27,18 @@
         ]
       },
       {
-        "id": "6bfee8c0ac282eaa",
+        "id": "f2230634b16cc658",
         "type": "tabs",
-        "dimension": 39.9,
+        "dimension": 50,
         "children": [
           {
-            "id": "4bf99e64f0a5d4ff",
+            "id": "4d92ecefc33947e9",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
               "state": {},
               "icon": "slides",
-              "title": "Preview: 0.SLIDES.md"
+              "title": "Preview: Board Kanban para Pesquisas OSINT.md"
             }
           }
         ]
@@ -227,8 +227,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           },
           {
@@ -237,8 +237,8 @@
             "state": {
               "type": "smart-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Smart Chat"
+              "icon": "lucide-file",
+              "title": "Plugin desativado"
             }
           }
         ],
@@ -260,7 +260,6 @@
       "obsidian-kanban:Criar um novo quadro": false,
       "juggl:Juggl global graph": false,
       "odysseus-plugin:Odysseus::Enquecimento de Mídia\"": false,
-      "templater-obsidian:Templater": false,
       "media-sync:Media sync": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
       "slides-extended:Show slide preview": false,
@@ -268,13 +267,13 @@
       "slide-note:Slide Note Block Generator": false,
       "marp:Marp: Open Preview": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8961a81f863c1c9",
+  "active": "4d92ecefc33947e9",
   "lastOpenFiles": [
     "OSINT-CASES/Ferramentas OSINT/Leaks.md",
     "OSINT-CASES/Ferramentas OSINT/GEOINT.md",
