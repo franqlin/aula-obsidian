@@ -1,0 +1,6 @@
+- **Título:** Sinergia entre Conhecimento e Investigação
+- **Conteúdo:**
+  - Usar o Obsidian para organizar informações coletadas via OSINT.
+  - Aplicar o método Zettelkasten para conectar insights e descobertas.
+  - Exemplo prático: investigar um tópico e criar um grafo de conhecimento no Obsidian.
+- **Imagem:** Exemplo de grafo no Obsidian com dados OSINT.
