@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+                "file": "MORIN-ZETTEL-KASTEN/INBOX/Sem título.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LINKS"
+              "title": "Sem título"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+                "file": "MORIN-ZETTEL-KASTEN/INBOX/Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de LINKS"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -289,6 +289,10 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+    "MORIN-ZETTEL-KASTEN/INBOX/Sem título.md",
+    "MORIN-ZETTEL-KASTEN/INBOX",
+    "MORIN-ZETTEL-KASTEN",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 - O que é Zettelkasten?.md",
@@ -304,7 +308,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE5/Slide 5 - O que é OSINT?.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Proposta.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/O modelo de Luhmann.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/Zettelkasten na prática.md",
@@ -328,8 +331,6 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image.png",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/image.png",
-    "OSINT-CASES/CASOS/CASO-001",
-    "OSINT-CASES/NOTAS/Locais",
     "attachments/Pasted image 20250305143027.png",
     "attachments/Pasted image 20250305141257.png",
     "attachments/Pasted image 20250305141155.png",
