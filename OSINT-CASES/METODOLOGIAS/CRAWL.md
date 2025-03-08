@@ -1,3 +1,6 @@
+```mermaid
+A[Comunicar(communicate)]-->B[Pesquisar(Re)]
+```
 A metodologia **CRAWL** é um modelo estruturado usado para conduzir investigações de due diligence, garantindo ética, precisão e eficiência. Criada por Cynthia Hetherington, a abordagem é composta por cinco etapas principais:
 
 1. **Comunicar (Communicate)**: O primeiro passo é estabelecer uma comunicação clara com o cliente, definindo os limites e objetivos da investigação. Isso inclui explicar o que será feito, o que não será feito e garantir que o cliente compreenda as limitações legais e éticas do processo.
