@@ -7,3 +7,6 @@
 - **Subtítulo:** Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas
     
 - **Imagem de fundo:** Uma imagem minimalista ou relacionada a tecnologia/conhecimento
+
+
+[[Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas]]
