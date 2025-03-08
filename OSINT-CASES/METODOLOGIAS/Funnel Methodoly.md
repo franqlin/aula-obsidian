@@ -1,0 +1,3 @@
+```mermaid
+graph TD classDef stage fill:#2E86C1,stroke:#1B4F72,color:white classDef analysis fill:#28B463,stroke:#1D8348,color:white A[STAGE 1\nBusca Avançada Google\n<small>Ferramentas: Bing, Yandex</small>] --> B[STAGE 2\nFerramentas OSINT\n<small>Sherlock, Maigret, Ghunt</small>] B --> C[STAGE 3\nRedes Sociais & Fóruns\n<small>Análise de atividades sociais</small>] C --> D[STAGE 4\nVazamentos de Dados\n<small>HIBP, Dehashed, Snusbase</small>] D --> E[STAGE 5\nDark Web\n<small>Requer acesso Tor</small>] note[Processamento & Análise de Dados\nCross-correlação de informações]:::analysis A & B & C & D & E --> note class A,B,C,D,E stage class note analysis
+```

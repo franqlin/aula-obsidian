@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👩‍🔬",
       "LiInbox",
       "LiLandmark",
       "LiPhoneMissed",
-      "LiInstagram",
-      "LiAlignVerticalSpaceAround"
+      "LiInstagram"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -104,5 +104,6 @@
   "OSINT-CASES/Ferramentas OSINT/Social Media.md": "LiInstagram",
   "OSINT-CASES/Ferramentas OSINT/Telecom.md": "LiPhoneMissed",
   "OSINT-CASES/Ferramentas OSINT/Tor.md": "LiLandmark",
-  "MORIN-ZETTEL-KASTEN/INBOX": "LiInbox"
+  "MORIN-ZETTEL-KASTEN/INBOX": "LiInbox",
+  "OSINT-CASES/METODOLOGIAS": "👩‍🔬"
 }

@@ -11,20 +11,24 @@
             "id": "f8961a81f863c1c9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/KANBAN.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
+                "file": "OSINT-CASES/METODOLOGIAS/Funnel Methodoly.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "KANBAN"
+              "icon": "lucide-file",
+              "title": "Funnel Methodoly"
             }
           },
           {
@@ -182,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/KANBAN.md",
+                "file": "OSINT-CASES/METODOLOGIAS/Funnel Methodoly.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de KANBAN"
+              "title": "Sumário de Funnel Methodoly"
             }
           },
           {
@@ -285,12 +289,15 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
+    "OSINT-CASES/M.md",
+    "OSINT-CASES/METODOLOGIAS/Funnel Methodoly.md",
+    "OSINT-CASES/METODOLOGIAS",
+    "OSINT-CASES/KANBAN.md",
     "OSINT-CASES/Ferramentas OSINT/Documentos e Casos Judiciais.md",
     "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
     "OSINT-CASES/Ferramentas OSINT/Consulta de Processos.md",
     "OSINT-CASES/Ferramentas OSINT/Busca de Pessoas e Informações Pessoais.md",
     "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
-    "OSINT-CASES/KANBAN.md",
     "OSINT-CASES/Ferramentas OSINT/Countries.md",
     "OSINT-CASES/Ferramentas OSINT/Burner SMS Phones.md",
     "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
@@ -309,8 +316,6 @@
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/1. Mapas de conteúdo - organização sem esforço para notas.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "MORIN-ZETTEL-KASTEN/INBOX",
     "MORIN-ZETTEL-KASTEN",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
@@ -321,7 +326,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image.png",
