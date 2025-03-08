@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/Sinergia entre Conhecimento e Investigaçã.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/OSINT e Zettel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sinergia entre Conhecimento e Investigaçã"
+              "title": "OSINT e Zettel"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/Sinergia entre Conhecimento e Investigaçã.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/OSINT e Zettel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sinergia entre Conhecimento e Investigaçã"
+              "title": "Sumário de OSINT e Zettel"
             }
           },
           {
@@ -289,8 +289,9 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/Sinergia entre Conhecimento e Investigaçã.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/OSINT e Zettel.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE5/Slide 5 - O que é OSINT?.md",
@@ -323,7 +324,6 @@
     "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
     "OSINT-CASES/Ferramentas OSINT/Countries.md",
     "OSINT-CASES/Ferramentas OSINT/Consulta de Processos.md",
-    "OSINT-CASES/Ferramentas OSINT/Busca de Pessoas e Informações Pessoais.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image.png",
