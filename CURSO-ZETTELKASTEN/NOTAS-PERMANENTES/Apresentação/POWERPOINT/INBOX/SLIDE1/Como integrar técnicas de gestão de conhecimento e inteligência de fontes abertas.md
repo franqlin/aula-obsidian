@@ -1,3 +1,4 @@
+#card 
 A integração de técnicas de gestão de conhecimento (KM) e inteligência de fontes abertas (OSINT) pode trazer benefícios significativos para organizações que buscam aprimorar a tomada de decisões, a inovação e a competitividade. Abaixo, apresento um guia estruturado para essa integração:
 
 ### 1. **Definição de Objetivos e Estratégia**

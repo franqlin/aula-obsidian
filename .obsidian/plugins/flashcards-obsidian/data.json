@@ -1,6 +1,6 @@
 {
   "contextAwareMode": true,
-  "sourceSupport": false,
+  "sourceSupport": true,
   "codeHighlightSupport": false,
   "inlineID": false,
   "contextSeparator": " > ",

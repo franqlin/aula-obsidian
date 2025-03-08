@@ -10,7 +10,7 @@ O **Obsidian** é uma ferramenta de anotações baseada em Markdown que permite 
 ---
 
 ### 2. **O que é o método Zettelkasten?**
-#card 
+	#card 
 O **método Zettelkasten** (que significa "caixa de notas" em alemão) é um sistema de organização de conhecimento criado pelo sociólogo Niklas Luhmann. Ele se baseia em:
 
 - **Notas individuais**: Cada ideia ou conceito é registrado em uma nota separada.
@@ -20,22 +20,22 @@ O **método Zettelkasten** (que significa "caixa de notas" em alemão) é um sis
 ---
 
 ### 3. **O que é OSINT?**
-#card 
+	#card 
 **OSINT** (Open Source Intelligence) refere-se à coleta e análise de informações disponíveis publicamente, como dados de redes sociais, sites, fóruns, relatórios governamentais e outras fontes abertas. É amplamente utilizado em áreas como segurança cibernética, inteligência de negócios e investigações.
 
 ---
 
 ### 4. **Como essas ferramentas e conceitos podem ser integrados?**
-#card 
+	#card 
 A integração do Obsidian, método Zettelkasten e OSINT pode criar um sistema robusto para gestão de conhecimento e análise de informações. Aqui estão algumas maneiras de combiná-los:
 
 #### a) **Organização de Dados OSINT com Zettelkasten**
-#card 
+	#card 
 - **Criação de Notas**: Cada informação coletada via OSINT pode ser transformada em uma nota no Obsidian, seguindo o princípio do Zettelkasten.
 - **Ligações Contextuais**: Conecte notas relacionadas para criar uma rede de informações que facilite a análise de padrões e tendências.
 
 #### b) **Análise Estruturada**
-#card 
+	#card 
 - **Tags e Metadados**: Utilize tags e metadados no Obsidian para categorizar informações OSINT (por exemplo, por fonte, tema ou relevância).
 - **Gráficos de Rede**: Use o recurso de gráficos de rede do Obsidian para visualizar conexões entre diferentes dados OSINT, identificando relações complexas.
 
@@ -61,5 +61,5 @@ A integração do Obsidian, método Zettelkasten e OSINT pode criar um sistema r
 ---
 
 ### Conclusão
-
+#card 
 A integração do Obsidian, método Zettelkasten e OSINT oferece uma abordagem poderosa para gerenciar e analisar informações de forma eficiente. Essa combinação permite não apenas organizar dados de maneira estruturada, mas também transformá-los em conhecimento acionável, promovendo a inovação e a tomada de decisões informadas.
