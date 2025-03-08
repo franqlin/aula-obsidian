@@ -4,7 +4,7 @@
 		{"id":"86032593687601c2","type":"file","file":"CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/WIKI-LUHMANN.md","x":820,"y":-500,"width":400,"height":400},
 		{"id":"4671ef21a5b60d11","type":"file","file":"CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md","x":140,"y":-300,"width":400,"height":400},
 		{"id":"943811efa29b11e0","type":"text","text":"Slide:\n- 3b328be106b53ab5\n- 8c5f23c94589ec35\n- 86032593687601c2\n- 4671ef21a5b60d11\n","x":-780,"y":-500,"width":360,"height":400},
-		{"id":"3b328be106b53ab5","type":"file","file":"CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias/2. As Origens do Método Zettelkasten.md","x":-320,"y":-1400,"width":400,"height":400}
+		{"id":"3b328be106b53ab5","type":"file","file":"CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias/2. As Origens do Método Zettelkasten.md","x":-360,"y":-1200,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"81e70409104326af","fromNode":"8c5f23c94589ec35","fromSide":"bottom","toNode":"86032593687601c2","toSide":"top"},
