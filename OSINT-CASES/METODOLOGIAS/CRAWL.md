@@ -1,9 +1,14 @@
 ```mermaid
 flowchart TD
-    A[Comunicar] --> B[Pesquisar]
-    B --> C[Analisar ]
-    C --> D[Escrever ]
-    D --> E[Ouvir ]
+    A[📞 Comunicar - Communicate] --> B[🔍 Pesquisar -Research-]
+    B --> C[📊 Analisar -Analyze-]
+    C --> D[📝 Escrever -Write-]
+    D --> E[👂 Ouvir -Listen-]
+    style A fill:#f9d5e5,stroke:#e06377,stroke-width:2px,color:#333
+    style B fill:#e2f0cb,stroke:#a2d39c,stroke-width:2px,color:#333
+    style C fill:#d6eaf8,stroke:#5dade2,stroke-width:2px,color:#333
+    style D fill:#fdebd0,stroke:#f4d03f,stroke-width:2px,color:#333
+    style E fill:#e8daef,stroke:#af7ac5,stroke-width:2px,color:#333
 ```
 
 A metodologia **CRAWL** é um modelo estruturado usado para conduzir investigações de due diligence, garantindo ética, precisão e eficiência. Criada por Cynthia Hetherington, a abordagem é composta por cinco etapas principais:

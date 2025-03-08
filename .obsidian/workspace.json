@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/METODOLOGIAS/CRAWL.md",
+                "file": "OSINT-CASES/METODOLOGIAS/5W1H.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CRAWL"
+              "title": "5W1H"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/METODOLOGIAS/CRAWL.md",
+                "file": "OSINT-CASES/METODOLOGIAS/5W1H.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de CRAWL"
+              "title": "Sumário de 5W1H"
             }
           },
           {
@@ -289,8 +289,9 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
-    "OSINT-CASES/METODOLOGIAS/Fravia.md",
     "OSINT-CASES/METODOLOGIAS/CRAWL.md",
+    "OSINT-CASES/METODOLOGIAS/5W1H.md",
+    "OSINT-CASES/METODOLOGIAS/Fravia.md",
     "OSINT-CASES/METODOLOGIAS/Funnel Methodoly.md",
     "OSINT-CASES/M.md",
     "OSINT-CASES/METODOLOGIAS",
@@ -315,7 +316,6 @@
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/3. O que é um jardim digital.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/2. O que são Mapas de Conteúdo.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/1. Mapas de conteúdo - organização sem esforço para notas.md",
     "MORIN-ZETTEL-KASTEN/INBOX",
     "MORIN-ZETTEL-KASTEN",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
