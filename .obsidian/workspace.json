@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 2 - Introdução.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Slide 2 - Introdução"
+              "title": "RAW"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 2 - Introdução.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Slide 2 - Introdução"
+              "title": "Sumário de RAW"
             }
           },
           {
@@ -290,9 +290,13 @@
   },
   "active": "f8622041c8d2a1d9",
   "lastOpenFiles": [
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 1 - Apresentação.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 5 - O que é OSINT?.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 4 - O que é Zettelkasten?.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 3 - O que é Obsidian?.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 2 - Introdução.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Sem título.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 1 - Apresentação.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT",
     "kanban-templates/Board Kanban para Pesquisas OSINT.md",
@@ -318,9 +322,6 @@
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/WIKI-LUHMANN.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/3. O que é um jardim digital.md",
-    "18-03-2025.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/2. O que são Mapas de Conteúdo.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/2. O Obsidian é gratuito.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/image.png",
     "OSINT-CASES/CASOS/CASO-001",
     "OSINT-CASES/NOTAS/Locais",
@@ -331,7 +332,6 @@
     "OSINT-CASES/FONTES/Redes Sociais",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias",
-    "OSINT-CASES/Fontes/Mídia/Sem título",
     "attachments/Pasted image 20250305143027.png",
     "attachments/Pasted image 20250305141257.png",
     "attachments/Pasted image 20250305141155.png",
