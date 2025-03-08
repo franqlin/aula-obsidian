@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Documentos e Casos Judiciais.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cryptocurrency"
+              "title": "Documentos e Casos Judiciais"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Documentos e Casos Judiciais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Cryptocurrency"
+              "title": "Sumário de Documentos e Casos Judiciais"
             }
           },
           {
@@ -289,10 +289,12 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
-    "OSINT-CASES/Ferramentas OSINT/Countries.md",
+    "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
     "OSINT-CASES/Ferramentas OSINT/Consulta de Processos.md",
     "OSINT-CASES/Ferramentas OSINT/Busca de Pessoas e Informações Pessoais.md",
     "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
+    "OSINT-CASES/KANBAN.md",
+    "OSINT-CASES/Ferramentas OSINT/Countries.md",
     "OSINT-CASES/Ferramentas OSINT/Burner SMS Phones.md",
     "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/9. O Método Zettelkasten.md",
@@ -313,8 +315,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/Zettelkasten na prática.md",
-    "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
     "MORIN-ZETTEL-KASTEN/INBOX",
     "MORIN-ZETTEL-KASTEN",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
