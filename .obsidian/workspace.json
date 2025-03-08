@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 2 - Introdução.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Slide 2 - Introdução"
+              "title": "Definições"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 2 - Introdução.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Slide 2 - Introdução"
+              "title": "Sumário de Definições"
             }
           },
           {
@@ -290,6 +290,9 @@
   },
   "active": "f8622041c8d2a1d9",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Slide 2 - Introdução.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
@@ -298,7 +301,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 4 - O que é Zettelkasten?.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 3 - O que é Obsidian?.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 2 - Introdução.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT",
     "kanban-templates/Board Kanban para Pesquisas OSINT.md",
@@ -322,7 +324,6 @@
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/WIKI-LUHMANN.md",
-    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/image.png",
     "OSINT-CASES/CASOS/CASO-001",
     "OSINT-CASES/NOTAS/Locais",
@@ -330,7 +331,6 @@
     "OSINT-CASES/NOTAS/PESSOAS",
     "OSINT-CASES/NOTAS",
     "OSINT-CASES/CASOS",
-    "OSINT-CASES/FONTES/Redes Sociais",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "attachments/Pasted image 20250305143027.png",
     "attachments/Pasted image 20250305141257.png",
