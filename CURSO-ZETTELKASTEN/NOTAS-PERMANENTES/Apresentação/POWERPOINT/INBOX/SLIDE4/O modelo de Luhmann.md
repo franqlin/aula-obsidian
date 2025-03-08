@@ -14,12 +14,13 @@ Luhmann inseria **referências cruzadas** entre notas, criando uma malha de asso
 - **Ativa a "memória externa"**: o sistema funciona como um parceiro cognitivo, revelando relações não previstas inicialmente [3][6].  
 
 ### 3. **Palavras-Chave e Indexação**  
-#card
+#card 
 Cada nota incluía **1-2 palavras-chave** no canto superior direito, facilitando:  
 - Agrupamento temático automático (ex.: todas as notas com a tag *comunicação* formam um cluster) [1][15].  
 - Recuperação por meio de um **índice central**, que mapeia conexões radiais entre conceitos [1][3].  
 
 ### 4. **Princípios de Escrita**  
+#card
 - **Atomicidade**: cada nota trata de **uma única ideia**, permitindo reutilização em múltiplos contextos [7][15].  
 - **Autoria própria**: síntese crítica do conteúdo, evitando citações literais para garantir autonomia semântica [9][13].  
 - **Evolução incremental**: notas são revisadas e expandidas conforme novas conexões surgem [7][15].  
