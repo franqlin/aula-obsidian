@@ -6,39 +6,29 @@
       {
         "id": "ef521f9369e80adf",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "f8961a81f863c1c9",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "kanban-templates/Board Kanban para Pesquisas OSINT.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-trello",
-              "title": "Board Kanban para Pesquisas OSINT"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f2230634b16cc658",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "4d92ecefc33947e9",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Board Kanban para Pesquisas OSINT.md"
+              "icon": "lucide-file",
+              "title": "0.SLIDES"
             }
           }
         ]
@@ -172,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "kanban-templates/Board Kanban para Pesquisas OSINT.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Board Kanban para Pesquisas OSINT"
+              "title": "Sumário de 0.SLIDES"
             }
           },
           {
@@ -273,8 +263,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d92ecefc33947e9",
+  "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
+    "kanban-templates/Board Kanban para Pesquisas OSINT.md",
     "OSINT-CASES/Ferramentas OSINT/Leaks.md",
     "OSINT-CASES/Ferramentas OSINT/GEOINT.md",
     "OSINT-CASES/Ferramentas OSINT/Flight Tracker.md",
@@ -304,7 +295,6 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/3. Slip-box de Luhmann.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/4. How to Take Smart Notes.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/5. Zettelkasten Digital.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/image.png",
     "OSINT-CASES/CASOS/CASO-001",
     "OSINT-CASES/NOTAS/Locais",
