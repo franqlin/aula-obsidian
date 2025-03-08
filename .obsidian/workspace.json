@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MORIN-ZETTEL-KASTEN/INBOX/Sem título.md",
+                "file": "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MORIN-ZETTEL-KASTEN/INBOX/Sem título.md",
+                "file": "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann"
             }
           },
           {
@@ -289,8 +289,10 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
+    "MORIN-ZETTEL-KASTEN/INBOX/Edgar Morin propõe sete saberes fundamentais.md",
+    "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
+    "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
-    "MORIN-ZETTEL-KASTEN/INBOX/Sem título.md",
     "MORIN-ZETTEL-KASTEN/INBOX",
     "MORIN-ZETTEL-KASTEN",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
@@ -324,8 +326,6 @@
     "OSINT-CASES/Ferramentas OSINT/Flight Tracker.md",
     "OSINT-CASES/Ferramentas OSINT/Estação Rádio Base - ERBs.md",
     "OSINT-CASES/Ferramentas OSINT/Email.md",
-    "OSINT-CASES/Ferramentas OSINT/Domain Info.md",
-    "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image.png",
