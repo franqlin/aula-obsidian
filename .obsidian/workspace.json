@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Definições"
+              "title": "RAW"
             }
           }
         ],
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Definições"
+              "title": "Sumário de RAW"
             }
           },
           {
@@ -288,8 +288,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8622041c8d2a1d9",
+  "active": "db7fa5c6913b86b4",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE5",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Slide 2 - Introdução.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2",
@@ -297,10 +300,10 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 5 - O que é OSINT?.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE5/Slide 5 - O que é OSINT?.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 4 - O que é Zettelkasten?.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/Slide 3 - O que é Obsidian?.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 4 - O que é Zettelkasten?.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - O que é Obsidian?.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT",
     "kanban-templates/Board Kanban para Pesquisas OSINT.md",
@@ -323,14 +326,11 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Criação de Notas Permanentes 1aaafbce366a80d4b2bbd652fa7276b0.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
-    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/WIKI-LUHMANN.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/image.png",
     "OSINT-CASES/CASOS/CASO-001",
     "OSINT-CASES/NOTAS/Locais",
     "OSINT-CASES/NOTAS/EVENTOS",
     "OSINT-CASES/NOTAS/PESSOAS",
-    "OSINT-CASES/NOTAS",
-    "OSINT-CASES/CASOS",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "attachments/Pasted image 20250305143027.png",
     "attachments/Pasted image 20250305141257.png",
