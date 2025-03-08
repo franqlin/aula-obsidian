@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Slide 1 - Apresentação"
+              "title": "0.SLIDES"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "Slide 4 - O que é Zettelkasten?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 - O que é Zettelkasten?.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Slide 4 - O que é Zettelkasten?"
+              "title": "Sumário de 0.SLIDES"
             }
           },
           {
@@ -288,10 +287,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8622041c8d2a1d9",
+  "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 - O que é Zettelkasten?.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - O que é Obsidian?.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
@@ -304,7 +304,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE5/Slide 5 - O que é OSINT?.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX",
