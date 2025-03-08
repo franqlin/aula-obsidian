@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
-                "mode": "source",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann"
+              "title": "RAW"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann"
+              "title": "Sumário de RAW"
             }
           },
           {
@@ -289,10 +289,12 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/Zettelkasten na prática.md",
+    "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
     "MORIN-ZETTEL-KASTEN/INBOX/Edgar Morin propõe sete saberes fundamentais.md",
     "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
-    "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
     "MORIN-ZETTEL-KASTEN/INBOX",
     "MORIN-ZETTEL-KASTEN",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
@@ -311,8 +313,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Proposta.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/O modelo de Luhmann.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/Zettelkasten na prática.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE5",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3",
