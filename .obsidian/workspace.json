@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0.SLIDES"
+              "title": "2. Como usar o Dataview"
             }
           },
           {
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dataview",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +118,8 @@
               "title": "Surfing Tab Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 0.SLIDES"
+              "title": "Sumário de 2. Como usar o Dataview"
             }
           },
           {
@@ -289,6 +290,7 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
@@ -298,7 +300,6 @@
     "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
     "MORIN-ZETTEL-KASTEN/INBOX",
     "MORIN-ZETTEL-KASTEN",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 - O que é Zettelkasten?.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - O que é Obsidian?.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Slide 2 - Introdução.md",
