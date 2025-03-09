@@ -56,26 +56,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "5fb37c8016778e0b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0f0eb8d085bafc79",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.osintstarter.com/"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Welcome to OSINT Starter | OSINT Starter Pack"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -309,8 +289,9 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
-    "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
+    "OSINT-CASES/KANBAN.md",
     "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
+    "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
     "OSINT-CASES/METODOLOGIAS/Fravia.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/WIKI-LUHMANN.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
@@ -319,7 +300,6 @@
     "OSINT-CASES/METODOLOGIAS/CRAWL.md",
     "OSINT-CASES/M.md",
     "OSINT-CASES/METODOLOGIAS",
-    "OSINT-CASES/KANBAN.md",
     "OSINT-CASES/Ferramentas OSINT/Documentos e Casos Judiciais.md",
     "OSINT-CASES/Ferramentas OSINT/Cryptocurrency.md",
     "OSINT-CASES/Ferramentas OSINT/Consulta de Processos.md",
