@@ -11,24 +11,20 @@
             "id": "f8622041c8d2a1d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "TEMPLATES/TEMPLATE.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "OSINT-CASES/KANBAN.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
                 }
               },
-              "icon": "lucide-file",
-              "title": "TEMPLATE"
+              "icon": "lucide-trello",
+              "title": "KANBAN"
             }
           }
         ]
@@ -162,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/TEMPLATE.md",
+                "file": "OSINT-CASES/KANBAN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de TEMPLATE"
+              "title": "Sumário de KANBAN"
             }
           },
           {
@@ -265,33 +261,34 @@
   },
   "active": "f8622041c8d2a1d9",
   "lastOpenFiles": [
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 - O que é Zettelkasten?.md",
+    "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
+    "OSINT-CASES/CASOS/CASO-001/INFO.md",
+    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
+    "kanban-templates/Board Kanban para Pesquisas OSINT.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/Zettelkasten na prática.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/4. Crie sua primeira nota.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/5. Uma introdução aos links.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/6. Uma introdução ao Markdown.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/7. Organizando suas anotações.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/8. Mapas de Conteúdo.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
-    "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
-    "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
-    "OSINT-CASES/METODOLOGIAS/Funnel.md",
-    "OSINT-CASES/METODOLOGIAS/Fravia.md",
-    "OSINT-CASES/METODOLOGIAS/CRAWL.md",
-    "OSINT-CASES/METODOLOGIAS/5W1H.md",
-    "OSINT-CASES/Ferramentas OSINT/Search and Links.md",
-    "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
-    "OSINT-CASES/Ferramentas OSINT/Mapas e Georreferenciamento.md",
-    "OSINT-CASES/Ferramentas OSINT/Messaging.md",
-    "OSINT-CASES/Ferramentas OSINT/Motores de Busca Contexto Brasil.md",
-    "OSINT-CASES/Ferramentas OSINT/Pessoas Desaparecidas.md",
-    "OSINT-CASES/Ferramentas OSINT/Saúde.md",
-    "OSINT-CASES/Ferramentas OSINT/Social Media.md",
-    "OSINT-CASES/Ferramentas OSINT/Telecom.md",
-    "OSINT-CASES/Ferramentas OSINT/Tor.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/9. O Método Zettelkasten.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/Sinergia entre Conhecimento e Investigaçã.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/OSINT e Zettel.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/WIKI-LUHMANN.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
-    "OSINT-CASES/Ferramentas OSINT/License & VReg.md",
-    "OSINT-CASES/Ferramentas OSINT/Leaks.md",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Slide 2 - Introdução.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
+    "TEMPLATES/Meeting.md",
+    "TEMPLATES/TEMPLATE.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 - O que é Zettelkasten?.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
+    "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
     "OSINT-CASES/Ferramentas OSINT/BOOKS",
     "OSINT-CASES/CASOS/CASO-002",
     "OSINT-CASES/METODOLOGIAS",
@@ -305,7 +302,6 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image.png",
-    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/zetelkastten-digital/image.png",
     "attachments/Pasted image 20250305143027.png",
     "attachments/Pasted image 20250305141257.png",
