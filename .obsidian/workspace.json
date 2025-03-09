@@ -25,24 +25,12 @@
             "id": "385512351130ea1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/OSINT e Zettel.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "attachments/História do Zettelkasten.png"
               },
-              "icon": "lucide-file",
-              "title": "OSINT e Zettel"
+              "icon": "lucide-image",
+              "title": "História do Zettelkasten"
             }
           }
         ],
@@ -177,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/OSINT e Zettel.md",
+                "file": "attachments/História do Zettelkasten.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de OSINT e Zettel"
+              "title": "Sumário de História do Zettelkasten"
             }
           },
           {
@@ -280,6 +268,9 @@
   },
   "active": "385512351130ea1c",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias/2. As Origens do Método Zettelkasten.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias/1. Introdução.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/OSINT e Zettel.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/Sinergia entre Conhecimento e Investigaçã.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
     "CURSO-ZETTELKASTEN/INBOX/Images/image 1.png",
@@ -307,9 +298,6 @@
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
-    "OSINT-CASES/METODOLOGIAS/Funnel.md",
-    "OSINT-CASES/METODOLOGIAS/Fravia.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
     "OSINT-CASES/Ferramentas OSINT/BOOKS",
