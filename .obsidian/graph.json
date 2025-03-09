@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#card",
+  "search": "#git",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 7.8125,
   "linkStrength": 0.848958333333333,
   "linkDistance": 250,
-  "scale": 0.70233196159122,
+  "scale": 1.5802469135802468,
   "close": false
 }
