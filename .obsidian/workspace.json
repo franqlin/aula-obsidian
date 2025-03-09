@@ -45,8 +45,7 @@
               "title": "Sem título 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,13 +176,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/Sem título 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título 1"
+              "title": "Sumário"
             }
           },
           {
@@ -278,10 +276,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e31814b5a8bc1940",
+  "active": "c7fa3af0d8fca52d",
   "lastOpenFiles": [
-    "TEMPLATES/Sem título.md",
     "TEMPLATES/Sem título 1.md",
+    "TEMPLATES/Sem título.md",
     "Sem título.canvas",
     "TEMPLATES/TEMPLATE.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/Sinergia entre Conhecimento e Investigaçã.md",
