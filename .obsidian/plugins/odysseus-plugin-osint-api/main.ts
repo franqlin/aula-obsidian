@@ -191,7 +191,8 @@ export default class OdysseusAPIPlugin extends Plugin {
     
 	async onload() {
 		await this.loadSettings();
-
+        // Adicione a chamada para saveSettings após carregar as configurações
+		await this.saveSettings();
 		// This creates an icon in the left ribbon.
 		const ribbonIconEl = this.addRibbonIcon('horse', 'Odysseus::Enquecimento de Mídia"', (evt: MouseEvent) => {
 			saveFiles(this.app, this, this.settings);
@@ -672,9 +673,9 @@ async loadSettings() {
     }
 }
 
-	async saveSettings() {
+async saveSettings() {
 		await this.saveData(this.settings);
-	}
+}
 	
 }
 
