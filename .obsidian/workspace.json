@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/6. Tipos de Notas.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "6. Tipos de Notas"
+              "title": "0.SLIDES"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/6. Tipos de Notas.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 6. Tipos de Notas"
+              "title": "Sumário de 0.SLIDES"
             }
           },
           {
@@ -280,6 +280,7 @@
   },
   "active": "385512351130ea1c",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/6. Tipos de Notas.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/OSINT e Zettel.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias/1. Introdução.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias/2. As Origens do Método Zettelkasten.md",
