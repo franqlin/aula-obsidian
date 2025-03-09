@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATES/Sem título 1.md",
+                "file": "TEMPLATES/Sem título.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sem título 1"
+              "title": "Sem título"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/Sem título 1.md",
+                "file": "TEMPLATES/Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título 1"
+              "title": "Sumário de Sem título"
             }
           },
           {
