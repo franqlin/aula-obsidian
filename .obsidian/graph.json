@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#card",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
@@ -17,6 +17,6 @@
   "repelStrength": 7.8125,
   "linkStrength": 0.848958333333333,
   "linkDistance": 250,
-  "scale": 0.31214753848498666,
+  "scale": 0.70233196159122,
   "close": false
 }
