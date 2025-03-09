@@ -5,6 +5,7 @@
         - Empresas e projetos (Tesla, SpaceX, Neuralink, etc.).
         - Interesses e hobbies.
         - Conexões públicas (amigos, parceiros de negócios).
+        - Colete informações no qual ele cita que o brazil é um dos seus países favoritos
     1. **Organização no Obsidian**
     
     - Crie notas no Obsidian para cada categoria de informação (ex: "Dados Pessoais", "Empresas", "Redes Sociais", etc.).
