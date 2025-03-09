@@ -25,12 +25,24 @@
             "id": "385512351130ea1c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/História do Zettelkasten.png"
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "História do Zettelkasten"
+              "icon": "lucide-file",
+              "title": "0.SLIDES"
             }
           }
         ],
@@ -165,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/História do Zettelkasten.png",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de História do Zettelkasten"
+              "title": "Sumário de 0.SLIDES"
             }
           },
           {
@@ -268,6 +280,7 @@
   },
   "active": "385512351130ea1c",
   "lastOpenFiles": [
+    "attachments/História do Zettelkasten.png",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias/2. As Origens do Método Zettelkasten.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Teorias/1. Introdução.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/OSINT e Zettel.md",
@@ -297,7 +310,6 @@
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/2. O Obsidian é gratuito.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
     "OSINT-CASES/Ferramentas OSINT/BOOKS",
