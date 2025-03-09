@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
+                "file": "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bookmarks"
+              "title": "Ex1. Coleta de dados"
             }
           },
           {
@@ -206,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
+                "file": "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Bookmarks"
+              "title": "Sumário de Ex1. Coleta de dados"
             }
           },
           {
@@ -310,6 +310,7 @@
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
     "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
+    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
     "OSINT-CASES/METODOLOGIAS/Fravia.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/WIKI-LUHMANN.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
@@ -335,7 +336,6 @@
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/4. Crie sua primeira nota.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/3. Introdução às notas de obsidiana.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/2. O Obsidian é gratuito.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
     "MORIN-ZETTEL-KASTEN/INBOX",
     "MORIN-ZETTEL-KASTEN",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
