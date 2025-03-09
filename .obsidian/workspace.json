@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Reescrever em Suas Próprias Palavras.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ex. 2 Varredura de um site"
+              "title": "Reescrever em Suas Próprias Palavras"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Reescrever em Suas Próprias Palavras.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Ex. 2 Varredura de um site"
+              "title": "Sumário de Reescrever em Suas Próprias Palavras"
             }
           },
           {
@@ -265,8 +265,15 @@
   },
   "active": "7d52d12df4cdf38e",
   "lastOpenFiles": [
-    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/rituais de leitura, escrita e gerenciamento de notas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Nomeclatura de Arquivos.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Estrutura de Notas.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/6. Uma introdução ao Markdown.md",
+    "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
     "OSINT-CASES/ODISSEUS-PLUGIN/BUSCA LINKEDIN.md",
+    "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
+    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
     "_media-sync_resources/2025/03/09/162237/94175.png.md",
     "_media-sync_resources/2025/03/09/162237/94175.png",
     "_media-sync_resources/2025/03/09/162237/51933.jpeg.md",
@@ -300,17 +307,10 @@
     "_media-sync_resources/2025/03/09/162158",
     "_media-sync_resources/2025/03/09/162142/99874.pdf.md",
     "_media-sync_resources/2025/03/09/162142/99874.pdf",
-    "_media-sync_resources/2025/03/09/162142/30098.pdf.md",
     "_media-sync_resources/2025/03/09/162142/30098.pdf",
     "_media-sync_resources/2025/03/09/162142",
-    "_media-sync_resources/2025/03/09/162106/66552.pdf.md",
     "_media-sync_resources/2025/03/09/162106/66552.pdf",
-    "_media-sync_resources/2025/03/09/162106/77060.pdf.md",
     "_media-sync_resources/2025/03/09/162106/77060.pdf",
-    "_media-sync_resources/2025/03/09/162106/76144.pdf.md",
-    "_media-sync_resources/2025/03/09/162106/71813.pdf.md",
-    "_media-sync_resources/2025/03/09/162106/34094.pdf.md",
-    "_media-sync_resources/2025/03/09/162106/32799.pdf.md",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",
