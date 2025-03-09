@@ -251,8 +251,9 @@ export default class OdysseusAPIPlugin extends Plugin {
                 const query = editor.getSelection();
                 const apiKey = this.settings.apiKeyRealTime;
                 const limit = this.settings.limit;
-
+            
                 showWaitMessage();
+				new Notice('Buscando dados...');
                 try {
                     const response = await fetchRealTimeWebSearchData(query, apiKey, limit);
                     const resultDiv = createResultDiv(`*Resultado da Busca Real-Time Web Search:* ${query}`);

@@ -1,6 +1,5 @@
 [
   "obsidian-excalidraw-plugin",
-  "odysseus-plugin",
   "obsidian-git",
   "surfing",
   "slides-extended",
@@ -24,5 +23,6 @@
   "calendar",
   "better-export-pdf",
   "api-request",
-  "smart-connections"
+  "smart-connections",
+  "odysseus-plugin"
 ]
