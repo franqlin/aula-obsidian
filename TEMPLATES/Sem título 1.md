@@ -1,10 +1,10 @@
 **Resultado da Busca Real-Time Web Search:* www*
 - **STATUS**: OK
-- **REQUEST_ID**: 0cafbbd7-d57c-417c-a662-5230919abcef
+- **REQUEST_ID**: c1d0a780-df45-41f1-a0fd-0ae22b33cdd5
 - **DATA**:
   - **0**:
     - **TITLE**: YouTube
-    - **SNIPPET**: Shorts. Library. Search YouTube. Try searching to get started. Start watching videos to help us build a feed of videos you'll love.
+    - **SNIPPET**: Start watching videos to help us build a feed of videos you'll love.
     - **URL**: https://www.youtube.com/
     - **DOMAIN**: www.youtube.com
     - **POSITION**: 1
@@ -51,10 +51,10 @@
     - **DOMAIN**: www.ssa.gov
     - **POSITION**: 8
   - **8**:
-    - **TITLE**: U.S. Department of State – Home
-    - **SNIPPET**: Leading America's foreign policy to advance the interests and security of the American people.
-    - **URL**: https://www.state.gov/
-    - **DOMAIN**: www.state.gov
+    - **TITLE**: World Wide Web
+    - **SNIPPET**: The World Wide Web is an information system that enables content sharing over the Internet through user-friendly ways meant to appeal to users beyond IT ...
+    - **URL**: https://en.wikipedia.org/wiki/World_Wide_Web
+    - **DOMAIN**: en.wikipedia.org
     - **POSITION**: 9
   - **9**:
     - **TITLE**: Iowa State University
@@ -69,52 +69,52 @@
     - **DOMAIN**: www.imf.org
     - **POSITION**: 11
   - **11**:
-    - **TITLE**: Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps
-    - **SNIPPET**: Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.
-    - **URL**: https://www.microsoft.com/
-    - **DOMAIN**: www.microsoft.com
-    - **POSITION**: 12
-  - **12**:
-    - **TITLE**: World Wide Web
-    - **SNIPPET**: The World Wide Web is an information system that enables content sharing over the Internet through user-friendly ways meant to appeal to users beyond IT ...
-    - **URL**: https://en.wikipedia.org/wiki/World_Wide_Web
-    - **DOMAIN**: en.wikipedia.org
-    - **POSITION**: 13
-  - **13**:
     - **TITLE**: FEMA.gov: Home
     - **SNIPPET**: Disaster survivors can find translated information about disaster assistance, emergency preparedness, response and recovery activities, and flood insurance.
     - **URL**: https://www.fema.gov/home
     - **DOMAIN**: www.fema.gov
-    - **POSITION**: 14
-  - **14**:
+    - **POSITION**: 12
+  - **12**:
     - **TITLE**: University of California, Berkeley: Home
     - **SNIPPET**: UC Berkeley pushes the boundaries of knowledge, challenges convention and expands opportunity to create the leaders of tomorrow.
     - **URL**: https://www.berkeley.edu/
     - **DOMAIN**: www.berkeley.edu
-    - **POSITION**: 15
-  - **15**:
+    - **POSITION**: 13
+  - **13**:
+    - **TITLE**: Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps
+    - **SNIPPET**: Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.
+    - **URL**: https://www.microsoft.com/
+    - **DOMAIN**: www.microsoft.com
+    - **POSITION**: 14
+  - **14**:
     - **TITLE**: OPM Home - OPM.gov
     - **SNIPPET**: New Tool for Federal Retirees. Follow our how-to videos to set up a Services Online account. Planning to Retire Soon? New video explains the process.
     - **URL**: https://www.opm.gov/
     - **DOMAIN**: www.opm.gov
-    - **POSITION**: 16
-  - **16**:
+    - **POSITION**: 15
+  - **15**:
     - **TITLE**: NHTSA | National Highway Traffic Safety Administration
     - **SNIPPET**: Get resources and info about staying safe on America's roads. And, find out if there's a recall on your car or how to report a vehicle safety problem.
     - **URL**: https://www.nhtsa.gov/
     - **DOMAIN**: www.nhtsa.gov
-    - **POSITION**: 17
-  - **17**:
+    - **POSITION**: 16
+  - **16**:
     - **TITLE**: Amazon.com. Spend less. Smile more.
     - **SNIPPET**: Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of ...
     - **URL**: https://www.amazon.com/
     - **DOMAIN**: www.amazon.com
-    - **POSITION**: 18
-  - **18**:
+    - **POSITION**: 17
+  - **17**:
     - **TITLE**: IFAC: Homepage
     - **SNIPPET**: Manage subscriptions, submit translations and permissions requests, nominate a board or committee member, and more.
     - **URL**: https://www.ifac.org/
     - **DOMAIN**: www.ifac.org
+    - **POSITION**: 18
+  - **18**:
+    - **TITLE**: U.S. Department of State – Home
+    - **SNIPPET**: Leading America's foreign policy to advance the interests and security of the American people.
+    - **URL**: https://www.state.gov/
+    - **DOMAIN**: www.state.gov
     - **POSITION**: 19
   - **19**:
     - **TITLE**: Overview and Current Status | University of New England in ...
@@ -123,16 +123,16 @@
     - **DOMAIN**: www.une.edu
     - **POSITION**: 20
   - **20**:
-    - **TITLE**: U.S. Copyright Office
-    - **SNIPPET**: Search our online records, learn about our searching and retrieval services, and view educational videos and materials.
-    - **URL**: https://www.copyright.gov/
-    - **DOMAIN**: www.copyright.gov
-    - **POSITION**: 21
-  - **21**:
     - **TITLE**: Homepage | ENERGY STAR
     - **SNIPPET**: ENERGY STAR® is the simple choice for energy efficiency. For more than 20 years, EPA's ENERGY STAR program has been America's resource for saving energy and ...
     - **URL**: https://www.energystar.gov/
     - **DOMAIN**: www.energystar.gov
+    - **POSITION**: 21
+  - **21**:
+    - **TITLE**: VA.gov Home | Veterans Affairs
+    - **SNIPPET**: Welcome to the official website of the U.S. Department of Veterans Affairs. Discover, apply for, and manage your VA benefits and care.
+    - **URL**: https://www.va.gov//
+    - **DOMAIN**: www.va.gov
     - **POSITION**: 22
   - **22**:
     - **TITLE**: USCIS: Home
@@ -147,16 +147,16 @@
     - **DOMAIN**: www.senate.gov
     - **POSITION**: 24
   - **24**:
+    - **TITLE**: U.S. Copyright Office
+    - **SNIPPET**: Search our online records, learn about our searching and retrieval services, and view educational videos and materials.
+    - **URL**: https://www.copyright.gov/
+    - **DOMAIN**: www.copyright.gov
+    - **POSITION**: 25
+  - **25**:
     - **TITLE**: California Department of Industrial Relations - Home Page
     - **SNIPPET**: DIR protects and improves working conditions in California for more than 18 million workers and helps employers follow labor laws.
     - **URL**: https://www.dir.ca.gov/
     - **DOMAIN**: www.dir.ca.gov
-    - **POSITION**: 25
-  - **25**:
-    - **TITLE**: VA.gov Home | Veterans Affairs
-    - **SNIPPET**: Welcome to the official website of the U.S. Department of Veterans Affairs. Discover, apply for, and manage your VA benefits and care.
-    - **URL**: https://www.va.gov//
-    - **DOMAIN**: www.va.gov
     - **POSITION**: 26
   - **26**:
     - **TITLE**: Merriam-Webster: America's Most Trusted Dictionary
@@ -183,1126 +183,1126 @@
     - **DOMAIN**: www.weforum.org
     - **POSITION**: 30
   - **30**:
-    - **TITLE**: KSDE
-    - **SNIPPET**: The eight-week challenge will run from March 31 through May 23, 2025. Employers interested in participating must register by March 17 at www.bit.ly/Givebackks.
-    - **URL**: https://www.ksde.gov/
-    - **DOMAIN**: www.ksde.gov
-    - **POSITION**: 31
-  - **31**:
     - **TITLE**: Department of Taxation and Finance
     - **SNIPPET**: We offer a number of online services to fit your busy lifestyle. Check your payment balance, file a return, make a payment, or respond to a ...
     - **URL**: https://www.tax.ny.gov/
     - **DOMAIN**: www.tax.ny.gov
-    - **POSITION**: 32
-  - **32**:
+    - **POSITION**: 31
+  - **31**:
     - **TITLE**: Home — TreasuryDirect
     - **SNIPPET**: TreasuryDirect.gov is the one and only place to electronically buy and redeem US Savings Bonds. We also offer electronic sales and auctions of other US-backed ...
     - **URL**: https://www.treasurydirect.gov/
     - **DOMAIN**: www.treasurydirect.gov
-    - **POSITION**: 33
-  - **33**:
-    - **TITLE**: Institute for Health Metrics and Evaluation: Homepage
-    - **SNIPPET**: At IHME, based at the University of Washington, we work with collaborators around the world to develop the evidence that informs health policy and practice.
-    - **URL**: https://www.healthdata.org/
-    - **DOMAIN**: www.healthdata.org
-    - **POSITION**: 34
-  - **34**:
+    - **POSITION**: 32
+  - **32**:
     - **TITLE**: Virginia Tax: Home
     - **SNIPPET**: Tax Filing Season Is Underway · Individuals · Businesses · Tax Professionals · The Latest · About Virginia Tax · Web Resources · Other Resources.
     - **URL**: https://www.tax.virginia.gov/
     - **DOMAIN**: www.tax.virginia.gov
-    - **POSITION**: 35
-  - **35**:
+    - **POSITION**: 33
+  - **33**:
     - **TITLE**: Ford® - New Hybrid & Electric Vehicles, SUVs, Crossovers ...
     - **SNIPPET**: Ford® is Built for America. Discover the latest lineup in new Ford vehicles! Explore hybrid & electric vehicle options, see photos, build & price, ...
     - **URL**: https://www.ford.com/
     - **DOMAIN**: www.ford.com
-    - **POSITION**: 36
-  - **36**:
+    - **POSITION**: 34
+  - **34**:
     - **TITLE**: European Environment Agency's home page
     - **SNIPPET**: We provide the knowledge and the data needed to achieve sustainability in Europe. We support policies with evidence-based knowledge.
     - **URL**: https://www.eea.europa.eu/en
     - **DOMAIN**: www.eea.europa.eu
-    - **POSITION**: 37
-  - **37**:
-    - **TITLE**: Misericordia University | Liberal Arts University | Pennsylvania
-    - **SNIPPET**: ... www.youtube.com, or enable JavaScript if it is disabled in your browser. University News & Happenings. RSS Feeds Subscribe to Alerts.
-    - **URL**: https://www.misericordia.edu/
-    - **DOMAIN**: www.misericordia.edu
-    - **POSITION**: 38
-  - **38**:
+    - **POSITION**: 35
+  - **35**:
     - **TITLE**: CNN: Breaking News, Latest News and Videos
-    - **SNIPPET**: ... For privacy options, please see our privacy policy: https://www.cnn.com/privacy. Cookie List. Clear. checkbox label label. Apply Cancel. Consent Leg.Interest.
+    - **SNIPPET**: View the latest news and breaking news today for U.S., world, weather, entertainment, politics and health at CNN.com.
     - **URL**: https://www.cnn.com/
     - **DOMAIN**: www.cnn.com
-    - **POSITION**: 39
-  - **39**:
+    - **POSITION**: 36
+  - **36**:
     - **TITLE**: City of Pasadena - California
     - **SNIPPET**: Pasadena will combine world class events, science and technology, arts and culture, history and architecture with great neighborhoods and opportunities for all.
     - **URL**: https://www.cityofpasadena.net/
     - **DOMAIN**: www.cityofpasadena.net
-    - **POSITION**: 40
-  - **40**:
-    - **TITLE**: World Health Organization (WHO)
-    - **SNIPPET**: The United Nations agency working to promote health, keep the world safe and serve the vulnerable.
-    - **URL**: https://www.who.int/
-    - **DOMAIN**: www.who.int
-    - **POSITION**: 41
-  - **41**:
+    - **POSITION**: 37
+  - **37**:
     - **TITLE**: Home - Air Force
     - **SNIPPET**: The official website for Air Force e-Publishing.
     - **URL**: https://www.e-publishing.af.mil/
     - **DOMAIN**: www.e-publishing.af.mil
-    - **POSITION**: 42
-  - **42**:
+    - **POSITION**: 38
+  - **38**:
     - **TITLE**: Congress.gov | Library of Congress
     - **SNIPPET**: U.S. Congress legislation, Congressional Record debates, Members of Congress, legislative process educational resources presented by the Library of ...
     - **URL**: https://www.congress.gov/
     - **DOMAIN**: www.congress.gov
-    - **POSITION**: 43
-  - **43**:
-    - **TITLE**: Per diem rates
-    - **SNIPPET**: We establish the per diem rates that federal agencies use to reimburse their employees for lodging and meals and incidental expenses incurred while on official ...
-    - **URL**: https://www.gsa.gov/travel/plan-a-trip/per-diem-rates
-    - **DOMAIN**: www.gsa.gov
-    - **POSITION**: 44
-  - **44**:
+    - **POSITION**: 39
+  - **39**:
     - **TITLE**: The Official Home Page of the United States Army
     - **SNIPPET**: The latest news, images, videos, career information, and links from the U.S. Army.
     - **URL**: https://www.army.mil/
     - **DOMAIN**: www.army.mil
-    - **POSITION**: 45
-  - **45**:
-    - **TITLE**: UNC Charlotte: The University of North Carolina at Charlotte
-    - **SNIPPET**: UNC Charlotte, North Carolina's urban research university, fuels American innovation in everything from resilient and sustainable architecture and ...
-    - **URL**: https://www.charlotte.edu/
-    - **DOMAIN**: www.charlotte.edu
-    - **POSITION**: 46
-  - **46**:
-    - **TITLE**: National Oceanic and Atmospheric Administration
-    - **SNIPPET**: Is there anything else you'd like to tell us? Submit. This is an OMB-approved survey for the National Oceanic and Atmospheric Administration website, www.noaa.
-    - **URL**: https://www.noaa.gov/
-    - **DOMAIN**: www.noaa.gov
-    - **POSITION**: 47
-  - **47**:
+    - **POSITION**: 40
+  - **40**:
     - **TITLE**: Forbes
     - **SNIPPET**: Forbes is a global media company, focusing on business, investing, technology, entrepreneurship, leadership, and lifestyle.
     - **URL**: https://www.forbes.com/
     - **DOMAIN**: www.forbes.com
-    - **POSITION**: 48
-  - **48**:
-    - **TITLE**: Commodity Futures Trading Commission | CFTC
-    - **SNIPPET**: The laws authorizing CFTC's activities and the regulations issued by CFTC to carry out those activities, as well as related rulemaking, enforcement, and ...
-    - **URL**: https://www.cftc.gov/
-    - **DOMAIN**: www.cftc.gov
-    - **POSITION**: 49
-  - **49**:
+    - **POSITION**: 41
+  - **41**:
+    - **TITLE**: National Oceanic and Atmospheric Administration
+    - **SNIPPET**: Is there anything else you'd like to tell us? Submit. This is an OMB-approved survey for the National Oceanic and Atmospheric Administration website, www.noaa.
+    - **URL**: https://www.noaa.gov/
+    - **DOMAIN**: www.noaa.gov
+    - **POSITION**: 42
+  - **42**:
     - **TITLE**: Canva: Visual Suite for Everyone
     - **SNIPPET**: Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.
     - **URL**: https://www.canva.com/
     - **DOMAIN**: www.canva.com
-    - **POSITION**: 50
-  - **50**:
-    - **TITLE**: Wetlands Mapper | U.S. Fish & Wildlife Service
-    - **SNIPPET**: The Wetlands mapper is designed to deliver easy-to-use, map like views of America's Wetland resources.
-    - **URL**: https://www.fws.gov/program/national-wetlands-inventory/wetlands-mapper
-    - **DOMAIN**: www.fws.gov
-    - **POSITION**: 51
-  - **51**:
+    - **POSITION**: 43
+  - **43**:
+    - **TITLE**: World Health Organization (WHO)
+    - **SNIPPET**: The United Nations agency working to promote health, keep the world safe and serve the vulnerable.
+    - **URL**: https://www.who.int/
+    - **DOMAIN**: www.who.int
+    - **POSITION**: 44
+  - **44**:
     - **TITLE**: CBS News | Breaking news, top stories & today's latest ...
     - **SNIPPET**: CBS News offers breaking news coverage of today's top headlines. Stay informed on the biggest new stories with our balanced, trustworthy reporting.
     - **URL**: https://www.cbsnews.com/
     - **DOMAIN**: www.cbsnews.com
-    - **POSITION**: 52
-  - **52**:
-    - **TITLE**: Austin Community College
-    - **SNIPPET**: Austin Community College is your first step in an education that leads to a skill, a degree, or a transfer path to a four-year college. Find your path.
-    - **URL**: https://www.austincc.edu/
-    - **DOMAIN**: www.austincc.edu
-    - **POSITION**: 53
-  - **53**:
+    - **POSITION**: 45
+  - **45**:
     - **TITLE**: Wix.com: Website Builder - Create a Free Website Today
     - **SNIPPET**: Everything you need to create your website, your way. From an intuitive website builder to built-in hosting and business solutions—Try Wix for free.
     - **URL**: https://www.wix.com/
     - **DOMAIN**: www.wix.com
-    - **POSITION**: 54
-  - **54**:
+    - **POSITION**: 46
+  - **46**:
     - **TITLE**: NPR - Breaking News, Analysis, Music, Arts & Podcasts : NPR
     - **SNIPPET**: https://www.npr.org/2018/03/01/589455037/roy-ayers-tiny-desk-concert?jwsource=cl. Copied. Fleet Foxes: Tiny Desk (Home) Concert. Bill Orcutt Guitar Quartet ...
     - **URL**: https://www.npr.org/
     - **DOMAIN**: www.npr.org
-    - **POSITION**: 55
-  - **55**:
-    - **TITLE**: Acquisition.GOV: Home
-    - **SNIPPET**: An official website of the United States Government. Home Access the Federal Acquisition Regulation Browse the FAR FAC Updates
-    - **URL**: https://www.acquisition.gov/
-    - **DOMAIN**: www.acquisition.gov
-    - **POSITION**: 56
-  - **56**:
-    - **TITLE**: 2025–26 FAFSA ® Form Now Available!
-    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. Questions About the FAFSA® Process. Find answers to ...
-    - **URL**: https://studentaid.gov/h/apply-for-aid/fafsa
-    - **DOMAIN**: studentaid.gov
-    - **POSITION**: 57
-  - **57**:
-    - **TITLE**: United Nations Development Programme: Home
-    - **SNIPPET**: UNDP works to eradicate poverty and reduce inequalities through the sustainable development of nations, in more than 170 countries and territories.
-    - **URL**: https://www.undp.org/home
-    - **DOMAIN**: www.undp.org
-    - **POSITION**: 58
-  - **58**:
-    - **TITLE**: Texas Lutheran University | TLU | Private College | Small ...
-    - **SNIPPET**: Texas Lutheran University - TLU is a private college in Seguin, Texas. We provide a diverse, affordable, small college experience!
-    - **URL**: https://www.tlu.edu/
-    - **DOMAIN**: www.tlu.edu
-    - **POSITION**: 59
-  - **59**:
-    - **TITLE**: Reddit - Dive into anything
-    - **SNIPPET**: https://www.independent.co.uk/news/world/americas/us-politics/jd-vance-ukraine-protest-daughter-b2711564.html · r/politics - JD Vance says he and his daughter ...
-    - **URL**: https://www.reddit.com/
-    - **DOMAIN**: www.reddit.com
-    - **POSITION**: 60
-  - **60**:
-    - **TITLE**: JBL
-    - **SNIPPET**: JBL · Pure party energy · Play and charge endlessly · The way to listen - all day · Bold sound for every adventure · SAVE $50 - $100 ON EON700 SERIES - AND ...
-    - **URL**: https://www.jbl.com/
-    - **DOMAIN**: www.jbl.com
-    - **POSITION**: 61
-  - **61**:
-    - **TITLE**: Pennsylvania Child Welfare Information Solution
-    - **SNIPPET**: Our service provides a means for individuals to apply for PA Child Abuse History Clearance online and for mandated reporters to report child abuse in ...
-    - **URL**: https://www.compass.state.pa.us/cwis/public/home
-    - **DOMAIN**: www.compass.state.pa.us
-    - **POSITION**: 62
-  - **62**:
-    - **TITLE**: Massachusetts Department of Revenue (DOR)
-    - **SNIPPET**: DOR manages state taxes and child support. We also help cities and towns manage their finances, and administer the Underground Storage Tank Program.
-    - **URL**: https://www.mass.gov/orgs/massachusetts-department-of-revenue
-    - **DOMAIN**: www.mass.gov
-    - **POSITION**: 63
-  - **63**:
-    - **TITLE**: Internal Revenue Service | An official website of the United ...
-    - **SNIPPET**: Pay your taxes. Get your refund status. Find IRS forms and answers to tax questions. We help you understand and meet your federal tax responsibilities.
-    - **URL**: https://www.irs.gov/
-    - **DOMAIN**: www.irs.gov
-    - **POSITION**: 64
-  - **64**:
-    - **TITLE**: Reuters | Breaking International News & Views
-    - **SNIPPET**: Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.
-    - **URL**: https://www.reuters.com/
-    - **DOMAIN**: www.reuters.com
-    - **POSITION**: 65
-  - **65**:
+    - **POSITION**: 47
+  - **47**:
     - **TITLE**: Walmart | Save Money. Live better.
     - **SNIPPET**: Shop Walmart today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum.
     - **URL**: https://www.walmart.com/
     - **DOMAIN**: www.walmart.com
-    - **POSITION**: 66
-  - **66**:
-    - **TITLE**: Qualcomm: Intelligent Computing Everywhere
-    - **SNIPPET**: Learn how Qualcomm transforms industries with leading edge AI, high-performance, low-power computing and unrivaled connectivity.
-    - **URL**: https://www.qualcomm.com/
-    - **DOMAIN**: www.qualcomm.com
-    - **POSITION**: 67
-  - **67**:
-    - **TITLE**: UN Tourism | Bringing the world closer
-    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. A lazy image. Zurab Pololikashvili, Secretary-General of ...
-    - **URL**: http://www.unwto.org/
-    - **DOMAIN**: www.unwto.org
-    - **POSITION**: 68
-  - **68**:
-    - **TITLE**: Oracle | Cloud Applications and Cloud Platform
-    - **SNIPPET**: Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.
-    - **URL**: https://www.oracle.com/
-    - **DOMAIN**: www.oracle.com
-    - **POSITION**: 69
-  - **69**:
-    - **TITLE**: EQUATOR Network | Enhancing the QUAlity and ...
-    - **SNIPPET**: Your one-stop-shop for writing and publishing high-impact health research. Find reporting guidelines, improve your writing, join our courses, run your own ...
-    - **URL**: https://www.equator-network.org/
-    - **DOMAIN**: www.equator-network.org
-    - **POSITION**: 70
-  - **70**:
-    - **TITLE**: SAM.gov: Home
-    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. Restart rewind 20 seconds. Play Pause forward 20 seconds.
-    - **URL**: https://sam.gov/
-    - **DOMAIN**: sam.gov
-    - **POSITION**: 71
-  - **71**:
+    - **POSITION**: 48
+  - **48**:
+    - **TITLE**: Internal Revenue Service | An official website of the United ...
+    - **SNIPPET**: Pay your taxes. Get your refund status. Find IRS forms and answers to tax questions. We help you understand and meet your federal tax responsibilities.
+    - **URL**: https://www.irs.gov/
+    - **DOMAIN**: www.irs.gov
+    - **POSITION**: 49
+  - **49**:
+    - **TITLE**: Reuters | Breaking International News & Views
+    - **SNIPPET**: Find latest news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.
+    - **URL**: https://www.reuters.com/
+    - **DOMAIN**: www.reuters.com
+    - **POSITION**: 50
+  - **50**:
+    - **TITLE**: Reddit - Dive into anything
+    - **SNIPPET**: https://www.independent.co.uk/news/world/americas/us-politics/jd-vance-ukraine-protest-daughter-b2711564.html · r/politics - JD Vance says he and his daughter ...
+    - **URL**: https://www.reddit.com/
+    - **DOMAIN**: www.reddit.com
+    - **POSITION**: 51
+  - **51**:
     - **TITLE**: IMDb: Ratings, Reviews, and Where to Watch the Best Movies ...
     - **SNIPPET**: IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and reviews for the newest movie and TV shows.
     - **URL**: https://www.imdb.com/
     - **DOMAIN**: www.imdb.com
-    - **POSITION**: 72
-  - **72**:
-    - **TITLE**: Motor Vehicle Division NM | The duties of the Motor Vehicle ...
-    - **SNIPPET**: Home · Maps & Locations · Location Events & Closings · Resources · Frequently Asked Questions · Driver's License Information · Commercial Vehicle ...
-    - **URL**: https://www.mvd.newmexico.gov/
-    - **DOMAIN**: www.mvd.newmexico.gov
-    - **POSITION**: 73
-  - **73**:
-    - **TITLE**: FedScope - Federal Workforce Data - OPM.gov
-    - **SNIPPET**: Welcome to opm.gov - FedScope - Federal Workforce Data.
-    - **URL**: https://www.fedscope.opm.gov/
-    - **DOMAIN**: www.fedscope.opm.gov
-    - **POSITION**: 74
-  - **74**:
-    - **TITLE**: Stream and listen to music online for free with SoundCloud
-    - **SNIPPET**: Discover and play over 320 million music tracks. Join the world's largest online community of artists, bands, DJs, and audio creators.
-    - **URL**: https://soundcloud.com/
-    - **DOMAIN**: soundcloud.com
-    - **POSITION**: 75
-  - **75**:
-    - **TITLE**: The Holy See
-    - **SNIPPET**: Visiting the official website of the Holy See one can browse: the Magisterium of the Supreme Pontiffs (from Pope Leo XIII to Pope Francis); the fundamental ...
-    - **URL**: https://www.vatican.va/
-    - **DOMAIN**: www.vatican.va
-    - **POSITION**: 76
-  - **76**:
+    - **POSITION**: 52
+  - **52**:
     - **TITLE**: BBC Home - Breaking News, World News, US News, Sports ...
     - **SNIPPET**: Visit BBC for trusted reporting on the latest world and US news, sports, business, climate, innovation, culture and much more.
     - **URL**: https://www.bbc.com/
     - **DOMAIN**: www.bbc.com
-    - **POSITION**: 77
-  - **77**:
-    - **TITLE**: Red Cards / Tarjetas Rojas
-    - **SNIPPET**: Businesses, Private Attorneys, and Orders of 1000+: Order from www.RedCardOrders.com. This is a union-run printer set up to accept your order, print, and ...
-    - **URL**: https://www.ilrc.org/red-cards-tarjetas-rojas
-    - **DOMAIN**: www.ilrc.org
-    - **POSITION**: 78
-  - **78**:
+    - **POSITION**: 53
+  - **53**:
     - **TITLE**: LinkedIn: Log In or Sign Up
     - **SNIPPET**: 1 billion members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
     - **URL**: https://www.linkedin.com/
     - **DOMAIN**: www.linkedin.com
-    - **POSITION**: 79
-  - **79**:
-    - **TITLE**: NBC News - Breaking News & Top Stories - Latest World, US ...
-    - **SNIPPET**: Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.
-    - **URL**: https://www.nbcnews.com/
-    - **DOMAIN**: www.nbcnews.com
-    - **POSITION**: 80
-  - **80**:
-    - **TITLE**: Vatican News: News from the Vatican - News about the Church
-    - **SNIPPET**: Visit Vatican News for all the latest updates on Pope Francis, the Holy See and the Church in the World.
-    - **URL**: https://www.vaticannews.va/en.html
-    - **DOMAIN**: www.vaticannews.va
-    - **POSITION**: 81
-  - **81**:
+    - **POSITION**: 54
+  - **54**:
+    - **TITLE**: FedScope - Federal Workforce Data - OPM.gov
+    - **SNIPPET**: Welcome to opm.gov - FedScope - Federal Workforce Data.
+    - **URL**: https://www.fedscope.opm.gov/
+    - **DOMAIN**: www.fedscope.opm.gov
+    - **POSITION**: 55
+  - **55**:
+    - **TITLE**: Stream and listen to music online for free with SoundCloud
+    - **SNIPPET**: Discover and play over 320 million music tracks. Join the world's largest online community of artists, bands, DJs, and audio creators.
+    - **URL**: https://soundcloud.com/
+    - **DOMAIN**: soundcloud.com
+    - **POSITION**: 56
+  - **56**:
+    - **TITLE**: The Holy See
+    - **SNIPPET**: Visiting the official website of the Holy See one can browse: the Magisterium of the Supreme Pontiffs (from Pope Leo XIII to Pope Francis); the fundamental ...
+    - **URL**: https://www.vatican.va/
+    - **DOMAIN**: www.vatican.va
+    - **POSITION**: 57
+  - **57**:
     - **TITLE**: W3C
     - **SNIPPET**: The World Wide Web Consortium (W3C) develops standards and guidelines to help everyone build a web based on the principles of accessibility, ...
     - **URL**: https://www.w3.org/
     - **DOMAIN**: www.w3.org
-    - **POSITION**: 82
-  - **82**:
-    - **TITLE**: Los Angeles Times: News from California, across the nation ...
-    - **SNIPPET**: The L.A. Times is a leading source of breaking news, entertainment, sports, politics, and more for Southern California and the world.
-    - **URL**: https://www.latimes.com/
-    - **DOMAIN**: www.latimes.com
-    - **POSITION**: 83
-  - **83**:
-    - **TITLE**: University Corporation for Atmospheric Research | University ...
-    - **SNIPPET**: UCAR manages the US National Science Foundation National Center for Atmospheric Research (NSF NCAR) on behalf of NSF.
-    - **URL**: https://www.ucar.edu/
-    - **DOMAIN**: www.ucar.edu
-    - **POSITION**: 84
-  - **84**:
-    - **TITLE**: CMU Chippewas | Mount Pleasant, MI
-    - **SNIPPET**: CMU is a public research university in Michigan that offers degree programs in Mount Pleasant, online and locations across North America. Est. 1892.
-    - **URL**: https://www.cmich.edu/
-    - **DOMAIN**: www.cmich.edu
-    - **POSITION**: 85
-  - **85**:
-    - **TITLE**: Riverbanks Zoo & Garden :: Columbia, South Carolina
-    - **SNIPPET**: One of America's best zoos, Riverbanks Zoo and Garden is home to more than 2000 animals and one of the nation's most inspiring botanical gardens.
-    - **URL**: https://www.riverbanks.org/
-    - **DOMAIN**: www.riverbanks.org
-    - **POSITION**: 86
-  - **86**:
+    - **POSITION**: 58
+  - **58**:
+    - **TITLE**: NBC News - Breaking News & Top Stories - Latest World, US ...
+    - **SNIPPET**: Go to NBCNews.com for breaking news, videos, and the latest top stories in world news, business, politics, health and pop culture.
+    - **URL**: https://www.nbcnews.com/
+    - **DOMAIN**: www.nbcnews.com
+    - **POSITION**: 59
+  - **59**:
     - **TITLE**: Making government services easier to find | USAGov
     - **SNIPPET**: Find government benefits, services, agencies, and information at USA.gov. Contact elected officials. Learn about passports, Social Security, taxes, ...
     - **URL**: https://www.usa.gov/
     - **DOMAIN**: www.usa.gov
-    - **POSITION**: 87
-  - **87**:
-    - **TITLE**: Front page | U.S. Department of the Treasury
-    - **SNIPPET**: Tools · Financial Sanctions · Daily Interest Rates · Treasury Hunt · Bureaus · Inspector General Sites · U.S. Government Shared Services · Additional Resources · Other ...
-    - **URL**: https://home.treasury.gov/
-    - **DOMAIN**: home.treasury.gov
-    - **POSITION**: 88
-  - **88**:
+    - **POSITION**: 60
+  - **60**:
     - **TITLE**: Free Website Builder: Build a Free Website or Online Store ...
     - **SNIPPET**: Weebly's free website builder makes it easy to create a website, blog, or online store. Find customizable templates, domains, and easy-to-use tools for any ...
     - **URL**: https://www.weebly.com/
     - **DOMAIN**: www.weebly.com
-    - **POSITION**: 89
-  - **89**:
-    - **TITLE**: Front Page | Virginia Court System
-    - **SNIPPET**: This system is comprised of the Supreme Court of Virginia, the Court of Appeals of Virginia, circuit courts in thirty-one judicial circuits, Supreme Court of ...
-    - **URL**: https://www.vacourts.gov/
-    - **DOMAIN**: www.vacourts.gov
-    - **POSITION**: 90
-  - **90**:
-    - **TITLE**: Wisconsin Department of Revenue - Wisconsin.gov
-    - **SNIPPET**: https://www.revenue.wi.gov/Pages/WisTax/home.aspx. 3. DependantCareCredit1.png, DependantCareCredit1, 1005 x 400, 294 KB, 2/14/2025 9:28 AM, Approved, Yes ...
-    - **URL**: https://www.revenue.wi.gov/Pages/Home.aspx
-    - **DOMAIN**: www.revenue.wi.gov
-    - **POSITION**: 91
-  - **91**:
-    - **TITLE**: Home | Worldwide Governance Indicators
-    - **SNIPPET**: ... the WGI conducted in 2024. How to Cite this Dataset. Worldwide Governance Indicators, 2024 Update, World Bank (www.govindicators.org), Accessed on 10/30/2024.
-    - **URL**: https://www.worldbank.org/en/publication/worldwide-governance-indicators
-    - **DOMAIN**: www.worldbank.org
-    - **POSITION**: 92
-  - **92**:
+    - **POSITION**: 61
+  - **61**:
     - **TITLE**: Spotify - Web Player: Music for everyone
     - **SNIPPET**: Spotify is a digital music service that gives you access to millions of songs.
     - **URL**: https://open.spotify.com/
     - **DOMAIN**: open.spotify.com
-    - **POSITION**: 93
-  - **93**:
-    - **TITLE**: Hillsborough Community College: Home
-    - **SNIPPET**: HCC's talented athletics teams have garnered recognition in regional, state and national competitions. For schedules, tickets, stats and more, visit HCC ...
-    - **URL**: https://www.hccfl.edu/
-    - **DOMAIN**: www.hccfl.edu
-    - **POSITION**: 94
-  - **94**:
-    - **TITLE**: FATF
-    - **SNIPPET**: The Financial Action Task Force (FATF) is the global money laundering and terrorist financing watchdog. It sets international standards that aim to prevent ...
-    - **URL**: https://www.fatf-gafi.org/en/home.html
-    - **DOMAIN**: www.fatf-gafi.org
-    - **POSITION**: 95
-  - **95**:
-    - **TITLE**: Franchise Tax Board Homepage | FTB.ca.gov
-    - **SNIPPET**: https://www.ftb.ca.gov/about-ftb/newsroom/caleitc/index.html?WT.ac=Home_Ad_EITC; https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx ...
-    - **URL**: https://www.ftb.ca.gov/index.html
-    - **DOMAIN**: www.ftb.ca.gov
-    - **POSITION**: 96
-  - **96**:
-    - **TITLE**: Colorado Secretary of State
-    - **SNIPPET**: Programs & services · Administrative rules of state agencies · Bingo and raffles licensing · Charities and fundraisers · Durable medical equipment suppliers ...
-    - **URL**: https://www.sos.state.co.us/
-    - **DOMAIN**: www.sos.state.co.us
-    - **POSITION**: 97
-  - **97**:
-    - **TITLE**: WASDE Report | Home
-    - **SNIPPET**: The World Agricultural Supply and Demand Estimates (WASDE) is prepared and released by the World Agricultural Outlook Board (WAOB)
-    - **URL**: https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report
-    - **DOMAIN**: www.usda.gov
-    - **POSITION**: 98
-  - **98**:
-    - **TITLE**: Alabama Secretary of State: Home
-    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. It's Your Responsibility to Report Allegations of Voter ...
-    - **URL**: https://www.sos.alabama.gov/
-    - **DOMAIN**: www.sos.alabama.gov
-    - **POSITION**: 99
-  - **99**:
-    - **TITLE**: WeTransfer | Send Large Files Fast
-    - **SNIPPET**: The simple, quick and secure way to send your files around the world without an account. Share your files, photos, and videos today for free.
-    - **URL**: https://wetransfer.com/
-    - **DOMAIN**: wetransfer.com
-    - **POSITION**: 100
-  - **100**:
-    - **TITLE**: World Wide Web Foundation - Founded by Tim Berners-Lee ...
-    - **SNIPPET**: After 15 years working towards a Web that is safe, trusted and empowering for all, the Web Foundation is shutting its virtual doors on the 27th September. The ...
-    - **URL**: https://webfoundation.org/
-    - **DOMAIN**: webfoundation.org
-    - **POSITION**: 101
-  - **101**:
-    - **TITLE**: Retirement, Investments, and Insurance | Principal
-    - **SNIPPET**: Let's keep your finances simple. Insure what you have. Invest when you're ready. Retire with confidence.
-    - **URL**: https://www.principal.com/
-    - **DOMAIN**: www.principal.com
-    - **POSITION**: 102
-  - **102**:
-    - **TITLE**: GAfutures.org | Georgia Student Finance Commission
-    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. Welcome to Gafutures. Fill Out The FAFSA. CPC - 9th Grade ...
-    - **URL**: https://www.gafutures.org/
-    - **DOMAIN**: www.gafutures.org
-    - **POSITION**: 103
-  - **103**:
-    - **TITLE**: Missouri Department of Transportation: Home Page
-    - **SNIPPET**: JEFFERSON CITY – The Missouri Highways and Transportation Commission today voted Warren K. Erdman, Kansas City, and W. Dustin Boatwright, Cape Girardeau, into ...
-    - **URL**: https://www.modot.org/
-    - **DOMAIN**: www.modot.org
-    - **POSITION**: 104
-  - **104**:
-    - **TITLE**: About this Collection | World Digital Library
-    - **SNIPPET**: The materials collected by the WDL include cultural treasures and significant historical documents including books, manuscripts, maps, newspapers, journals, ...
-    - **URL**: https://www.loc.gov/collections/world-digital-library/about-this-collection/
-    - **DOMAIN**: www.loc.gov
-    - **POSITION**: 105
-  - **105**:
-    - **TITLE**: Georgia Department of Labor
-    - **SNIPPET**: The Georgia Department of Labor provides a wide range of services to individuals and employers. These include administration of Georgia's unemployment ...
-    - **URL**: https://dol.georgia.gov/
-    - **DOMAIN**: dol.georgia.gov
-    - **POSITION**: 106
-  - **106**:
-    - **TITLE**: Texas Workforce Commission - Home Page
-    - **SNIPPET**: Texas Workforce Commission is the state agency charged with overseeing and providing workforce development services to employers and job seekers of Texas.
-    - **URL**: https://www.twc.texas.gov/
-    - **DOMAIN**: www.twc.texas.gov
-    - **POSITION**: 107
-  - **107**:
-    - **TITLE**: TikTok - Make Your Day
-    - **SNIPPET**: TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos.
-    - **URL**: https://www.tiktok.com/
-    - **DOMAIN**: www.tiktok.com
-    - **POSITION**: 108
-  - **108**:
-    - **TITLE**: The Official Website for the Illinois Secretary of State
-    - **SNIPPET**: “WHY IS IT SO DIFFICULT TO GET AN APPOINTMENT?” Due to the federally-mandated Real ID requirements, our facilities and website have been overwhelmed with ...
-    - **URL**: https://www.ilsos.gov/
-    - **DOMAIN**: www.ilsos.gov
-    - **POSITION**: 109
-  - **109**:
-    - **TITLE**: Electric Reliability Council of Texas
-    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. What is ERCOT? ERCOTISO. 966 subscribers. How does ERCOT ...
-    - **URL**: https://www.ercot.com/
-    - **DOMAIN**: www.ercot.com
-    - **POSITION**: 110
-  - **110**:
+    - **POSITION**: 62
+  - **62**:
     - **TITLE**: The birth of the Web | CERN
     - **SNIPPET**: Tim Berners-Lee, a British scientist, invented the World Wide Web (WWW) in 1989, while working at CERN. The web was originally conceived and developed to ...
     - **URL**: https://home.web.cern.ch/science/computing/birth-web
     - **DOMAIN**: home.web.cern.ch
-    - **POSITION**: 111
-  - **111**:
-    - **TITLE**: WIRED - The Latest in Technology, Science, Culture and ...
-    - **SNIPPET**: We bring you the future as it happens. From the latest in science and technology to the big stories in business and culture, we've got you covered.
-    - **URL**: https://www.wired.com/
-    - **DOMAIN**: www.wired.com
-    - **POSITION**: 112
-  - **112**:
-    - **TITLE**: Home | DeKalb County GA
-    - **SNIPPET**: DCTV shares information in a way in which everyone can understand how DeKalb County government serves its stakeholders. Our programming focuses specifically on ...
-    - **URL**: https://www.dekalbcountyga.gov/
-    - **DOMAIN**: www.dekalbcountyga.gov
-    - **POSITION**: 113
-  - **113**:
-    - **TITLE**: Medicare.gov - Log in or create an account
-    - **SNIPPET**: Your secure Medicare account lets you access your information anytime. Get a summary of your current coverage, add your drugs & pharmacies.
-    - **URL**: https://www.medicare.gov/my/home
-    - **DOMAIN**: www.medicare.gov
-    - **POSITION**: 114
-  - **114**:
-    - **TITLE**: Florida Department of Corrections: FDC
-    - **SNIPPET**: AS FLORIDA'S LARGEST STATE AGENCY, AND THE THIRD LARGEST STATE PRISON SYSTEM IN THE COUNTRY, FDC EMPLOYS NEARLY 24,000 MEMBERS, INCARCERATES OVER 88,000 ...
-    - **URL**: https://www.fdc.myflorida.com/
-    - **DOMAIN**: www.fdc.myflorida.com
-    - **POSITION**: 115
-  - **115**:
-    - **TITLE**: National Centers for Environmental Information (NCEI)
-    - **SNIPPET**: Search for recent weather data in your area. Weather forecasts are available through the National Weather Service. Search ...
-    - **URL**: https://www.ncei.noaa.gov/
-    - **DOMAIN**: www.ncei.noaa.gov
-    - **POSITION**: 116
-  - **116**:
+    - **POSITION**: 63
+  - **63**:
+    - **TITLE**: KSDE
+    - **SNIPPET**: The eight-week challenge will run from March 31 through May 23, 2025. Employers interested in participating must register by March 17 at www.bit.ly/Givebackks.
+    - **URL**: https://www.ksde.gov/
+    - **DOMAIN**: www.ksde.gov
+    - **POSITION**: 64
+  - **64**:
+    - **TITLE**: Institute for Health Metrics and Evaluation: Homepage
+    - **SNIPPET**: At IHME, based at the University of Washington, we work with collaborators around the world to develop the evidence that informs health policy and practice.
+    - **URL**: https://www.healthdata.org/
+    - **DOMAIN**: www.healthdata.org
+    - **POSITION**: 65
+  - **65**:
     - **TITLE**: Bandcamp
     - **SNIPPET**: Discover amazing music and directly support the artists who make it.
     - **URL**: https://bandcamp.com/
     - **DOMAIN**: bandcamp.com
-    - **POSITION**: 117
-  - **117**:
-    - **TITLE**: Employee Benefits Security Administration
-    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it ... www.dol.gov/agencies/ebsa. Federal Government. White House · Disaster Recovery ...
-    - **URL**: https://www.dol.gov/agencies/ebsa
-    - **DOMAIN**: www.dol.gov
-    - **POSITION**: 118
-  - **118**:
-    - **TITLE**: iHeart: Listen to Your Favorite Music, Podcasts, and Radio ...
-    - **SNIPPET**: iHeart. All your favorite music, podcasts, and radio stations available for free. Listen to thousands of live radio stations or create your own artist ...
-    - **URL**: https://www.iheart.com/
-    - **DOMAIN**: www.iheart.com
-    - **POSITION**: 119
-  - **119**:
-    - **TITLE**: Form W-9 (Rev. March 2024)
-    - **SNIPPET**: Go to www.irs.gov/FormW9 for instructions and the latest information. Give form to the requester. Do not send to the IRS. Before you begin. For guidance ...
-    - **URL**: https://www.irs.gov/pub/irs-pdf/fw9.pdf
-    - **DOMAIN**: www.irs.gov
-    - **POSITION**: 120
-  - **120**:
-    - **TITLE**: Office of the New York State Comptroller | Thomas P. DiNapoli
-    - **SNIPPET**: The official website of the Office of the New York State Comptroller. Thomas P. DiNapoli is the 54th Comptroller of the State of New York.
-    - **URL**: https://www.osc.ny.gov/
-    - **DOMAIN**: www.osc.ny.gov
-    - **POSITION**: 121
-  - **121**:
-    - **TITLE**: Vox
-    - **SNIPPET**: Vox is a general interest news site for the 21st century. Its mission: to help everyone understand our complicated world, so that we can all help shape it.
-    - **URL**: https://www.vox.com/
-    - **DOMAIN**: www.vox.com
-    - **POSITION**: 122
-  - **122**:
+    - **POSITION**: 66
+  - **66**:
+    - **TITLE**: Misericordia University | Liberal Arts University | Pennsylvania
+    - **SNIPPET**: ... www.youtube.com, or enable JavaScript if it is disabled in your browser. University News & Happenings. RSS Feeds Subscribe to Alerts.
+    - **URL**: https://www.misericordia.edu/
+    - **DOMAIN**: www.misericordia.edu
+    - **POSITION**: 67
+  - **67**:
     - **TITLE**: BET: Celebrities, Music, News, Entertainment, TV Shows ...
     - **SNIPPET**: BET.com is your home for all the latest celebrity, music, fashion, entertainment and African-American news. Check out your favorite BET shows and watch ...
     - **URL**: https://www.bet.com/
     - **DOMAIN**: www.bet.com
-    - **POSITION**: 123
-  - **123**:
-    - **TITLE**: COMPASS Homepage - COMPASS Homepage Landing ...
-    - **SNIPPET**: How Can We Help You? Health Care Image. Health Care Coverage. Includes Children's Health Insurance Program (CHIP), Medical Assistance, Medicaid for Former ...
-    - **URL**: https://www.compass.dhs.pa.gov/
-    - **DOMAIN**: www.compass.dhs.pa.gov
-    - **POSITION**: 124
-  - **124**:
-    - **TITLE**: TIDAL - High Fidelity Music Streaming
-    - **SNIPPET**: TIDAL is an artist-first, fan-centered music streaming platform that delivers over 100 million songs in HiFi sound quality to the global music community.
-    - **URL**: https://tidal.com/
-    - **DOMAIN**: tidal.com
-    - **POSITION**: 125
-  - **125**:
-    - **TITLE**: IDES
-    - **SNIPPET**: The Illinois Department of Employment Security is the code department of the Illinois state government that administers state unemployment benefits, ...
-    - **URL**: https://ides.illinois.gov/
-    - **DOMAIN**: ides.illinois.gov
-    - **POSITION**: 126
-  - **126**:
-    - **TITLE**: Skype | Stay connected with free video calls worldwide
-    - **SNIPPET**: Skype is retiring in May 2025. Beginning March 2025, you will be able to sign into Microsoft Teams Free with your Skype credentials, and your chats and contacts ...
-    - **URL**: https://www.skype.com/en/
-    - **DOMAIN**: www.skype.com
-    - **POSITION**: 127
-  - **127**:
-    - **TITLE**: Vogue: Fashion, Beauty, Celebrity, Fashion Shows | Vogue
-    - **SNIPPET**: The latest fashion news, beauty coverage, celebrity style, fashion week updates, culture reviews, and videos on Vogue.com.
-    - **URL**: https://www.vogue.com/
-    - **DOMAIN**: www.vogue.com
-    - **POSITION**: 128
-  - **128**:
-    - **TITLE**: The World Factbook
-    - **SNIPPET**: The World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, ...
-    - **URL**: https://www.cia.gov/the-world-factbook/
-    - **DOMAIN**: www.cia.gov
-    - **POSITION**: 129
-  - **129**:
-    - **TITLE**: LEO - Unemployment Insurance Agency
-    - **SNIPPET**: The Michigan Unemployment Insurance Agency (UIA) administers the unemployment insurance program that provides temporary financial assistance to individuals who ...
-    - **URL**: https://www.michigan.gov/leo/bureaus-agencies/uia
-    - **DOMAIN**: www.michigan.gov
-    - **POSITION**: 130
-  - **130**:
-    - **TITLE**: Home | International World Wide Web Conference 2024 ...
-    - **SNIPPET**: Since the invention of the World Wide Web in 1989, The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) is a ...
-    - **URL**: https://www2024.thewebconf.org/
-    - **DOMAIN**: www2024.thewebconf.org
-    - **POSITION**: 131
-  - **131**:
+    - **POSITION**: 68
+  - **68**:
+    - **TITLE**: Per diem rates
+    - **SNIPPET**: We establish the per diem rates that federal agencies use to reimburse their employees for lodging and meals and incidental expenses incurred while on official ...
+    - **URL**: https://www.gsa.gov/travel/plan-a-trip/per-diem-rates
+    - **DOMAIN**: www.gsa.gov
+    - **POSITION**: 69
+  - **69**:
+    - **TITLE**: UNC Charlotte: The University of North Carolina at Charlotte
+    - **SNIPPET**: UNC Charlotte, North Carolina's urban research university, fuels American innovation in everything from resilient and sustainable architecture and ...
+    - **URL**: https://www.charlotte.edu/
+    - **DOMAIN**: www.charlotte.edu
+    - **POSITION**: 70
+  - **70**:
+    - **TITLE**: iHeart: Listen to Free Radio Stations & Music Online | iHeart
+    - **SNIPPET**: For You · Your Library · Live Radio · Podcasts · Artist Radio · News · Features · Events · Contests · Photos. Log In Sign Up. Get The App.
+    - **URL**: https://www.iheart.com/
+    - **DOMAIN**: www.iheart.com
+    - **POSITION**: 71
+  - **71**:
+    - **TITLE**: Commodity Futures Trading Commission | CFTC
+    - **SNIPPET**: The laws authorizing CFTC's activities and the regulations issued by CFTC to carry out those activities, as well as related rulemaking, enforcement, and ...
+    - **URL**: https://www.cftc.gov/
+    - **DOMAIN**: www.cftc.gov
+    - **POSITION**: 72
+  - **72**:
     - **TITLE**: eBay: Electronics, Cars, Fashion, Collectibles & More
     - **SNIPPET**: Buy & sell electronics, cars, clothes, collectibles & more on eBay, the world's online marketplace. Top brands, low prices & free shipping on many items.
     - **URL**: https://www.ebay.com/
     - **DOMAIN**: www.ebay.com
-    - **POSITION**: 132
-  - **132**:
-    - **TITLE**: TxDMV Home | TxDMV.gov
-    - **SNIPPET**: Vehicle registration, renew driver license at DPS, buying or selling a vehicle, get a copy of your vehicle title.
-    - **URL**: http://www.txdmv.gov/
-    - **DOMAIN**: www.txdmv.gov
-    - **POSITION**: 133
-  - **133**:
-    - **TITLE**: Newsweek - News, Analysis, Politics, Business, Technology
-    - **SNIPPET**: Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.
-    - **URL**: https://www.newsweek.com/
-    - **DOMAIN**: www.newsweek.com
-    - **POSITION**: 134
-  - **134**:
-    - **TITLE**: Compare iPhone Models
-    - **SNIPPET**: Compare features and technical specifications for iPhone 16 Pro, iPhone 16 Pro Max, iPhone 16, iPhone 16 Plus, iPhone 16e, and many more.
-    - **URL**: https://www.apple.com/iphone/compare/
-    - **DOMAIN**: www.apple.com
-    - **POSITION**: 135
-  - **135**:
-    - **TITLE**: How To Apply For The GI Bill And Related Benefits
-    - **SNIPPET**: Find out how to apply for the GI Bill and other VA education benefits as a Veteran, service member, or qualified family member.
-    - **URL**: https://www.va.gov/education/how-to-apply/
-    - **DOMAIN**: www.va.gov
-    - **POSITION**: 136
-  - **136**:
-    - **TITLE**: How to Change Your Address
-    - **SNIPPET**: If you have filed an immigration benefit request with USCIS, you must notify USCIS of any changes of address as soon as.
-    - **URL**: https://www.uscis.gov/addresschange
-    - **DOMAIN**: www.uscis.gov
-    - **POSITION**: 137
-  - **137**:
-    - **TITLE**: ReverbNation : Artists First
-    - **SNIPPET**: ReverbNation helps Artists grow lasting careers by introducing them to music industry partners, exposing them to fans, and building innovative tools to ...
-    - **URL**: https://www.reverbnation.com/
-    - **DOMAIN**: www.reverbnation.com
-    - **POSITION**: 138
-  - **138**:
+    - **POSITION**: 73
+  - **73**:
+    - **TITLE**: Wetlands Mapper | U.S. Fish & Wildlife Service
+    - **SNIPPET**: The Wetlands mapper is designed to deliver easy-to-use, map like views of America's Wetland resources.
+    - **URL**: https://www.fws.gov/program/national-wetlands-inventory/wetlands-mapper
+    - **DOMAIN**: www.fws.gov
+    - **POSITION**: 74
+  - **74**:
+    - **TITLE**: Austin Community College
+    - **SNIPPET**: Austin Community College is your first step in an education that leads to a skill, a degree, or a transfer path to a four-year college. Find your path.
+    - **URL**: https://www.austincc.edu/
+    - **DOMAIN**: www.austincc.edu
+    - **POSITION**: 75
+  - **75**:
+    - **TITLE**: Acquisition.GOV: Home
+    - **SNIPPET**: An official website of the United States Government. Home Access the Federal Acquisition Regulation Browse the FAR FAC Updates
+    - **URL**: https://www.acquisition.gov/
+    - **DOMAIN**: www.acquisition.gov
+    - **POSITION**: 76
+  - **76**:
+    - **TITLE**: 2025–26 FAFSA ® Form Now Available!
+    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. Questions About the FAFSA® Process. Find answers to ...
+    - **URL**: https://studentaid.gov/h/apply-for-aid/fafsa
+    - **DOMAIN**: studentaid.gov
+    - **POSITION**: 77
+  - **77**:
+    - **TITLE**: United Nations Development Programme: Home
+    - **SNIPPET**: UNDP works to eradicate poverty and reduce inequalities through the sustainable development of nations, in more than 170 countries and territories.
+    - **URL**: https://www.undp.org/home
+    - **DOMAIN**: www.undp.org
+    - **POSITION**: 78
+  - **78**:
+    - **TITLE**: Texas Lutheran University | TLU | Private College | Small ...
+    - **SNIPPET**: Texas Lutheran University - TLU is a private college in Seguin, Texas. We provide a diverse, affordable, small college experience!
+    - **URL**: https://www.tlu.edu/
+    - **DOMAIN**: www.tlu.edu
+    - **POSITION**: 79
+  - **79**:
+    - **TITLE**: JBL
+    - **SNIPPET**: JBL · Pure party energy · Play and charge endlessly · The way to listen - all day · Bold sound for every adventure · SAVE $50 - $100 ON EON700 SERIES - AND ...
+    - **URL**: https://www.jbl.com/
+    - **DOMAIN**: www.jbl.com
+    - **POSITION**: 80
+  - **80**:
+    - **TITLE**: Pennsylvania Child Welfare Information Solution
+    - **SNIPPET**: Our service provides a means for individuals to apply for PA Child Abuse History Clearance online and for mandated reporters to report child abuse in ...
+    - **URL**: https://www.compass.state.pa.us/cwis/public/home
+    - **DOMAIN**: www.compass.state.pa.us
+    - **POSITION**: 81
+  - **81**:
     - **TITLE**: Wikipedia
     - **SNIPPET**: Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.
     - **URL**: https://www.wikipedia.org/
     - **DOMAIN**: www.wikipedia.org
-    - **POSITION**: 139
-  - **139**:
+    - **POSITION**: 82
+  - **82**:
     - **TITLE**: USPS: Welcome
     - **SNIPPET**: Welcome to USPS.com. Track packages, pay and print postage with Click-N-Ship, schedule free package pickups, look up ZIP Codes, calculate postage prices, ...
     - **URL**: https://www.usps.com/
     - **DOMAIN**: www.usps.com
-    - **POSITION**: 140
-  - **140**:
-    - **TITLE**: Knott's Berry Farm: California's Best Theme Park ...
-    - **SNIPPET**: Fun is always in season at Knott's Berry Farm! With dozens of rides, roller coasters, & attractions in five themed areas, there is something for everyone!
-    - **URL**: https://www.knotts.com/
-    - **DOMAIN**: www.knotts.com
-    - **POSITION**: 141
-  - **141**:
-    - **TITLE**: US Bank ReliaCard
-    - **SNIPPET**: If you are waiting on your ReliaCard to arrive, you can check when the card was processed and mailed. Visit My Card Status to learn more.
-    - **URL**: https://www.usbankreliacard.com/
-    - **DOMAIN**: www.usbankreliacard.com
-    - **POSITION**: 142
-  - **142**:
-    - **TITLE**: AOL.com: News, Politics, Sports, Mail & Latest Headlines
-    - **SNIPPET**: Discover the latest breaking news in the U.S. and around the world — politics, weather, entertainment, lifestyle, finance, sports and much more.
-    - **URL**: https://www.aol.com/
-    - **DOMAIN**: www.aol.com
-    - **POSITION**: 143
-  - **143**:
-    - **TITLE**: MassHealth
-    - **SNIPPET**: MassHealth provides health benefits and help paying for them to qualifying children, families, seniors, and people with disabilities living in Massachusetts.
-    - **URL**: https://www.mass.gov/orgs/masshealth
+    - **POSITION**: 83
+  - **83**:
+    - **TITLE**: Massachusetts Department of Revenue (DOR)
+    - **SNIPPET**: DOR manages state taxes and child support. We also help cities and towns manage their finances, and administer the Underground Storage Tank Program.
+    - **URL**: https://www.mass.gov/orgs/massachusetts-department-of-revenue
     - **DOMAIN**: www.mass.gov
-    - **POSITION**: 144
-  - **144**:
-    - **TITLE**: The Standard
-    - **SNIPPET**: We provide insurance, retirement and investment products and services. Work with our team of remarkable people united by compassion and a genuine desire to ...
-    - **URL**: https://www.standard.com/
-    - **DOMAIN**: www.standard.com
-    - **POSITION**: 145
-  - **145**:
-    - **TITLE**: Login | Microsoft 365 Copilot
-    - **SNIPPET**: ... :true}. {"pathAndQuery":"/","loginUrl":"https://www.office.com/login?es=UnauthClick&ru=%2f","userConsentStatus":{"IsCookieConsentRequired":false ...
-    - **URL**: https://www.office.com/
-    - **DOMAIN**: www.office.com
-    - **POSITION**: 146
-  - **146**:
-    - **TITLE**: Yahoo
-    - **SNIPPET**: India vs. New Zealand Live; 2. Dallas Cowboys; 3. Donald Trump; 4. New York Yankees; 5. Nikola Jokic; 6. Russia-Ukraine War; 7. Time Change 2025; 8.
-    - **URL**: https://search.yahoo.com/
-    - **DOMAIN**: search.yahoo.com
-    - **POSITION**: 147
-  - **147**:
-    - **TITLE**: National Response Framework
-    - **SNIPPET**: The National Response Framework (NRF) is a guide to how the nation responds to all types of disasters and emergencies.
-    - **URL**: https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response
-    - **DOMAIN**: www.fema.gov
-    - **POSITION**: 148
-  - **148**:
+    - **POSITION**: 84
+  - **84**:
+    - **TITLE**: Qualcomm: Intelligent Computing Everywhere
+    - **SNIPPET**: Learn how Qualcomm transforms industries with leading edge AI, high-performance, low-power computing and unrivaled connectivity.
+    - **URL**: https://www.qualcomm.com/
+    - **DOMAIN**: www.qualcomm.com
+    - **POSITION**: 85
+  - **85**:
+    - **TITLE**: UN Tourism | Bringing the world closer
+    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. A lazy image. Zurab Pololikashvili, Secretary-General of ...
+    - **URL**: http://www.unwto.org/
+    - **DOMAIN**: www.unwto.org
+    - **POSITION**: 86
+  - **86**:
+    - **TITLE**: Oracle | Cloud Applications and Cloud Platform
+    - **SNIPPET**: Oracle offers a comprehensive and fully integrated stack of cloud applications and cloud platform services.
+    - **URL**: https://www.oracle.com/
+    - **DOMAIN**: www.oracle.com
+    - **POSITION**: 87
+  - **87**:
+    - **TITLE**: EQUATOR Network | Enhancing the QUAlity and ...
+    - **SNIPPET**: Your one-stop-shop for writing and publishing high-impact health research. Find reporting guidelines, improve your writing, join our courses, run your own ...
+    - **URL**: https://www.equator-network.org/
+    - **DOMAIN**: www.equator-network.org
+    - **POSITION**: 88
+  - **88**:
+    - **TITLE**: SAM.gov: Home
+    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. Restart rewind 20 seconds. Play Pause forward 20 seconds.
+    - **URL**: https://sam.gov/
+    - **DOMAIN**: sam.gov
+    - **POSITION**: 89
+  - **89**:
     - **TITLE**: World Wide Web (WWW)
     - **SNIPPET**: World-Wide Web (also called WWW or W3) is a hypertext-based information system. Any word in a hypertext document can be specified as a pointer to a different ...
     - **URL**: https://www.ou.edu/research/electron/internet/www.htm
     - **DOMAIN**: www.ou.edu
-    - **POSITION**: 149
-  - **149**:
-    - **TITLE**: Georgia Department of Driver Services
-    - **SNIPPET**: Our Mission at DDS is to provide secure driver and identity credentials to our customers with excellence and respect.
-    - **URL**: https://dds.georgia.gov/
-    - **DOMAIN**: dds.georgia.gov
-    - **POSITION**: 150
-  - **150**:
-    - **TITLE**: Wawa: Your Ultimate Convenience Store for Food, Drink, Fuel ...
-    - **SNIPPET**: Fuel your day with Wawa, your all-day, everyday convenience store. Grab Built-To-Order® food and beverages, coffee, fuel services, and much more.
-    - **URL**: https://www.wawa.com/
-    - **DOMAIN**: www.wawa.com
-    - **POSITION**: 151
-  - **151**:
-    - **TITLE**: Home | World Wide Web
-    - **SNIPPET**: Overview. World Wide Web: Internet and Web Information Systems (WWW) is an international, archival, peer-reviewed journal that covers all aspects of the Web, ...
-    - **URL**: https://link.springer.com/journal/11280
-    - **DOMAIN**: link.springer.com
-    - **POSITION**: 152
-  - **152**:
-    - **TITLE**: Vimeo AI-Powered Video Platform
-    - **SNIPPET**: The video platform trusted by 287 million creatives, entrepreneurs, and businesses. Everything you need to create, manage, and share stunning videos.
-    - **URL**: https://vimeo.com/
-    - **DOMAIN**: vimeo.com
-    - **POSITION**: 153
-  - **153**:
+    - **POSITION**: 90
+  - **90**:
+    - **TITLE**: Motor Vehicle Division NM | The duties of the Motor Vehicle ...
+    - **SNIPPET**: Home · Maps & Locations · Location Events & Closings · Resources · Frequently Asked Questions · Driver's License Information · Commercial Vehicle ...
+    - **URL**: https://www.mvd.newmexico.gov/
+    - **DOMAIN**: www.mvd.newmexico.gov
+    - **POSITION**: 91
+  - **91**:
+    - **TITLE**: Red Cards / Tarjetas Rojas
+    - **SNIPPET**: Businesses, Private Attorneys, and Orders of 1000+: Order from www.RedCardOrders.com. This is a union-run printer set up to accept your order, print, and ...
+    - **URL**: https://www.ilrc.org/red-cards-tarjetas-rojas
+    - **DOMAIN**: www.ilrc.org
+    - **POSITION**: 92
+  - **92**:
     - **TITLE**: World Wide Web (WWW)
     - **SNIPPET**: WWW is defined as the collection of different websites around the world, containing different information shared via local servers(or computers).
     - **URL**: https://www.geeksforgeeks.org/world-wide-web-www/
     - **DOMAIN**: www.geeksforgeeks.org
-    - **POSITION**: 154
-  - **154**:
-    - **TITLE**: Western Governors University – Online College
-    - **SNIPPET**: ... more about WGU's program! https://www.youtube.com/watch?v=RV8uGD55sdY&t=1s. The University. About Us · Accessibility · Accreditation · Newsroom · Careers. For ...
-    - **URL**: https://www.wgu.edu/
-    - **DOMAIN**: www.wgu.edu
-    - **POSITION**: 155
-  - **155**:
-    - **TITLE**: Sign in - Google Accounts
-    - **SNIPPET**: Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode. Next. Create account. For my personal use; For work or my ...
-    - **URL**: https://keep.google.com/
-    - **DOMAIN**: keep.google.com
-    - **POSITION**: 156
-  - **156**:
-    - **TITLE**: Jefferson Parish, LA | Official Website
-    - **SNIPPET**: How Can I... · Bids · Business License · Christmas Tree Lot Permits · Commercial Building Permits · Drivers License · Early Head Start / Head Start · Electrical, Gas, ...
-    - **URL**: https://www.jeffparish.gov/
-    - **DOMAIN**: www.jeffparish.gov
-    - **POSITION**: 157
-  - **157**:
-    - **TITLE**: Application for Social Security Card
-    - **SNIPPET**: We will return any documents submitted with your application. For assistance call us at 1-800-772-1213 or visit our website at www.socialsecurity.gov. Original ...
-    - **URL**: https://www.ssa.gov/forms/ss-5.pdf
-    - **DOMAIN**: www.ssa.gov
-    - **POSITION**: 158
-  - **158**:
-    - **TITLE**: The Official Home of the Women's Tennis Association | WTA ...
-    - **SNIPPET**: Home of the Women's Tennis Association. Turn to the WTA for the best coverage of your favorite players!
-    - **URL**: https://www.wtatennis.com/
-    - **DOMAIN**: www.wtatennis.com
-    - **POSITION**: 159
-  - **159**:
-    - **TITLE**: Download Zotero Connector
-    - **SNIPPET**: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
-    - **URL**: https://www.zotero.org/download/
-    - **DOMAIN**: www.zotero.org
-    - **POSITION**: 160
-  - **160**:
-    - **TITLE**: ABC Network - ABC.com
-    - **SNIPPET**: Watch the ABC Shows online at abc.com. Get exclusive videos and free episodes.
-    - **URL**: https://abc.com/
-    - **DOMAIN**: abc.com
-    - **POSITION**: 161
-  - **161**:
-    - **TITLE**: Department of Labor and Industry
-    - **SNIPPET**: Refer to your Pennsylvania UC Handbook (Form UCP-1) or go to www.uc.pa.gov for complete instructions or to print additional copies of ...
-    - **URL**: https://www.pa.gov/agencies/dli.html
-    - **DOMAIN**: www.pa.gov
-    - **POSITION**: 162
-  - **162**:
-    - **TITLE**: Log in to your PayPal account
-    - **SNIPPET**: Transfer money online in seconds with PayPal money transfer. All you need is an email address.
-    - **URL**: https://www.paypal.com/us/signin
-    - **DOMAIN**: www.paypal.com
-    - **POSITION**: 163
-  - **163**:
+    - **POSITION**: 93
+  - **93**:
+    - **TITLE**: Vatican News: News from the Vatican - News about the Church
+    - **SNIPPET**: Visit Vatican News for all the latest updates on Pope Francis, the Holy See and the Church in the World.
+    - **URL**: https://www.vaticannews.va/en.html
+    - **DOMAIN**: www.vaticannews.va
+    - **POSITION**: 94
+  - **94**:
+    - **TITLE**: Los Angeles Times: News from California, across the nation ...
+    - **SNIPPET**: The L.A. Times is a leading source of breaking news, entertainment, sports, politics, and more for Southern California and the world.
+    - **URL**: https://www.latimes.com/
+    - **DOMAIN**: www.latimes.com
+    - **POSITION**: 95
+  - **95**:
+    - **TITLE**: University Corporation for Atmospheric Research | University ...
+    - **SNIPPET**: UCAR manages the US National Science Foundation National Center for Atmospheric Research (NSF NCAR) on behalf of NSF.
+    - **URL**: https://www.ucar.edu/
+    - **DOMAIN**: www.ucar.edu
+    - **POSITION**: 96
+  - **96**:
+    - **TITLE**: CMU Chippewas | Mount Pleasant, MI
+    - **SNIPPET**: CMU is a public research university in Michigan that offers degree programs in Mount Pleasant, online and locations across North America. Est. 1892.
+    - **URL**: https://www.cmich.edu/
+    - **DOMAIN**: www.cmich.edu
+    - **POSITION**: 97
+  - **97**:
+    - **TITLE**: Riverbanks Zoo & Garden :: Columbia, South Carolina
+    - **SNIPPET**: One of America's best zoos, Riverbanks Zoo and Garden is home to more than 2000 animals and one of the nation's most inspiring botanical gardens.
+    - **URL**: https://www.riverbanks.org/
+    - **DOMAIN**: www.riverbanks.org
+    - **POSITION**: 98
+  - **98**:
+    - **TITLE**: Front page | U.S. Department of the Treasury
+    - **SNIPPET**: Tools · Financial Sanctions · Daily Interest Rates · Treasury Hunt · Bureaus · Inspector General Sites · U.S. Government Shared Services · Additional Resources · Other ...
+    - **URL**: https://home.treasury.gov/
+    - **DOMAIN**: home.treasury.gov
+    - **POSITION**: 99
+  - **99**:
+    - **TITLE**: Front Page | Virginia Court System
+    - **SNIPPET**: This system is comprised of the Supreme Court of Virginia, the Court of Appeals of Virginia, circuit courts in thirty-one judicial circuits, Supreme Court of ...
+    - **URL**: https://www.vacourts.gov/
+    - **DOMAIN**: www.vacourts.gov
+    - **POSITION**: 100
+  - **100**:
+    - **TITLE**: Wisconsin Department of Revenue - Wisconsin.gov
+    - **SNIPPET**: https://www.revenue.wi.gov/Pages/WisTax/home.aspx. 3. DependantCareCredit1.png, DependantCareCredit1, 1005 x 400, 294 KB, 2/14/2025 9:28 AM, Approved, Yes ...
+    - **URL**: https://www.revenue.wi.gov/Pages/Home.aspx
+    - **DOMAIN**: www.revenue.wi.gov
+    - **POSITION**: 101
+  - **101**:
+    - **TITLE**: TikTok - Make Your Day
+    - **SNIPPET**: TikTok - trends start here. On a device or on the web, viewers can watch and discover millions of personalized short videos.
+    - **URL**: https://www.tiktok.com/
+    - **DOMAIN**: www.tiktok.com
+    - **POSITION**: 102
+  - **102**:
+    - **TITLE**: Home | Worldwide Governance Indicators
+    - **SNIPPET**: ... the WGI conducted in 2024. How to Cite this Dataset. Worldwide Governance Indicators, 2024 Update, World Bank (www.govindicators.org), Accessed on 10/30/2024.
+    - **URL**: https://www.worldbank.org/en/publication/worldwide-governance-indicators
+    - **DOMAIN**: www.worldbank.org
+    - **POSITION**: 103
+  - **103**:
+    - **TITLE**: Hillsborough Community College: Home
+    - **SNIPPET**: HCC's talented athletics teams have garnered recognition in regional, state and national competitions. For schedules, tickets, stats and more, visit HCC ...
+    - **URL**: https://www.hccfl.edu/
+    - **DOMAIN**: www.hccfl.edu
+    - **POSITION**: 104
+  - **104**:
+    - **TITLE**: FATF
+    - **SNIPPET**: The Financial Action Task Force (FATF) is the global money laundering and terrorist financing watchdog. It sets international standards that aim to prevent ...
+    - **URL**: https://www.fatf-gafi.org/en/home.html
+    - **DOMAIN**: www.fatf-gafi.org
+    - **POSITION**: 105
+  - **105**:
+    - **TITLE**: Franchise Tax Board Homepage | FTB.ca.gov
+    - **SNIPPET**: https://www.ftb.ca.gov/about-ftb/newsroom/caleitc/index.html?WT.ac=Home_Ad_EITC; https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/Immunization/ncov2019.aspx ...
+    - **URL**: https://www.ftb.ca.gov/index.html
+    - **DOMAIN**: www.ftb.ca.gov
+    - **POSITION**: 106
+  - **106**:
+    - **TITLE**: Colorado Secretary of State
+    - **SNIPPET**: Programs & services · Administrative rules of state agencies · Bingo and raffles licensing · Charities and fundraisers · Durable medical equipment suppliers ...
+    - **URL**: https://www.sos.state.co.us/
+    - **DOMAIN**: www.sos.state.co.us
+    - **POSITION**: 107
+  - **107**:
+    - **TITLE**: WASDE Report | Home
+    - **SNIPPET**: The World Agricultural Supply and Demand Estimates (WASDE) is prepared and released by the World Agricultural Outlook Board (WAOB)
+    - **URL**: https://www.usda.gov/about-usda/general-information/staff-offices/office-chief-economist/commodity-markets/wasde-report
+    - **DOMAIN**: www.usda.gov
+    - **POSITION**: 108
+  - **108**:
     - **TITLE**: The World Wide Web project
     - **SNIPPET**: The WorldWideWeb (W3) is a wide-area hypermedia information retrieval initiative aiming to give universal access to a large universe of documents. Everything ...
     - **URL**: https://info.cern.ch/hypertext/WWW/TheProject.html
     - **DOMAIN**: info.cern.ch
-    - **POSITION**: 164
-  - **164**:
-    - **TITLE**: My Vote
-    - **SNIPPET**: Interested in voting absentee by mail in the next election? Learn more about your options, get step-by-step instructions, and find helpful resources for voters.
-    - **URL**: https://myvote.wi.gov/en-us/
-    - **DOMAIN**: myvote.wi.gov
-    - **POSITION**: 165
-  - **165**:
-    - **TITLE**: SpaceX
-    - **SNIPPET**: SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, ...
-    - **URL**: https://www.spacex.com/
-    - **DOMAIN**: www.spacex.com
-    - **POSITION**: 166
-  - **166**:
-    - **TITLE**: Google Trends
-    - **SNIPPET**: Explore issues and events in detail. Curated by the Trends Data Team. Year in Search 2024. Explore the year through the lens ...
-    - **URL**: https://trends.google.com/trends/
-    - **DOMAIN**: trends.google.com
-    - **POSITION**: 167
-  - **167**:
-    - **TITLE**: BILL | Financial Operations Platform for Businesses & Firms
-    - **SNIPPET**: The AP, AR, and spend & expense solution that lets you create and pay bills, manage expenses, control budgets, and get the credit your business/firm needs ...
-    - **URL**: https://www.bill.com/
-    - **DOMAIN**: www.bill.com
-    - **POSITION**: 168
-  - **168**:
-    - **TITLE**: Welcome to the Texas Department of Public Safety ...
-    - **SNIPPET**: Most vehicle safety inspections were eliminated as of Jan. 1, 2025, due to changes to the state's Vehicle Safety Inspection Program. Texans ...
-    - **URL**: https://www.dps.texas.gov/
-    - **DOMAIN**: www.dps.texas.gov
-    - **POSITION**: 169
-  - **169**:
-    - **TITLE**: Welcome to Gibson
-    - **SNIPPET**: Shop the latest releases from Gibson, including electric and acoustic guitars, amplifiers, and more.
-    - **URL**: https://www.gibson.com/en-US/?srsltid=AfmBOoqtrX-HY35yCkc3-6z7xEym7Vyb0btNEsMHGXzDT7zTMl-b7oVJ
-    - **DOMAIN**: www.gibson.com
-    - **POSITION**: 170
-  - **170**:
-    - **TITLE**: Vevo: The World's Leading Music Video Network
-    - **SNIPPET**: Vevo is the world's leading music video network, connecting an ever-growing global audience to high quality music video content for more than a decade.
-    - **URL**: https://www.hq.vevo.com/
-    - **DOMAIN**: www.hq.vevo.com
-    - **POSITION**: 171
-  - **171**:
-    - **TITLE**: The Official North Carolina DMV Website
-    - **SNIPPET**: NCDMV Online Services. Contact NCDMV Customer Service (919) 715-7000 3101 Mail Service Center 1515 N.Church St. Rocky Mount, NC 27804
-    - **URL**: https://www.ncdot.gov/dmv/Pages/default.aspx
-    - **DOMAIN**: www.ncdot.gov
-    - **POSITION**: 172
-  - **172**:
-    - **TITLE**: wikiHow: How-to instructions you can trust.
-    - **SNIPPET**: Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want ...
-    - **URL**: https://www.wikihow.com/Main-Page
-    - **DOMAIN**: www.wikihow.com
-    - **POSITION**: 173
-  - **173**:
-    - **TITLE**: IdentityTheft.gov
-    - **SNIPPET**: Recovering from identity theft is a process. Here's step-by-step advice that can help you limit the damage, report identity theft, and fix your credit.
-    - **URL**: https://www.identitytheft.gov/
-    - **DOMAIN**: www.identitytheft.gov
-    - **POSITION**: 174
-  - **174**:
-    - **TITLE**: Google Accounts: Sign in
-    - **SNIPPET**: Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode. Next. Create account. For my personal use; For work or my ...
-    - **URL**: https://accounts.google.com/
-    - **DOMAIN**: accounts.google.com
-    - **POSITION**: 175
-  - **175**:
-    - **TITLE**: Capital One | Credit Cards, Checking, Savings & Auto Loans
-    - **SNIPPET**: Learn how banking with Capital One can help you meet your financial goals.
-    - **URL**: https://www.capitalone.com/
-    - **DOMAIN**: www.capitalone.com
-    - **POSITION**: 176
-  - **176**:
-    - **TITLE**: Home | Web Accessibility Initiative (WAI)
-    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. Captions are the audio information in text that is ...
-    - **URL**: https://www.w3.org/WAI/
-    - **DOMAIN**: www.w3.org
-    - **POSITION**: 177
-  - **177**:
-    - **TITLE**: What is the World Wide Web (WWW)? | Definition from ...
-    - **SNIPPET**: What is World Wide Web (WWW, W3)?. The World Wide Web -- also known as the web, WWW or W3 -- refers to all the public websites or pages that users can access on ...
-    - **URL**: https://www.techtarget.com/whatis/definition/World-Wide-Web
-    - **DOMAIN**: www.techtarget.com
-    - **POSITION**: 178
-  - **178**:
-    - **TITLE**: WWE News, Results, Photos & Video - Official Site | WWE
-    - **SNIPPET**: The official home of the latest WWE news, results and events. Get breaking news, photos, and video of your favorite WWE Superstars.
-    - **URL**: https://www.wwe.com/
-    - **DOMAIN**: www.wwe.com
-    - **POSITION**: 179
-  - **179**:
-    - **TITLE**: WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More
-    - **SNIPPET**: Build a site, sell online, earn with your content, and more.
-    - **URL**: https://wordpress.com/
-    - **DOMAIN**: wordpress.com
-    - **POSITION**: 180
-  - **180**:
-    - **TITLE**: Vodafone.com
-    - **SNIPPET**: Vodafone is a leading technology communications company in Europe and Africa, keeping society connected and building a digital future. Find out more!
-    - **URL**: https://www.vodafone.com/
-    - **DOMAIN**: www.vodafone.com
-    - **POSITION**: 181
-  - **181**:
-    - **TITLE**: Stack Overflow: Newest Questions
-    - **SNIPPET**: javascript; python; java; c#; php; android; html; jquery; c++; css; ios; sql; mysql; r; reactjs; node.js; arrays; c; asp.net; json; python-3.x .net; ruby-on- ...
-    - **URL**: https://stackoverflow.com/
-    - **DOMAIN**: stackoverflow.com
-    - **POSITION**: 182
-  - **182**:
-    - **TITLE**: E! News - E! Online
-    - **SNIPPET**: Your source for entertainment news, celebrities, celeb news, and ​celebrity gossip. Check out the hottest fashion, photos, movies and TV shows! Ad Choices ...
-    - **URL**: https://www.eonline.com/
-    - **DOMAIN**: www.eonline.com
-    - **POSITION**: 183
-  - **183**:
+    - **POSITION**: 109
+  - **109**:
+    - **TITLE**: Alabama Secretary of State: Home
+    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. It's Your Responsibility to Report Allegations of Voter ...
+    - **URL**: https://www.sos.alabama.gov/
+    - **DOMAIN**: www.sos.alabama.gov
+    - **POSITION**: 110
+  - **110**:
+    - **TITLE**: WeTransfer | Send Large Files Fast
+    - **SNIPPET**: The simple, quick and secure way to send your files around the world without an account. Share your files, photos, and videos today for free.
+    - **URL**: https://wetransfer.com/
+    - **DOMAIN**: wetransfer.com
+    - **POSITION**: 111
+  - **111**:
+    - **TITLE**: World Wide Web Foundation - Founded by Tim Berners-Lee ...
+    - **SNIPPET**: After 15 years working towards a Web that is safe, trusted and empowering for all, the Web Foundation is shutting its virtual doors on the 27th September. The ...
+    - **URL**: https://webfoundation.org/
+    - **DOMAIN**: webfoundation.org
+    - **POSITION**: 112
+  - **112**:
+    - **TITLE**: Retirement, Investments, and Insurance | Principal
+    - **SNIPPET**: Let's keep your finances simple. Insure what you have. Invest when you're ready. Retire with confidence.
+    - **URL**: https://www.principal.com/
+    - **DOMAIN**: www.principal.com
+    - **POSITION**: 113
+  - **113**:
+    - **TITLE**: GAfutures.org | Georgia Student Finance Commission
+    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. Welcome to Gafutures. Fill Out The FAFSA. CPC - 9th Grade ...
+    - **URL**: https://www.gafutures.org/
+    - **DOMAIN**: www.gafutures.org
+    - **POSITION**: 114
+  - **114**:
+    - **TITLE**: Missouri Department of Transportation: Home Page
+    - **SNIPPET**: JEFFERSON CITY – The Missouri Highways and Transportation Commission today voted Warren K. Erdman, Kansas City, and W. Dustin Boatwright, Cape Girardeau, into ...
+    - **URL**: https://www.modot.org/
+    - **DOMAIN**: www.modot.org
+    - **POSITION**: 115
+  - **115**:
+    - **TITLE**: About this Collection | World Digital Library
+    - **SNIPPET**: The materials collected by the WDL include cultural treasures and significant historical documents including books, manuscripts, maps, newspapers, journals, ...
+    - **URL**: https://www.loc.gov/collections/world-digital-library/about-this-collection/
+    - **DOMAIN**: www.loc.gov
+    - **POSITION**: 116
+  - **116**:
+    - **TITLE**: Georgia Department of Labor
+    - **SNIPPET**: The Georgia Department of Labor provides a wide range of services to individuals and employers. These include administration of Georgia's unemployment ...
+    - **URL**: https://dol.georgia.gov/
+    - **DOMAIN**: dol.georgia.gov
+    - **POSITION**: 117
+  - **117**:
+    - **TITLE**: Texas Workforce Commission - Home Page
+    - **SNIPPET**: Texas Workforce Commission is the state agency charged with overseeing and providing workforce development services to employers and job seekers of Texas.
+    - **URL**: https://www.twc.texas.gov/
+    - **DOMAIN**: www.twc.texas.gov
+    - **POSITION**: 118
+  - **118**:
+    - **TITLE**: The Official Website for the Illinois Secretary of State
+    - **SNIPPET**: “WHY IS IT SO DIFFICULT TO GET AN APPOINTMENT?” Due to the federally-mandated Real ID requirements, our facilities and website have been overwhelmed with ...
+    - **URL**: https://www.ilsos.gov/
+    - **DOMAIN**: www.ilsos.gov
+    - **POSITION**: 119
+  - **119**:
+    - **TITLE**: Electric Reliability Council of Texas
+    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. What is ERCOT? ERCOTISO. 966 subscribers. How does ERCOT ...
+    - **URL**: https://www.ercot.com/
+    - **DOMAIN**: www.ercot.com
+    - **POSITION**: 120
+  - **120**:
+    - **TITLE**: WIRED - The Latest in Technology, Science, Culture and ...
+    - **SNIPPET**: We bring you the future as it happens. From the latest in science and technology to the big stories in business and culture, we've got you covered.
+    - **URL**: https://www.wired.com/
+    - **DOMAIN**: www.wired.com
+    - **POSITION**: 121
+  - **121**:
+    - **TITLE**: Home | DeKalb County GA
+    - **SNIPPET**: DCTV shares information in a way in which everyone can understand how DeKalb County government serves its stakeholders. Our programming focuses specifically on ...
+    - **URL**: https://www.dekalbcountyga.gov/
+    - **DOMAIN**: www.dekalbcountyga.gov
+    - **POSITION**: 122
+  - **122**:
     - **TITLE**: Corruption Perceptions Index 2024
     - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. Thumb Methodology01. The CPI Explained.
     - **URL**: https://www.transparency.org/en/cpi/2024
     - **DOMAIN**: www.transparency.org
-    - **POSITION**: 184
-  - **184**:
-    - **TITLE**: TIME | Current & Breaking News | National & World Updates
-    - **SNIPPET**: Breaking news and analysis from TIME.com. Politics, world news, photos, video, tech reviews, health, science and entertainment news.
-    - **URL**: https://time.com/
-    - **DOMAIN**: time.com
-    - **POSITION**: 185
-  - **185**:
-    - **TITLE**: ABC (Australian Broadcasting Corporation)
-    - **SNIPPET**: Your home of Australian stories, conversations and events that shape our nation.
-    - **URL**: https://www.abc.net.au/
-    - **DOMAIN**: www.abc.net.au
-    - **POSITION**: 186
-  - **186**:
-    - **TITLE**: World Wide Web | History, Uses & Benefits
-    - **SNIPPET**: World Wide Web · World Wide Web (WWW), the leading information retrieval service of the · A hypertext document with its corresponding text and ...
-    - **URL**: https://www.britannica.com/topic/World-Wide-Web
-    - **DOMAIN**: www.britannica.com
-    - **POSITION**: 187
-  - **187**:
-    - **TITLE**: Victoria's Secret: Lingerie, Bras & Sport
-    - **SNIPPET**: The world's best bras, panties, and lingerie. Shop our favorite clothing from pajamas and activewear to beauty and swim.
-    - **URL**: https://www.victoriassecret.com/us/
-    - **DOMAIN**: www.victoriassecret.com
-    - **POSITION**: 188
-  - **188**:
-    - **TITLE**: IKEA: Shop Affordable Home Furnishings & Home Goods
-    - **SNIPPET**: Find affordable furniture and home goods at IKEA! Discover furnishings and inspiration to create a better life at home. Shop online or in store!
-    - **URL**: https://www.ikea.com/us/en/
-    - **DOMAIN**: www.ikea.com
-    - **POSITION**: 189
-  - **189**:
-    - **TITLE**: RTINGS.com: Reviews and Ratings
-    - **SNIPPET**: Find the best products for your needs, based on our reviews, ratings and recommendations.
-    - **URL**: https://www.rtings.com/
-    - **DOMAIN**: www.rtings.com
-    - **POSITION**: 190
-  - **190**:
-    - **TITLE**: Canada.ca: Home
-    - **SNIPPET**: Get quick, easy access to all Government of Canada services and information.
-    - **URL**: https://www.canada.ca/en.html
-    - **DOMAIN**: www.canada.ca
-    - **POSITION**: 191
-  - **191**:
-    - **TITLE**: QS World University Rankings by Subject 2024
-    - **SNIPPET**: The 2024 edition of the QS World University Rankings by Subject features 55 individual subjects across five broad subject areas.
-    - **URL**: https://www.topuniversities.com/subject-rankings
-    - **DOMAIN**: www.topuniversities.com
-    - **POSITION**: 192
-  - **192**:
-    - **TITLE**: News
-    - **SNIPPET**: The latest transcripts, proclamations, executive orders, and press releases from The White House.
-    - **URL**: https://www.whitehouse.gov/news/
-    - **DOMAIN**: www.whitehouse.gov
-    - **POSITION**: 193
-  - **193**:
-    - **TITLE**: Google News
-    - **SNIPPET**: Read full articles, watch videos, browse thousands of titles and more on the "Home page" topic with Google News.
-    - **URL**: https://news.google.com/
-    - **DOMAIN**: news.google.com
-    - **POSITION**: 194
-  - **194**:
+    - **POSITION**: 123
+  - **123**:
+    - **TITLE**: Medicare.gov - Log in or create an account
+    - **SNIPPET**: Your secure Medicare account lets you access your information anytime. Get a summary of your current coverage, add your drugs & pharmacies.
+    - **URL**: https://www.medicare.gov/my/home
+    - **DOMAIN**: www.medicare.gov
+    - **POSITION**: 124
+  - **124**:
+    - **TITLE**: Florida Department of Corrections: FDC
+    - **SNIPPET**: AS FLORIDA'S LARGEST STATE AGENCY, AND THE THIRD LARGEST STATE PRISON SYSTEM IN THE COUNTRY, FDC EMPLOYS NEARLY 24,000 MEMBERS, INCARCERATES OVER 88,000 ...
+    - **URL**: https://www.fdc.myflorida.com/
+    - **DOMAIN**: www.fdc.myflorida.com
+    - **POSITION**: 125
+  - **125**:
+    - **TITLE**: National Centers for Environmental Information (NCEI)
+    - **SNIPPET**: Search for recent weather data in your area. Weather forecasts are available through the National Weather Service. Search ...
+    - **URL**: https://www.ncei.noaa.gov/
+    - **DOMAIN**: www.ncei.noaa.gov
+    - **POSITION**: 126
+  - **126**:
+    - **TITLE**: Employee Benefits Security Administration
+    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it ... www.dol.gov/agencies/ebsa. Federal Government. White House · Disaster Recovery ...
+    - **URL**: https://www.dol.gov/agencies/ebsa
+    - **DOMAIN**: www.dol.gov
+    - **POSITION**: 127
+  - **127**:
+    - **TITLE**: What's the common way to say "www"? : r/EnglishLearning
+    - **SNIPPET**: "WWW" as in "world wide web". Is it "double U double U double U"? Is it "world wide web"? I've heard of "triple double U". Is it common? What about "dub dub ...
+    - **URL**: https://www.reddit.com/r/EnglishLearning/comments/pexjpw/whats_the_common_way_to_say_www/
+    - **DOMAIN**: www.reddit.com
+    - **POSITION**: 128
+  - **128**:
+    - **TITLE**: IdentityTheft.gov
+    - **SNIPPET**: Recovering from identity theft is a process. Here's step-by-step advice that can help you limit the damage, report identity theft, and fix your credit.
+    - **URL**: https://www.identitytheft.gov/
+    - **DOMAIN**: www.identitytheft.gov
+    - **POSITION**: 129
+  - **129**:
+    - **TITLE**: Form W-9 (Rev. March 2024)
+    - **SNIPPET**: Go to www.irs.gov/FormW9 for instructions and the latest information. Give form to the requester. Do not send to the IRS. Before you begin. For guidance ...
+    - **URL**: https://www.irs.gov/pub/irs-pdf/fw9.pdf
+    - **DOMAIN**: www.irs.gov
+    - **POSITION**: 130
+  - **130**:
+    - **TITLE**: Office of the New York State Comptroller | Thomas P. DiNapoli
+    - **SNIPPET**: The official website of the Office of the New York State Comptroller. Thomas P. DiNapoli is the 54th Comptroller of the State of New York.
+    - **URL**: https://www.osc.ny.gov/
+    - **DOMAIN**: www.osc.ny.gov
+    - **POSITION**: 131
+  - **131**:
+    - **TITLE**: Vox
+    - **SNIPPET**: Vox is a general interest news site for the 21st century. Its mission: to help everyone understand our complicated world, so that we can all help shape it.
+    - **URL**: https://www.vox.com/
+    - **DOMAIN**: www.vox.com
+    - **POSITION**: 132
+  - **132**:
+    - **TITLE**: COMPASS Homepage - COMPASS Homepage Landing ...
+    - **SNIPPET**: How Can We Help You? Health Care Image. Health Care Coverage. Includes Children's Health Insurance Program (CHIP), Medical Assistance, Medicaid for Former ...
+    - **URL**: https://www.compass.dhs.pa.gov/
+    - **DOMAIN**: www.compass.dhs.pa.gov
+    - **POSITION**: 133
+  - **133**:
+    - **TITLE**: TIDAL - High Fidelity Music Streaming
+    - **SNIPPET**: TIDAL is an artist-first, fan-centered music streaming platform that delivers over 100 million songs in HiFi sound quality to the global music community.
+    - **URL**: https://tidal.com/
+    - **DOMAIN**: tidal.com
+    - **POSITION**: 134
+  - **134**:
+    - **TITLE**: wikiHow: How-to instructions you can trust.
+    - **SNIPPET**: Learn how to do anything with wikiHow, the world's most popular how-to website. Easy, well-researched, and trustworthy instructions for everything you want ...
+    - **URL**: https://www.wikihow.com/Main-Page
+    - **DOMAIN**: www.wikihow.com
+    - **POSITION**: 135
+  - **135**:
+    - **TITLE**: IDES
+    - **SNIPPET**: The Illinois Department of Employment Security is the code department of the Illinois state government that administers state unemployment benefits, ...
+    - **URL**: https://ides.illinois.gov/
+    - **DOMAIN**: ides.illinois.gov
+    - **POSITION**: 136
+  - **136**:
+    - **TITLE**: Skype | Stay connected with free video calls worldwide
+    - **SNIPPET**: Skype is retiring in May 2025. Beginning March 2025, you will be able to sign into Microsoft Teams Free with your Skype credentials, and your chats and contacts ...
+    - **URL**: https://www.skype.com/en/
+    - **DOMAIN**: www.skype.com
+    - **POSITION**: 137
+  - **137**:
+    - **TITLE**: Vogue: Fashion, Beauty, Celebrity, Fashion Shows | Vogue
+    - **SNIPPET**: The latest fashion news, beauty coverage, celebrity style, fashion week updates, culture reviews, and videos on Vogue.com.
+    - **URL**: https://www.vogue.com/
+    - **DOMAIN**: www.vogue.com
+    - **POSITION**: 138
+  - **138**:
+    - **TITLE**: The World Factbook
+    - **SNIPPET**: The World Factbook provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, ...
+    - **URL**: https://www.cia.gov/the-world-factbook/
+    - **DOMAIN**: www.cia.gov
+    - **POSITION**: 139
+  - **139**:
+    - **TITLE**: LEO - Unemployment Insurance Agency
+    - **SNIPPET**: The Michigan Unemployment Insurance Agency (UIA) administers the unemployment insurance program that provides temporary financial assistance to individuals who ...
+    - **URL**: https://www.michigan.gov/leo/bureaus-agencies/uia
+    - **DOMAIN**: www.michigan.gov
+    - **POSITION**: 140
+  - **140**:
+    - **TITLE**: What is the World Wide Web (WWW)? | Definition from ...
+    - **SNIPPET**: What is World Wide Web (WWW, W3)?. The World Wide Web -- also known as the web, WWW or W3 -- refers to all the public websites or pages that users can access on ...
+    - **URL**: https://www.techtarget.com/whatis/definition/World-Wide-Web
+    - **DOMAIN**: www.techtarget.com
+    - **POSITION**: 141
+  - **141**:
+    - **TITLE**: Home | International World Wide Web Conference 2024 ...
+    - **SNIPPET**: Since the invention of the World Wide Web in 1989, The Web Conference (formerly known as International World Wide Web Conference, abbreviated as WWW) is a ...
+    - **URL**: https://www2024.thewebconf.org/
+    - **DOMAIN**: www2024.thewebconf.org
+    - **POSITION**: 142
+  - **142**:
+    - **TITLE**: TxDMV Home | TxDMV.gov
+    - **SNIPPET**: Vehicle registration, renew driver license at DPS, buying or selling a vehicle, get a copy of your vehicle title.
+    - **URL**: http://www.txdmv.gov/
+    - **DOMAIN**: www.txdmv.gov
+    - **POSITION**: 143
+  - **143**:
+    - **TITLE**: How To Apply For The GI Bill And Related Benefits
+    - **SNIPPET**: Find out how to apply for the GI Bill and other VA education benefits as a Veteran, service member, or qualified family member.
+    - **URL**: https://www.va.gov/education/how-to-apply/
+    - **DOMAIN**: www.va.gov
+    - **POSITION**: 144
+  - **144**:
+    - **TITLE**: Newsweek - News, Analysis, Politics, Business, Technology
+    - **SNIPPET**: Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.
+    - **URL**: https://www.newsweek.com/
+    - **DOMAIN**: www.newsweek.com
+    - **POSITION**: 145
+  - **145**:
+    - **TITLE**: How to Change Your Address
+    - **SNIPPET**: If you have filed an immigration benefit request with USCIS, you must notify USCIS of any changes of address as soon as.
+    - **URL**: https://www.uscis.gov/addresschange
+    - **DOMAIN**: www.uscis.gov
+    - **POSITION**: 146
+  - **146**:
+    - **TITLE**: Compare iPhone Models
+    - **SNIPPET**: Compare features and technical specifications for iPhone 16 Pro, iPhone 16 Pro Max, iPhone 16, iPhone 16 Plus, iPhone 16e, and many more.
+    - **URL**: https://www.apple.com/iphone/compare/
+    - **DOMAIN**: www.apple.com
+    - **POSITION**: 147
+  - **147**:
+    - **TITLE**: ReverbNation : Artists First
+    - **SNIPPET**: ReverbNation helps Artists grow lasting careers by introducing them to music industry partners, exposing them to fans, and building innovative tools to ...
+    - **URL**: https://www.reverbnation.com/
+    - **DOMAIN**: www.reverbnation.com
+    - **POSITION**: 148
+  - **148**:
+    - **TITLE**: Knott's Berry Farm: California's Best Theme Park ...
+    - **SNIPPET**: Fun is always in season at Knott's Berry Farm! With dozens of rides, roller coasters, & attractions in five themed areas, there is something for everyone!
+    - **URL**: https://www.knotts.com/
+    - **DOMAIN**: www.knotts.com
+    - **POSITION**: 149
+  - **149**:
+    - **TITLE**: US Bank ReliaCard
+    - **SNIPPET**: If you are waiting on your ReliaCard to arrive, you can check when the card was processed and mailed. Visit My Card Status to learn more.
+    - **URL**: https://www.usbankreliacard.com/
+    - **DOMAIN**: www.usbankreliacard.com
+    - **POSITION**: 150
+  - **150**:
+    - **TITLE**: AOL.com: News, Politics, Sports, Mail & Latest Headlines
+    - **SNIPPET**: Discover the latest breaking news in the U.S. and around the world — politics, weather, entertainment, lifestyle, finance, sports and much more.
+    - **URL**: https://www.aol.com/
+    - **DOMAIN**: www.aol.com
+    - **POSITION**: 151
+  - **151**:
+    - **TITLE**: MassHealth
+    - **SNIPPET**: MassHealth provides health benefits and help paying for them to qualifying children, families, seniors, and people with disabilities living in Massachusetts.
+    - **URL**: https://www.mass.gov/orgs/masshealth
+    - **DOMAIN**: www.mass.gov
+    - **POSITION**: 152
+  - **152**:
+    - **TITLE**: The Standard
+    - **SNIPPET**: We provide insurance, retirement and investment products and services. Work with our team of remarkable people united by compassion and a genuine desire to ...
+    - **URL**: https://www.standard.com/
+    - **DOMAIN**: www.standard.com
+    - **POSITION**: 153
+  - **153**:
+    - **TITLE**: Login | Microsoft 365 Copilot
+    - **SNIPPET**: ... :true}. {"pathAndQuery":"/","loginUrl":"https://www.office.com/login?es=UnauthClick&ru=%2f","userConsentStatus":{"IsCookieConsentRequired":false ...
+    - **URL**: https://www.office.com/
+    - **DOMAIN**: www.office.com
+    - **POSITION**: 154
+  - **154**:
+    - **TITLE**: National Response Framework
+    - **SNIPPET**: The National Response Framework (NRF) is a guide to how the nation responds to all types of disasters and emergencies.
+    - **URL**: https://www.fema.gov/emergency-managers/national-preparedness/frameworks/response
+    - **DOMAIN**: www.fema.gov
+    - **POSITION**: 155
+  - **155**:
+    - **TITLE**: Yahoo
+    - **SNIPPET**: Big 12 Tournament Bracket; 2. Donald Trump; 3. India vs. New Zealand Live; 4. UFC 313 Results; 5. Long Island Fires; 6. UConn Women's Basketball; 7.
+    - **URL**: https://search.yahoo.com/
+    - **DOMAIN**: search.yahoo.com
+    - **POSITION**: 156
+  - **156**:
+    - **TITLE**: Georgia Department of Driver Services
+    - **SNIPPET**: Our Mission at DDS is to provide secure driver and identity credentials to our customers with excellence and respect.
+    - **URL**: https://dds.georgia.gov/
+    - **DOMAIN**: dds.georgia.gov
+    - **POSITION**: 157
+  - **157**:
+    - **TITLE**: Wawa: Your Ultimate Convenience Store for Food, Drink, Fuel ...
+    - **SNIPPET**: Fuel your day with Wawa, your all-day, everyday convenience store. Grab Built-To-Order® food and beverages, coffee, fuel services, and much more.
+    - **URL**: https://www.wawa.com/
+    - **DOMAIN**: www.wawa.com
+    - **POSITION**: 158
+  - **158**:
+    - **TITLE**: Home | World Wide Web
+    - **SNIPPET**: Overview. World Wide Web: Internet and Web Information Systems (WWW) is an international, archival, peer-reviewed journal that covers all aspects of the Web, ...
+    - **URL**: https://link.springer.com/journal/11280
+    - **DOMAIN**: link.springer.com
+    - **POSITION**: 159
+  - **159**:
+    - **TITLE**: Vimeo AI-Powered Video Platform
+    - **SNIPPET**: The video platform trusted by 287 million creatives, entrepreneurs, and businesses. Everything you need to create, manage, and share stunning videos.
+    - **URL**: https://vimeo.com/
+    - **DOMAIN**: vimeo.com
+    - **POSITION**: 160
+  - **160**:
     - **TITLE**: World Wide Web - MDN Web Docs Glossary: Definitions of ...
     - **SNIPPET**: World Wide Web. The World Wide Web—commonly referred to as WWW, W3, or the Web—is a system of interconnected public webpages accessible through ...
     - **URL**: https://developer.mozilla.org/en-US/docs/Glossary/World_Wide_Web
     - **DOMAIN**: developer.mozilla.org
+    - **POSITION**: 161
+  - **161**:
+    - **TITLE**: Western Governors University – Online College
+    - **SNIPPET**: ... more about WGU's program! https://www.youtube.com/watch?v=RV8uGD55sdY&t=1s. The University. About Us · Accessibility · Accreditation · Newsroom · Careers. For ...
+    - **URL**: https://www.wgu.edu/
+    - **DOMAIN**: www.wgu.edu
+    - **POSITION**: 162
+  - **162**:
+    - **TITLE**: Sign in - Google Accounts
+    - **SNIPPET**: Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode. Next. Create account. For my personal use; For work or my ...
+    - **URL**: https://keep.google.com/
+    - **DOMAIN**: keep.google.com
+    - **POSITION**: 163
+  - **163**:
+    - **TITLE**: Jefferson Parish, LA | Official Website
+    - **SNIPPET**: How Can I... · Bids · Business License · Christmas Tree Lot Permits · Commercial Building Permits · Drivers License · Early Head Start / Head Start · Electrical, Gas, ...
+    - **URL**: https://www.jeffparish.gov/
+    - **DOMAIN**: www.jeffparish.gov
+    - **POSITION**: 164
+  - **164**:
+    - **TITLE**: Application for Social Security Card
+    - **SNIPPET**: We will return any documents submitted with your application. For assistance call us at 1-800-772-1213 or visit our website at www.socialsecurity.gov. Original ...
+    - **URL**: https://www.ssa.gov/forms/ss-5.pdf
+    - **DOMAIN**: www.ssa.gov
+    - **POSITION**: 165
+  - **165**:
+    - **TITLE**: The Official Home of the Women's Tennis Association | WTA ...
+    - **SNIPPET**: Home of the Women's Tennis Association. Turn to the WTA for the best coverage of your favorite players!
+    - **URL**: https://www.wtatennis.com/
+    - **DOMAIN**: www.wtatennis.com
+    - **POSITION**: 166
+  - **166**:
+    - **TITLE**: Download Zotero Connector
+    - **SNIPPET**: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research.
+    - **URL**: https://www.zotero.org/download/
+    - **DOMAIN**: www.zotero.org
+    - **POSITION**: 167
+  - **167**:
+    - **TITLE**: ABC Network - ABC.com
+    - **SNIPPET**: Watch the ABC Shows online at abc.com. Get exclusive videos and free episodes.
+    - **URL**: https://abc.com/
+    - **DOMAIN**: abc.com
+    - **POSITION**: 168
+  - **168**:
+    - **TITLE**: Department of Labor and Industry
+    - **SNIPPET**: Refer to your Pennsylvania UC Handbook (Form UCP-1) or go to www.uc.pa.gov for complete instructions or to print additional copies of ...
+    - **URL**: https://www.pa.gov/agencies/dli.html
+    - **DOMAIN**: www.pa.gov
+    - **POSITION**: 169
+  - **169**:
+    - **TITLE**: Log in to your PayPal account
+    - **SNIPPET**: Transfer money online in seconds with PayPal money transfer. All you need is an email address.
+    - **URL**: https://www.paypal.com/us/signin
+    - **DOMAIN**: www.paypal.com
+    - **POSITION**: 170
+  - **170**:
+    - **TITLE**: My Vote
+    - **SNIPPET**: Interested in voting absentee by mail in the next election? Learn more about your options, get step-by-step instructions, and find helpful resources for voters.
+    - **URL**: https://myvote.wi.gov/en-us/
+    - **DOMAIN**: myvote.wi.gov
+    - **POSITION**: 171
+  - **171**:
+    - **TITLE**: SpaceX
+    - **SNIPPET**: SpaceX designs, manufactures and launches advanced rockets and spacecraft. The company was founded in 2002 to revolutionize space technology, ...
+    - **URL**: https://www.spacex.com/
+    - **DOMAIN**: www.spacex.com
+    - **POSITION**: 172
+  - **172**:
+    - **TITLE**: Google Trends
+    - **SNIPPET**: Explore issues and events in detail. Curated by the Trends Data Team. Year in Search 2024. Explore the year through the lens ...
+    - **URL**: https://trends.google.com/trends/
+    - **DOMAIN**: trends.google.com
+    - **POSITION**: 173
+  - **173**:
+    - **TITLE**: BILL | Financial Operations Platform for Businesses & Firms
+    - **SNIPPET**: The AP, AR, and spend & expense solution that lets you create and pay bills, manage expenses, control budgets, and get the credit your business/firm needs ...
+    - **URL**: https://www.bill.com/
+    - **DOMAIN**: www.bill.com
+    - **POSITION**: 174
+  - **174**:
+    - **TITLE**: Welcome to the Texas Department of Public Safety ...
+    - **SNIPPET**: Most vehicle safety inspections were eliminated as of Jan. 1, 2025, due to changes to the state's Vehicle Safety Inspection Program. Texans ...
+    - **URL**: https://www.dps.texas.gov/
+    - **DOMAIN**: www.dps.texas.gov
+    - **POSITION**: 175
+  - **175**:
+    - **TITLE**: Welcome to Gibson
+    - **SNIPPET**: Shop the latest releases from Gibson, including electric and acoustic guitars, amplifiers, and more.
+    - **URL**: https://www.gibson.com/en-US/?srsltid=AfmBOoqZi5VmC8UYg0BZhvIvJBxqKs8cqvX-1Ev1W0y_BwMkuoQiYypw
+    - **DOMAIN**: www.gibson.com
+    - **POSITION**: 176
+  - **176**:
+    - **TITLE**: Vevo: The World's Leading Music Video Network
+    - **SNIPPET**: Vevo is the world's leading music video network, connecting an ever-growing global audience to high quality music video content for more than a decade.
+    - **URL**: https://www.hq.vevo.com/
+    - **DOMAIN**: www.hq.vevo.com
+    - **POSITION**: 177
+  - **177**:
+    - **TITLE**: The Official North Carolina DMV Website
+    - **SNIPPET**: NCDMV Online Services. Contact NCDMV Customer Service (919) 715-7000 3101 Mail Service Center 1515 N.Church St. Rocky Mount, NC 27804
+    - **URL**: https://www.ncdot.gov/dmv/Pages/default.aspx
+    - **DOMAIN**: www.ncdot.gov
+    - **POSITION**: 178
+  - **178**:
+    - **TITLE**: Google Accounts: Sign in
+    - **SNIPPET**: Not your computer? Use Guest mode to sign in privately. Learn more about using Guest mode. Next. Create account. For my personal use; For work or my ...
+    - **URL**: https://accounts.google.com/
+    - **DOMAIN**: accounts.google.com
+    - **POSITION**: 179
+  - **179**:
+    - **TITLE**: Capital One | Credit Cards, Checking, Savings & Auto Loans
+    - **SNIPPET**: Learn how banking with Capital One can help you meet your financial goals.
+    - **URL**: https://www.capitalone.com/
+    - **DOMAIN**: www.capitalone.com
+    - **POSITION**: 180
+  - **180**:
+    - **TITLE**: Home | Web Accessibility Initiative (WAI)
+    - **SNIPPET**: Try watching this video on www.youtube.com, or enable JavaScript if it is disabled in your browser. Captions are the audio information in text that is ...
+    - **URL**: https://www.w3.org/WAI/
+    - **DOMAIN**: www.w3.org
+    - **POSITION**: 181
+  - **181**:
+    - **TITLE**: WordPress.com: Build a Site, Sell Your Stuff, Start a Blog & More
+    - **SNIPPET**: Build a site, sell online, earn with your content, and more.
+    - **URL**: https://wordpress.com/
+    - **DOMAIN**: wordpress.com
+    - **POSITION**: 182
+  - **182**:
+    - **TITLE**: Vodafone.com
+    - **SNIPPET**: Vodafone is a leading technology communications company in Europe and Africa, keeping society connected and building a digital future. Find out more!
+    - **URL**: https://www.vodafone.com/
+    - **DOMAIN**: www.vodafone.com
+    - **POSITION**: 183
+  - **183**:
+    - **TITLE**: Stack Overflow: Newest Questions
+    - **SNIPPET**: javascript; python; java; c#; php; android; html; jquery; c++; css; ios; sql; mysql; r; reactjs; node.js; arrays; c; asp.net; json; python-3.x .net; ruby-on- ...
+    - **URL**: https://stackoverflow.com/
+    - **DOMAIN**: stackoverflow.com
+    - **POSITION**: 184
+  - **184**:
+    - **TITLE**: E! News - E! Online
+    - **SNIPPET**: Your source for entertainment news, celebrities, celeb news, and ​celebrity gossip. Check out the hottest fashion, photos, movies and TV shows! Ad Choices ...
+    - **URL**: https://www.eonline.com/
+    - **DOMAIN**: www.eonline.com
+    - **POSITION**: 185
+  - **185**:
+    - **TITLE**: WWE News, Results, Photos & Video - Official Site | WWE
+    - **SNIPPET**: The official home of the latest WWE news, results and events. Get breaking news, photos, and video of your favorite WWE Superstars.
+    - **URL**: https://www.wwe.com/
+    - **DOMAIN**: www.wwe.com
+    - **POSITION**: 186
+  - **186**:
+    - **TITLE**: TIME | Current & Breaking News | National & World Updates
+    - **SNIPPET**: Breaking news and analysis from TIME.com. Politics, world news, photos, video, tech reviews, health, science and entertainment news.
+    - **URL**: https://time.com/
+    - **DOMAIN**: time.com
+    - **POSITION**: 187
+  - **187**:
+    - **TITLE**: ABC (Australian Broadcasting Corporation)
+    - **SNIPPET**: Your home of Australian stories, conversations and events that shape our nation.
+    - **URL**: https://www.abc.net.au/
+    - **DOMAIN**: www.abc.net.au
+    - **POSITION**: 188
+  - **188**:
+    - **TITLE**: World Wide Web | History, Uses & Benefits
+    - **SNIPPET**: World Wide Web · World Wide Web (WWW), the leading information retrieval service of the · A hypertext document with its corresponding text and ...
+    - **URL**: https://www.britannica.com/topic/World-Wide-Web
+    - **DOMAIN**: www.britannica.com
+    - **POSITION**: 189
+  - **189**:
+    - **TITLE**: Victoria's Secret: Lingerie, Bras & Sport
+    - **SNIPPET**: The world's best bras, panties, and lingerie. Shop our favorite clothing from pajamas and activewear to beauty and swim.
+    - **URL**: https://www.victoriassecret.com/us/
+    - **DOMAIN**: www.victoriassecret.com
+    - **POSITION**: 190
+  - **190**:
+    - **TITLE**: IKEA: Shop Affordable Home Furnishings & Home Goods
+    - **SNIPPET**: Find affordable furniture and home goods at IKEA! Discover furnishings and inspiration to create a better life at home. Shop online or in store!
+    - **URL**: https://www.ikea.com/us/en/
+    - **DOMAIN**: www.ikea.com
+    - **POSITION**: 191
+  - **191**:
+    - **TITLE**: RTINGS.com: Reviews and Ratings
+    - **SNIPPET**: Find the best products for your needs, based on our reviews, ratings and recommendations.
+    - **URL**: https://www.rtings.com/
+    - **DOMAIN**: www.rtings.com
+    - **POSITION**: 192
+  - **192**:
+    - **TITLE**: Canada.ca: Home
+    - **SNIPPET**: Get quick, easy access to all Government of Canada services and information.
+    - **URL**: https://www.canada.ca/en.html
+    - **DOMAIN**: www.canada.ca
+    - **POSITION**: 193
+  - **193**:
+    - **TITLE**: QS World University Rankings by Subject 2024
+    - **SNIPPET**: The 2024 edition of the QS World University Rankings by Subject features 55 individual subjects across five broad subject areas.
+    - **URL**: https://www.topuniversities.com/subject-rankings
+    - **DOMAIN**: www.topuniversities.com
+    - **POSITION**: 194
+  - **194**:
+    - **TITLE**: News
+    - **SNIPPET**: The latest transcripts, proclamations, executive orders, and press releases from The White House.
+    - **URL**: https://www.whitehouse.gov/news/
+    - **DOMAIN**: www.whitehouse.gov
     - **POSITION**: 195
   - **195**:
-    - **TITLE**: Latest news, sport and opinion from the Guardian
-    - **SNIPPET**: Sport · Elliot Daly during an England training session. Six Nations. England attack has all the right ingredients but no signature dish · A ...
-    - **URL**: https://www.theguardian.com/uk
-    - **DOMAIN**: www.theguardian.com
+    - **TITLE**: Google News
+    - **SNIPPET**: Read full articles, watch videos, browse thousands of titles and more on the "Home page" topic with Google News.
+    - **URL**: https://news.google.com/
+    - **DOMAIN**: news.google.com
     - **POSITION**: 196
   - **196**:
+    - **TITLE**: Latest news, sport and opinion from the Guardian
+    - **SNIPPET**: Headlines · Pat McFadden on Sunday with Laura Kuenssberg. Politics. Labour promises 'radical' shake-up of UK civil service. now. Exclusive · Tom Willis scores a ...
+    - **URL**: https://www.theguardian.com/uk
+    - **DOMAIN**: www.theguardian.com
+    - **POSITION**: 197
+  - **197**:
     - **TITLE**: WhatsApp | Secure and Reliable Free Private Messaging and ...
     - **SNIPPET**: Use WhatsApp Messenger to stay in touch with friends and family. WhatsApp is free and offers simple, secure, reliable messaging and calling, available on ...
     - **URL**: https://www.whatsapp.com/
     - **DOMAIN**: www.whatsapp.com
-    - **POSITION**: 197
-  - **197**:
+    - **POSITION**: 198
+  - **198**:
     - **TITLE**: GIPHY - Be Animated
     - **SNIPPET**: GIPHY is the platform that animates your world. Find the GIFs, Clips, and Stickers that make your conversations more positive, more expressive, ...
     - **URL**: https://giphy.com/
     - **DOMAIN**: giphy.com
-    - **POSITION**: 198
-  - **198**:
+    - **POSITION**: 199
+  - **199**:
     - **TITLE**: Sodium reduction
     - **SNIPPET**: Institute for Health Metrics and Evaluation (IHME) diet high in sodium. Global Burden of Disease; 2019 (https://www.healthdata.org/results/ ...
     - **URL**: https://www.who.int/news-room/fact-sheets/detail/sodium-reduction
     - **DOMAIN**: www.who.int
-    - **POSITION**: 199
-  - **199**:
+    - **POSITION**: 200
+  - **200**:
     - **TITLE**: The Noble Quran - Quran.com
     - **SNIPPET**: The Quran translated into many languages in a simple and easy interface.
     - **URL**: https://quran.com/en
     - **DOMAIN**: quran.com
-    - **POSITION**: 200
-  - **200**:
+    - **POSITION**: 201
+  - **201**:
     - **TITLE**: Voice
     - **SNIPPET**: Image showing Google Voice on a laptop browser, android phone, and iPhone. A smarter phone number. A Voice number works on smartphones and the web so you can ...
     - **URL**: https://voice.google.com/
     - **DOMAIN**: voice.google.com
-    - **POSITION**: 201
-  - **201**:
+    - **POSITION**: 202
+  - **202**:
     - **TITLE**: Office of the Public Guardian
     - **SNIPPET**: Office of the Public Guardian (OPG) helps people in England and Wales to stay in control of decisions about their health and finance and make important ...
     - **URL**: https://www.gov.uk/government/organisations/office-of-the-public-guardian
     - **DOMAIN**: www.gov.uk
-    - **POSITION**: 202
-  - **202**:
+    - **POSITION**: 203
+  - **203**:
     - **TITLE**: Discord - Group Chat That's All Fun & Games
     - **SNIPPET**: Discord is great for playing games and chilling with friends, or even building a worldwide community. Customize your own space to talk, play, and hang out.
     - **URL**: https://discord.com/
     - **DOMAIN**: discord.com
-    - **POSITION**: 203
-  - **203**:
+    - **POSITION**: 204
+  - **204**:
     - **TITLE**: ABC News - Breaking News, Latest News and Videos
     - **SNIPPET**: Your trusted source for breaking news, analysis, exclusive interviews, headlines, and videos at ABCNews.com.
     - **URL**: https://abcnews.go.com/
     - **DOMAIN**: abcnews.go.com
-    - **POSITION**: 204
-  - **204**:
+    - **POSITION**: 205
+  - **205**:
     - **TITLE**: Free Online Slide Presentation: PowerPoint | Microsoft 365
     - **SNIPPET**: Microsoft PowerPoint empowers you to create clean slideshow presentations and intricate pitch decks and gives you a powerful presentation maker to tell your ...
     - **URL**: https://www.microsoft.com/en-us/microsoft-365/powerpoint
     - **DOMAIN**: www.microsoft.com
-    - **POSITION**: 205
-  - **205**:
+    - **POSITION**: 206
+  - **206**:
     - **TITLE**: World | Latest News & Updates
     - **SNIPPET**: Get all the latest news, live updates and content about the World from across the BBC.
     - **URL**: https://www.bbc.com/news/world
     - **DOMAIN**: www.bbc.com
-    - **POSITION**: 206
-  - **206**:
+    - **POSITION**: 207
+  - **207**:
     - **TITLE**: TRACES Portal for NRI Users
     - **SNIPPET**: TRACES Portal for NRI Users is available at URL: https://nriservices.tdscpc.gov.in/nriapp/login.xhtml.
     - **URL**: https://www.tdscpc.gov.in/
     - **DOMAIN**: www.tdscpc.gov.in
-    - **POSITION**: 207
-  - **207**:
+    - **POSITION**: 208
+  - **208**:
     - **TITLE**: Centrelink
     - **SNIPPET**: This information was printed 9 March 2025 from https://www.servicesaustralia.gov.au/centrelink. It may not include all of the relevant information on this ...
     - **URL**: https://www.servicesaustralia.gov.au/centrelink?context=1
     - **DOMAIN**: www.servicesaustralia.gov.au
-    - **POSITION**: 208
-  - **208**:
+    - **POSITION**: 209
+  - **209**:
     - **TITLE**: Word of the Day: Wend
     - **SNIPPET**: Build your vocabulary: get a new word every day from Merriam-Webster dictionary. Learn the meaning, history, and fun facts about Wend.
     - **URL**: https://www.merriam-webster.com/word-of-the-day
     - **DOMAIN**: www.merriam-webster.com
-    - **POSITION**: 209
-  - **209**:
+    - **POSITION**: 210
+  - **210**:
     - **TITLE**: Guru Gobind Singh Indraprastha University (Official Website)
     - **SNIPPET**: Admission 2025-26 · Jobs & Opportunities · Video - Instructions regarding registration of students for online proctored examination · NAAC: A++. Validity Period: ...
     - **URL**: http://www.ipu.ac.in/
     - **DOMAIN**: www.ipu.ac.in
-    - **POSITION**: 210
-  - **210**:
+    - **POSITION**: 211
+  - **211**:
     - **TITLE**: Anti Ragging | Ragging in college | Anti Ragging Affidavit
     - **SNIPPET**: National Anti-Ragging Monitoring Agency Centre for Youth (C4Y). 24x7 Toll Free Number 1800-180-5522 helpline@antiragging.in. Who are we ?
     - **URL**: https://www.antiragging.in/
     - **DOMAIN**: www.antiragging.in
-    - **POSITION**: 211
-  - **211**:
+    - **POSITION**: 212
+  - **212**:
     - **TITLE**: Home | Ministry of Health and Family Welfare | GOI
     - **SNIPPET**: MInistry of Health and Family Welfare is a Ministry under the Government of India and is charged with formulation, implementatio.
     - **URL**: https://mohfw.gov.in/
     - **DOMAIN**: mohfw.gov.in
-    - **POSITION**: 212
-  - **212**:
+    - **POSITION**: 213
+  - **213**:
     - **TITLE**: Joe Biden for President
     - **SNIPPET**: President Biden and Vice President Harris promised to move quickly to deliver results for working families. That's what they've done.
     - **URL**: https://bidenwhitehouse.archives.gov/
     - **DOMAIN**: bidenwhitehouse.archives.gov
-    - **POSITION**: 213
-  - **213**:
+    - **POSITION**: 214
+  - **214**:
     - **TITLE**: UDID
     - **SNIPPET**: Unique Disability ID Card ... UDID sub scheme is being implemented with a view of creating a National Database for Persons with Disabilities across the country.
     - **URL**: http://www.swavlambancard.gov.in/
     - **DOMAIN**: www.swavlambancard.gov.in
-    - **POSITION**: 214
-  - **214**:
+    - **POSITION**: 215
+  - **215**:
     - **TITLE**: Student Loans Company
     - **SNIPPET**: We are a non-profit making government-owned organisation that administers loans and grants to students in colleges and universities in the UK.
     - **URL**: https://www.gov.uk/government/organisations/student-loans-company
     - **DOMAIN**: www.gov.uk
-    - **POSITION**: 215
-  - **215**:
+    - **POSITION**: 216
+  - **216**:
     - **TITLE**: Google Sheets: Online Spreadsheets & Templates
     - **SNIPPET**: See the latest summary of your data and build spreadsheets with a simple prompt. Ask for help generating formulas and become a data pro.
     - **URL**: https://workspace.google.com/products/sheets/
     - **DOMAIN**: workspace.google.com
-    - **POSITION**: 216
-  - **216**:
-    - **TITLE**: Meaning of www in English - Cambridge Dictionary
-    - **SNIPPET**: abbreviation for the World Wide Web. Visit the Cambridge University Press website at www.cambridge.org.
-    - **URL**: https://dictionary.cambridge.org/us/dictionary/english/www
-    - **DOMAIN**: dictionary.cambridge.org
     - **POSITION**: 217
   - **217**:
     - **TITLE**: The Hill - covering Congress, Politics, Political Campaigns ...
@@ -1311,10 +1311,10 @@
     - **DOMAIN**: thehill.com
     - **POSITION**: 218
   - **218**:
-    - **TITLE**: WORLD WIDE WEB definition in American English
-    - **SNIPPET**: a group of Internet sites interconnected by means of hypertext, providing access to images and sound in addition to text
-    - **URL**: https://www.collinsdictionary.com/us/dictionary/english/world-wide-web
-    - **DOMAIN**: www.collinsdictionary.com
+    - **TITLE**: WWW | English meaning - Cambridge Dictionary
+    - **SNIPPET**: abbreviation for the World Wide Web. Visit the Cambridge University Press website at www.cambridge.org.
+    - **URL**: https://dictionary.cambridge.org/dictionary/english/www
+    - **DOMAIN**: dictionary.cambridge.org
     - **POSITION**: 219
   - **219**:
     - **TITLE**: National Portal of India
