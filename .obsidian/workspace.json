@@ -45,7 +45,8 @@
               "title": "Sem título 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,12 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "TEMPLATES/Sem título 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Sem título 1"
             }
           },
           {
@@ -271,12 +273,12 @@
       "marp:Marp: Open Preview": false,
       "flashcards-obsidian:Generate flashcards": false,
       "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "c7fa3af0d8fca52d",
+  "active": "e31814b5a8bc1940",
   "lastOpenFiles": [
     "TEMPLATES/Sem título 1.md",
     "TEMPLATES/Sem título.md",
