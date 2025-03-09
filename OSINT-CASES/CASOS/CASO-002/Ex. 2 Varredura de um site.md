@@ -37,5 +37,7 @@ www.odyssey.com
 | **Endereços IP**       | 3.33.251.168, 15.197.225.128                             |
 | **Proprietário do IP** | (A ser preenchido)                                       |
 | **Uso de CDN**         | (A ser preenchido)                                       |
-gervao@odyssey:~$ whatweb www.odyssey.com
+~$ whatweb www.odyssey.com
 http://www.odyssey.com [403 Forbidden] Country[UNITED STATES][US], HTTPServer[awselb/2.0], IP[3.33.251.168], Title[403 Forbidden]
+
+https://www.whatweb.net/

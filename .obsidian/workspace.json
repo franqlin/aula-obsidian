@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/Domain Info.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Domain Info"
+              "title": "Bookmarks"
             }
           },
           {
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/Domain Info.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Domain Info"
+              "title": "Sumário de Bookmarks"
             }
           },
           {
@@ -287,11 +287,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db7fa5c6913b86b4",
+  "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
-    "OSINT-CASES/Ferramentas OSINT/BOOKS",
+    "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
     "OSINT-CASES/Ferramentas OSINT/Domain Info.md",
+    "OSINT-CASES/Ferramentas OSINT/BOOKS",
     "OSINT-CASES/CASOS/CASO-001/INFO.md",
     "OSINT-CASES/CASOS/CASO-002",
     "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
@@ -324,8 +325,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE5",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image.png",
