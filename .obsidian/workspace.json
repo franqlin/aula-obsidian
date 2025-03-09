@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/ODISSEUS-PLUGIN/BUSCA LINKEDIN.md",
+                "file": "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "BUSCA LINKEDIN"
+              "title": "Ex. 2 Varredura de um site"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/ODISSEUS-PLUGIN/BUSCA LINKEDIN.md",
+                "file": "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de BUSCA LINKEDIN"
+              "title": "Sumário de Ex. 2 Varredura de um site"
             }
           },
           {
@@ -263,8 +263,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "db7fa5c6913b86b4",
+  "active": "7d52d12df4cdf38e",
   "lastOpenFiles": [
+    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
+    "OSINT-CASES/ODISSEUS-PLUGIN/BUSCA LINKEDIN.md",
     "_media-sync_resources/2025/03/09/162237/94175.png.md",
     "_media-sync_resources/2025/03/09/162237/94175.png",
     "_media-sync_resources/2025/03/09/162237/51933.jpeg.md",
@@ -309,8 +311,6 @@
     "_media-sync_resources/2025/03/09/162106/71813.pdf.md",
     "_media-sync_resources/2025/03/09/162106/34094.pdf.md",
     "_media-sync_resources/2025/03/09/162106/32799.pdf.md",
-    "_media-sync_resources/2025/03/09/162106/93396.pdf.md",
-    "_media-sync_resources/2025/03/09/162106/73076.pdf.md",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",
