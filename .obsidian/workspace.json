@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
+                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Teoria Geral dos Sistemas Sociais"
+              "title": "LINKS"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f3956244c7ba4804",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7fa3af0d8fca52d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Surfing"
             }
           }
         ]
@@ -162,13 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Teoria Geral dos Sistemas Sociais"
+              "title": "Sumário"
             }
           },
           {
@@ -263,8 +280,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a61f09a7a24b6e31",
+  "active": "c7fa3af0d8fca52d",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/9. O Método Zettelkasten.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/8. Mapas de Conteúdo.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/7. Organizando suas anotações.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/6. Uma introdução ao Markdown.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/4. Crie sua primeira nota.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/3. Introdução às notas de obsidiana.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/2. O Obsidian é gratuito.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
     "OSINT-CASES/METODOLOGIAS/Funnel.md",
@@ -282,17 +310,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
     "MORIN-ZETTEL-KASTEN/INBOX/Edgar Morin propõe sete saberes fundamentais.md",
-    "MORIN-ZETTEL-KASTEN/INBOX/A correlação entre os trabalhos de Edgar Morin e Niklas Luhmann.md",
-    "OSINT-CASES/KANBAN.md",
-    "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
-    "OSINT-CASES/CASOS/CASO-001/INFO.md",
-    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
-    "kanban-templates/Board Kanban para Pesquisas OSINT.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/Zettelkasten na prática.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/4. Crie sua primeira nota.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/5. Uma introdução aos links.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
     "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
     "OSINT-CASES/Ferramentas OSINT/BOOKS",
