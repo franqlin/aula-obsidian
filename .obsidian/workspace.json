@@ -6,7 +6,6 @@
       {
         "id": "ef521f9369e80adf",
         "type": "tabs",
-        "dimension": 48.24742268041237,
         "children": [
           {
             "id": "f8961a81f863c1c9",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Domain Info.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ex. 2 Varredura de um site"
+              "title": "Domain Info"
             }
           },
           {
@@ -54,27 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "RAW"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d8c2670efd30e79a",
-        "type": "tabs",
-        "dimension": 51.75257731958764,
-        "children": [
-          {
-            "id": "75117e978f851e81",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://viewdns.info/reverseip/?host=www.odyssey.com&t=1"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "odyssey.com - Reverse IP Lookup - ViewDNS.info"
             }
           }
         ]
@@ -208,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Domain Info.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Ex. 2 Varredura de um site"
+              "title": "Sumário de Domain Info"
             }
           },
           {
@@ -311,8 +289,8 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
-    "OSINT-CASES/Ferramentas OSINT/Domain Info.md",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
+    "OSINT-CASES/Ferramentas OSINT/Domain Info.md",
     "OSINT-CASES/CASOS/CASO-001/INFO.md",
     "OSINT-CASES/CASOS/CASO-002",
     "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
