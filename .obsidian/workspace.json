@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LINKS"
+              "title": "Bookmarks"
             }
           },
           {
@@ -53,6 +53,26 @@
               },
               "icon": "lucide-file",
               "title": "RAW"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5fb37c8016778e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f0eb8d085bafc79",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.osintstarter.com/"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Welcome to OSINT Starter | OSINT Starter Pack"
             }
           }
         ]
@@ -186,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de LINKS"
+              "title": "Sumário de Bookmarks"
             }
           },
           {
@@ -289,8 +309,11 @@
   },
   "active": "f8961a81f863c1c9",
   "lastOpenFiles": [
-    "OSINT-CASES/METODOLOGIAS/Funnel.md",
+    "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
     "OSINT-CASES/METODOLOGIAS/Fravia.md",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/WIKI-LUHMANN.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
+    "OSINT-CASES/METODOLOGIAS/Funnel.md",
     "OSINT-CASES/METODOLOGIAS/5W1H.md",
     "OSINT-CASES/METODOLOGIAS/CRAWL.md",
     "OSINT-CASES/M.md",
@@ -303,7 +326,6 @@
     "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
     "OSINT-CASES/Ferramentas OSINT/Countries.md",
     "OSINT-CASES/Ferramentas OSINT/Burner SMS Phones.md",
-    "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/9. O Método Zettelkasten.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/8. Mapas de Conteúdo.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/7. Organizando suas anotações.md",
@@ -314,8 +336,6 @@
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/3. Introdução às notas de obsidiana.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/2. O Obsidian é gratuito.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/3. O que é um jardim digital.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Mapas de conteudo/2. O que são Mapas de Conteúdo.md",
     "MORIN-ZETTEL-KASTEN/INBOX",
     "MORIN-ZETTEL-KASTEN",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",

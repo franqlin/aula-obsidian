@@ -1,1 +1,2 @@
 - [OSINT Framework](https://osintframework.com/)
+- https://www.osintstarter.com/
