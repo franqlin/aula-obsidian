@@ -40,7 +40,7 @@ graph TD
 Fravia analisava o código e o comportamento de algoritmos como o Google para identificar padrões de indexação e ranqueamento. Isso permitia:
 
 - **Exploração de lacunas técnicas** para acessar conteúdos ocultos ou não indexados[11](https://en.wikipedia.org/wiki/Fravia).
-- **Manipulação de parâmetros de busca** (ex.: operadores avançados, filtros de tempo, domínio)[11](https://en.wikipedia.org/wiki/Fravia)[14](https://www.cead.ufjf.br/wp-content/uploads/2015/05/media_biblioteca_pesquisa_web.pdf).
+- **Manipulação de parâmetros de busca** (ex.: operadores avançados, filtros de tempo, domínio)[11](https://en.wikipedia.org/wiki/Fravia)[14](_media-sync_resources/2025/03/09/160126/34759.pdf).
 - **Decifração de "black boxes"** (algoritmos proprietários) para entender como os resultados são priorizados[11](https://en.wikipedia.org/wiki/Fravia)[13](https://www.youtube.com/watch?v=zkEW2MyN5YY).
 
 ---
@@ -50,7 +50,7 @@ Fravia analisava o código e o comportamento de algoritmos como o Google para id
 Foco na busca de conhecimento profundo, não apenas em respostas superficiais:
 
 - **Uso de operadores booleanos não documentados**:  
-    Ex.: `allintext:`, `related:`, `filetype:pdf` para filtrar resultados específicos[7](https://literacia-da-informacao1.webnode.pt/pesquisadainformacao/)[14](https://www.cead.ufjf.br/wp-content/uploads/2015/05/media_biblioteca_pesquisa_web.pdf).
+    Ex.: `allintext:`, `related:`, `filetype:pdf` para filtrar resultados específicos[7](https://literacia-da-informacao1.webnode.pt/pesquisadainformacao/)[14](_media-sync_resources/2025/03/09/160126/60803.pdf).
 - **Busca por "pegadas digitais"**:  
     Identificação de padrões em URLs, metadados e estruturas de sites para rastrear informações[11](https://en.wikipedia.org/wiki/Fravia).
 - **Análise de logs de acesso**:  
@@ -73,7 +73,7 @@ Fravia aplicava técnicas de ocultação de dados para:
 - **Desconfiança de resultados comerciais**:  
     Rejeição à superficialidade dos algoritmos de busca dominantes (ex.: Google), considerados enviesados por interesses econômicos[11](https://en.wikipedia.org/wiki/Fravia).
 - **Validação cruzada de fontes**:  
-    Comparação de resultados entre múltiplos motores (DuckDuckGo, Startpage) e técnicas manuais[7](https://literacia-da-informacao1.webnode.pt/pesquisadainformacao/)[14](https://www.cead.ufjf.br/wp-content/uploads/2015/05/media_biblioteca_pesquisa_web.pdf).
+    Comparação de resultados entre múltiplos motores (DuckDuckGo, Startpage) e técnicas manuais[7](https://literacia-da-informacao1.webnode.pt/pesquisadainformacao/)[14](_media-sync_resources/2025/03/09/160126/36036.pdf).
 
 ---
 
@@ -91,7 +91,7 @@ Fravia mantinha em seus sites (**searchlores.org**, **fravia.com**) tutoriais co
 ### 6. **Aplicações Práticas**
 
 - **Pesquisa acadêmica**:  
-    Localização de artigos científicos não indexados em plataformas comerciais[13](https://www.youtube.com/watch?v=zkEW2MyN5YY)[14](https://www.cead.ufjf.br/wp-content/uploads/2015/05/media_biblioteca_pesquisa_web.pdf).
+    Localização de artigos científicos não indexados em plataformas comerciais[13](https://www.youtube.com/watch?v=zkEW2MyN5YY)[14](_media-sync_resources/2025/03/09/160126/58007.pdf).
 - **Investigação forense digital**:  
     Rastreamento de dados apagados ou fragmentados[11](https://en.wikipedia.org/wiki/Fravia).
 - **Contra-inteligência**:  
