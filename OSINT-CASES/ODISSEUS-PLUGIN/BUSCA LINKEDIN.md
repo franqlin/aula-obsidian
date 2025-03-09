@@ -1,0 +1,750 @@
+**Resultado da Busca LinkedIn:* pedro-borges-mourão-42abb810b*
+- **ID**: 465807202
+- **URN**: ACoAABvDp2IBpTjDj0DHiRlYZAUKxJz6-4LPLDM
+- **USERNAME**: pedro-borges-mourão-42abb810b
+- **FIRSTNAME**: Pedro
+- **LASTNAME**: Borges Mourão
+- **ISCREATOR**: true
+- **ISPREMIUM**: true
+- **PROFILEPICTURE**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_90531.jpeg]]
+- **PROFILEPICTURES**:
+  - **0**:
+    - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_40474.jpeg]]
+    - **WIDTH**: 100
+    - **HEIGHT**: 100
+  - **1**:
+    - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_55197.jpeg]]
+    - **WIDTH**: 200
+    - **HEIGHT**: 200
+  - **2**:
+    - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_34180.jpeg]]
+    - **WIDTH**: 400
+    - **HEIGHT**: 400
+  - **3**:
+    - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_58932.jpeg]]
+    - **WIDTH**: 800
+    - **HEIGHT**: 800
+- **BACKGROUNDIMAGE**:
+  - **0**:
+    - **WIDTH**: 798
+    - **HEIGHT**: 200
+    - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_14016.jpeg]]
+  - **1**:
+    - **WIDTH**: 1290
+    - **HEIGHT**: 323
+    - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_44772.jpeg]]
+- **SUMMARY**: Na interseção do Direito e da tecnologia, atuo como membro do Ministério Público, Coordenador Educacional na Escola de Direito da Amperj e Professor tanto em escolas jurídicas quanto em escolas de forense digital, onde aplico minhas habilidades em apresentação e análise de processos de negócios jurídicos e tecnológicos para aprimorar o ensino jurídico. Com mais 20 anos de experiência dedicada à inovação no campo legal, a minha missão é transformar a maneira como o conhecimento em Direito Digital é transmitido e aplicado.
+
+Destaco-me pelo desenvolvimento de métodos operacionais inovadores e pela capacidade de comunicar complexidades legais de forma clara, o que me permitiu ser reconhecido com múltiplos prêmios Innovare. Meu trabalho atual reflete uma paixão contínua pelo aprimoramento contínuo da prática jurídica, contribuindo para a formação de profissionais capacitados e preparados para os desafios do século XXI.
+- **HEADLINE**: Promotor de Justiça - Mestre em Direito Digital - Provas Digitais, IA e Legal Storytelling. 🏆🏆Innovare. 
+- **GEO**:
+  - **COUNTRY**: Brazil
+  - **CITY**: Rio de Janeiro
+  - **FULL**: Rio de Janeiro, Brazil
+  - **COUNTRYCODE**: br
+- **EDUCATIONS**:
+  - **0**:
+    - **START**:
+      - **YEAR**: 2022
+      - **MONTH**: 1
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2024
+      - **MONTH**: 3
+      - **DAY**: 0
+    - **FIELDOFSTUDY**: Direito
+    - **DEGREE**: Mestrado em Direito
+    - **GRADE**: 10
+    - **SCHOOLNAME**: Estácio
+    - **DESCRIPTION**: 
+    - **ACTIVITIES**: 
+    - **URL**: https://www.linkedin.com/school/estacio/
+    - **SCHOOLID**: 2848413
+    - **LOGO**:
+      - **0**:
+        - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_41544.jpeg]]
+        - **WIDTH**: 200
+        - **HEIGHT**: 200
+      - **1**:
+        - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_73359.jpeg]]
+        - **WIDTH**: 100
+        - **HEIGHT**: 100
+      - **2**:
+        - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_13054.jpeg]]
+        - **WIDTH**: 400
+        - **HEIGHT**: 400
+  - **1**:
+    - **START**:
+      - **YEAR**: 1996
+      - **MONTH**: 0
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2000
+      - **MONTH**: 0
+      - **DAY**: 0
+    - **FIELDOFSTUDY**: Ciencias Juridicas e Sociais 
+    - **DEGREE**: Graduação
+    - **GRADE**: 
+    - **SCHOOLNAME**: Universidade Federal do Rio de Janeiro
+    - **DESCRIPTION**: 
+    - **ACTIVITIES**: 
+    - **URL**: https://www.linkedin.com/school/ufrj/
+    - **SCHOOLID**: 10578
+    - **LOGO**:
+      - **0**:
+        - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_42024.jpeg]]
+        - **WIDTH**: 200
+        - **HEIGHT**: 200
+      - **1**:
+        - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_84664.jpeg]]
+        - **WIDTH**: 100
+        - **HEIGHT**: 100
+      - **2**:
+        - **URL**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_04665.jpeg]]
+        - **WIDTH**: 400
+        - **HEIGHT**: 400
+- **POSITION**:
+  - **0**:
+    - **COMPANYID**: 41022089
+    - **COMPANYNAME**: Amperj - Associação do Ministério Público do Estado do Rio de Janeiro
+    - **COMPANYUSERNAME**: associação-do-ministério-público-do-estado-do-rio-de-janeiro
+    - **COMPANYURL**: https://www.linkedin.com/company/associa%C3%A7%C3%A3o-do-minist%C3%A9rio-p%C3%BAblico-do-estado-do-rio-de-janeiro/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_96928.jpeg]]
+    - **COMPANYINDUSTRY**: Civic & Social Organization
+    - **COMPANYSTAFFCOUNTRANGE**: 11 - 50
+    - **TITLE**: Coordenador educacional
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Coordenador educacional
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Amperj - Associação do Ministério Público do Estado do Rio de Janeiro
+    - **LOCATION**: Rio de Janeiro, Brasil
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2024
+      - **MONTH**: 8
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **1**:
+    - **COMPANYID**: 65505665
+    - **COMPANYNAME**: Academia do Perito
+    - **COMPANYUSERNAME**: academia-do-perito
+    - **COMPANYURL**: https://www.linkedin.com/company/academia-do-perito/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_01983.jpeg]]
+    - **COMPANYINDUSTRY**: E-learning
+    - **COMPANYSTAFFCOUNTRANGE**: 2 - 10
+    - **TITLE**: Professor
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Academia do Perito
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2023
+      - **MONTH**: 7
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **2**:
+    - **COMPANYID**: 18672906
+    - **COMPANYNAME**: FGV Direito Rio
+    - **COMPANYUSERNAME**: fgv-direito-rio
+    - **COMPANYURL**: https://www.linkedin.com/school/fgv-direito-rio/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_11140.jpeg]]
+    - **COMPANYINDUSTRY**: Higher Education
+    - **COMPANYSTAFFCOUNTRANGE**: 5001 - 10000
+    - **TITLE**: Professor convidado
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor convidado
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: FGV Direito Rio
+    - **LOCATION**: 
+    - **DESCRIPTION**: Direito Penal e Processual Penal Informático
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2022
+      - **MONTH**: 6
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **3**:
+    - **COMPANYID**: 33278686
+    - **COMPANYNAME**: IERBB
+    - **COMPANYUSERNAME**: ierbb-mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/ierbb-mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_73071.jpeg]]
+    - **COMPANYINDUSTRY**: Higher Education
+    - **COMPANYSTAFFCOUNTRANGE**: 51 - 200
+    - **TITLE**: Professor
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: IERBB
+    - **LOCATION**: 
+    - **DESCRIPTION**: Visual Law, Legal Design, Storytelling, Provas Digitais e Investigações Informáticas.
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2019
+      - **MONTH**: 9
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **4**:
+    - **COMPANYID**: 11300870
+    - **COMPANYNAME**: Academia de Forense Digital
+    - **COMPANYUSERNAME**: academiadeforensedigital
+    - **COMPANYURL**: https://www.linkedin.com/company/academiadeforensedigital/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_37788.jpeg]]
+    - **COMPANYINDUSTRY**: Professional Training & Coaching
+    - **COMPANYSTAFFCOUNTRANGE**: 2 - 10
+    - **TITLE**: Professor
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Academia de Forense Digital
+    - **LOCATION**: 
+    - **DESCRIPTION**: Integração jurídico-tecnológica
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2020
+      - **MONTH**: 11
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **5**:
+    - **COMPANYID**: 11192218
+    - **COMPANYNAME**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **COMPANYUSERNAME**: mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_52225.jpeg]]
+    - **COMPANYINDUSTRY**: Government Administration
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Promotor de Justiça / Titular da 3a. Promotoria de Tutela Coletiva do Nucleo Duque de Caxias
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Promotor de Justiça / Titular da 3a. Promotoria de Tutela Coletiva do Nucleo Duque de Caxias
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: 
+    - **START**:
+      - **YEAR**: 2003
+      - **MONTH**: 12
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **6**:
+    - **COMPANYID**: 11192218
+    - **COMPANYNAME**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **COMPANYUSERNAME**: mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_91309.jpeg]]
+    - **COMPANYINDUSTRY**: Government Administration
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Coordenador de Análises, Diagnósticos e Geoprocessamento  MPRJ - MP em Mapas 
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Coordenador de Análises, Diagnósticos e Geoprocessamento  MPRJ - MP em Mapas 
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: 
+    - **START**:
+      - **YEAR**: 2018
+      - **MONTH**: 4
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2019
+      - **MONTH**: 6
+      - **DAY**: 0
+  - **7**:
+    - **COMPANYID**: 11192218
+    - **COMPANYNAME**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **COMPANYUSERNAME**: mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_14923.jpeg]]
+    - **COMPANYINDUSTRY**: Government Administration
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Secretário de Tecnologia da Informacão MPRJ
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Secretário de Tecnologia da Informacão MPRJ
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: 
+    - **START**:
+      - **YEAR**: 2012
+      - **MONTH**: 1
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2013
+      - **MONTH**: 4
+      - **DAY**: 0
+  - **8**:
+    - **COMPANYID**: 11192218
+    - **COMPANYNAME**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **COMPANYUSERNAME**: mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_62466.jpeg]]
+    - **COMPANYINDUSTRY**: Government Administration
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Subcoordenador do Centro Integrado de Apuaração Criminal (CIAC) 
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Subcoordenador do Centro Integrado de Apuaração Criminal (CIAC) 
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: 
+    - **START**:
+      - **YEAR**: 2010
+      - **MONTH**: 3
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2011
+      - **MONTH**: 12
+      - **DAY**: 0
+  - **9**:
+    - **COMPANYID**: 42880832
+    - **COMPANYNAME**: Escola Superior do Ministério Público da União
+    - **COMPANYUSERNAME**: esmpu
+    - **COMPANYURL**: https://www.linkedin.com/school/esmpu/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_70644.jpeg]]
+    - **COMPANYINDUSTRY**: Higher Education
+    - **COMPANYSTAFFCOUNTRANGE**: 201 - 500
+    - **TITLE**: Professor
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Escola Superior do Ministério Público da União
+    - **LOCATION**: Brasília, Distrito Federal, Brasil
+    - **DESCRIPTION**: Visual Law, Legal Design e Storytelling Law
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2021
+      - **MONTH**: 5
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2024
+      - **MONTH**: 9
+      - **DAY**: 0
+- **FULLPOSITIONS**:
+  - **0**:
+    - **COMPANYID**: 41022089
+    - **COMPANYNAME**: Amperj - Associação do Ministério Público do Estado do Rio de Janeiro
+    - **COMPANYUSERNAME**: associação-do-ministério-público-do-estado-do-rio-de-janeiro
+    - **COMPANYURL**: https://www.linkedin.com/company/associa%C3%A7%C3%A3o-do-minist%C3%A9rio-p%C3%BAblico-do-estado-do-rio-de-janeiro/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_68910.jpeg]]
+    - **COMPANYINDUSTRY**: Civic & Social Organization
+    - **COMPANYSTAFFCOUNTRANGE**: 11 - 50
+    - **TITLE**: Coordenador educacional
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Coordenador educacional
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Amperj - Associação do Ministério Público do Estado do Rio de Janeiro
+    - **LOCATION**: Rio de Janeiro, Brasil
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2024
+      - **MONTH**: 8
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **1**:
+    - **COMPANYID**: 65505665
+    - **COMPANYNAME**: Academia do Perito
+    - **COMPANYUSERNAME**: academia-do-perito
+    - **COMPANYURL**: https://www.linkedin.com/company/academia-do-perito/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_98631.jpeg]]
+    - **COMPANYINDUSTRY**: E-learning
+    - **COMPANYSTAFFCOUNTRANGE**: 2 - 10
+    - **TITLE**: Professor
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Academia do Perito
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2023
+      - **MONTH**: 7
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **2**:
+    - **COMPANYID**: 18672906
+    - **COMPANYNAME**: FGV Direito Rio
+    - **COMPANYUSERNAME**: fgv-direito-rio
+    - **COMPANYURL**: https://www.linkedin.com/school/fgv-direito-rio/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_38298.jpeg]]
+    - **COMPANYINDUSTRY**: Higher Education
+    - **COMPANYSTAFFCOUNTRANGE**: 5001 - 10000
+    - **TITLE**: Professor convidado
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor convidado
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: FGV Direito Rio
+    - **LOCATION**: 
+    - **DESCRIPTION**: Direito Penal e Processual Penal Informático
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2022
+      - **MONTH**: 6
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **3**:
+    - **COMPANYID**: 33278686
+    - **COMPANYNAME**: IERBB
+    - **COMPANYUSERNAME**: ierbb-mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/ierbb-mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_89851.jpeg]]
+    - **COMPANYINDUSTRY**: Higher Education
+    - **COMPANYSTAFFCOUNTRANGE**: 51 - 200
+    - **TITLE**: Professor
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: IERBB
+    - **LOCATION**: 
+    - **DESCRIPTION**: Visual Law, Legal Design, Storytelling, Provas Digitais e Investigações Informáticas.
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2019
+      - **MONTH**: 9
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **4**:
+    - **COMPANYID**: 11300870
+    - **COMPANYNAME**: Academia de Forense Digital
+    - **COMPANYUSERNAME**: academiadeforensedigital
+    - **COMPANYURL**: https://www.linkedin.com/company/academiadeforensedigital/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_31312.jpeg]]
+    - **COMPANYINDUSTRY**: Professional Training & Coaching
+    - **COMPANYSTAFFCOUNTRANGE**: 2 - 10
+    - **TITLE**: Professor
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Academia de Forense Digital
+    - **LOCATION**: 
+    - **DESCRIPTION**: Integração jurídico-tecnológica
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2020
+      - **MONTH**: 11
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **5**:
+    - **COMPANYID**: 11192218
+    - **COMPANYNAME**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **COMPANYUSERNAME**: mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_12275.jpeg]]
+    - **COMPANYINDUSTRY**: Government Administration
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Promotor de Justiça / Titular da 3a. Promotoria de Tutela Coletiva do Nucleo Duque de Caxias
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Promotor de Justiça / Titular da 3a. Promotoria de Tutela Coletiva do Nucleo Duque de Caxias
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: 
+    - **START**:
+      - **YEAR**: 2003
+      - **MONTH**: 12
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **6**:
+    - **COMPANYID**: 11192218
+    - **COMPANYNAME**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **COMPANYUSERNAME**: mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_96307.jpeg]]
+    - **COMPANYINDUSTRY**: Government Administration
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Coordenador de Análises, Diagnósticos e Geoprocessamento  MPRJ - MP em Mapas 
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Coordenador de Análises, Diagnósticos e Geoprocessamento  MPRJ - MP em Mapas 
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: 
+    - **START**:
+      - **YEAR**: 2018
+      - **MONTH**: 4
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2019
+      - **MONTH**: 6
+      - **DAY**: 0
+  - **7**:
+    - **COMPANYID**: 11192218
+    - **COMPANYNAME**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **COMPANYUSERNAME**: mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_50345.jpeg]]
+    - **COMPANYINDUSTRY**: Government Administration
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Secretário de Tecnologia da Informacão MPRJ
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Secretário de Tecnologia da Informacão MPRJ
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: 
+    - **START**:
+      - **YEAR**: 2012
+      - **MONTH**: 1
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2013
+      - **MONTH**: 4
+      - **DAY**: 0
+  - **8**:
+    - **COMPANYID**: 11192218
+    - **COMPANYNAME**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **COMPANYUSERNAME**: mprj
+    - **COMPANYURL**: https://www.linkedin.com/company/mprj/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_57553.jpeg]]
+    - **COMPANYINDUSTRY**: Government Administration
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Subcoordenador do Centro Integrado de Apuaração Criminal (CIAC) 
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Subcoordenador do Centro Integrado de Apuaração Criminal (CIAC) 
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Ministério Público do Estado do Rio de Janeiro (MPRJ)
+    - **LOCATION**: 
+    - **DESCRIPTION**: 
+    - **EMPLOYMENTTYPE**: 
+    - **START**:
+      - **YEAR**: 2010
+      - **MONTH**: 3
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2011
+      - **MONTH**: 12
+      - **DAY**: 0
+  - **9**:
+    - **COMPANYID**: 42880832
+    - **COMPANYNAME**: Escola Superior do Ministério Público da União
+    - **COMPANYUSERNAME**: esmpu
+    - **COMPANYURL**: https://www.linkedin.com/school/esmpu/
+    - **COMPANYLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_48936.jpeg]]
+    - **COMPANYINDUSTRY**: Higher Education
+    - **COMPANYSTAFFCOUNTRANGE**: 201 - 500
+    - **TITLE**: Professor
+    - **MULTILOCALETITLE**:
+      - **PT_BR**: Professor
+    - **MULTILOCALECOMPANYNAME**:
+      - **PT_BR**: Escola Superior do Ministério Público da União
+    - **LOCATION**: Brasília, Distrito Federal, Brasil
+    - **DESCRIPTION**: Visual Law, Legal Design e Storytelling Law
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2021
+      - **MONTH**: 5
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 2024
+      - **MONTH**: 9
+      - **DAY**: 0
+- **SKILLS**:
+  - **0**:
+    - **NAME**: Negociação
+    - **PASSEDSKILLASSESSMENT**: false
+  - **1**:
+    - **NAME**: Operações de TI
+    - **PASSEDSKILLASSESSMENT**: false
+  - **2**:
+    - **NAME**: Ciência de dados
+    - **PASSEDSKILLASSESSMENT**: false
+  - **3**:
+    - **NAME**: Habilidades de apresentação
+    - **PASSEDSKILLASSESSMENT**: false
+  - **4**:
+    - **NAME**: Engenharia de dados
+    - **PASSEDSKILLASSESSMENT**: false
+  - **5**:
+    - **NAME**: Governança de TI
+    - **PASSEDSKILLASSESSMENT**: false
+  - **6**:
+    - **NAME**: Visualização de dados
+    - **PASSEDSKILLASSESSMENT**: false
+  - **7**:
+    - **NAME**: Inglês
+    - **PASSEDSKILLASSESSMENT**: false
+  - **8**:
+    - **NAME**: Auditoria
+    - **PASSEDSKILLASSESSMENT**: false
+  - **9**:
+    - **NAME**: Investigações criminais
+    - **PASSEDSKILLASSESSMENT**: false
+  - **10**:
+    - **NAME**: Análise de processos de negócios
+    - **PASSEDSKILLASSESSMENT**: false
+  - **11**:
+    - **NAME**: Litígios
+    - **PASSEDSKILLASSESSMENT**: false
+  - **12**:
+    - **NAME**: Docência
+    - **PASSEDSKILLASSESSMENT**: false
+  - **13**:
+    - **NAME**: Analítica de dados
+    - **PASSEDSKILLASSESSMENT**: false
+  - **14**:
+    - **NAME**: Gestão de TI
+    - **PASSEDSKILLASSESSMENT**: false
+  - **15**:
+    - **NAME**: Direito civil
+    - **PASSEDSKILLASSESSMENT**: false
+  - **16**:
+    - **NAME**: BPMN
+    - **PASSEDSKILLASSESSMENT**: false
+    - **ENDORSEMENTSCOUNT**: 2
+  - **17**:
+    - **NAME**: Oratória
+    - **PASSEDSKILLASSESSMENT**: false
+    - **ENDORSEMENTSCOUNT**: 3
+  - **18**:
+    - **NAME**: Gestão
+    - **PASSEDSKILLASSESSMENT**: false
+    - **ENDORSEMENTSCOUNT**: 3
+  - **19**:
+    - **NAME**: Planejamento estratégico
+    - **PASSEDSKILLASSESSMENT**: false
+  - **20**:
+    - **NAME**: Gerenciamento de processos de negócios
+    - **PASSEDSKILLASSESSMENT**: false
+  - **21**:
+    - **NAME**: Microsoft Office
+    - **PASSEDSKILLASSESSMENT**: false
+  - **22**:
+    - **NAME**: Tableau
+    - **PASSEDSKILLASSESSMENT**: false
+  - **23**:
+    - **NAME**: Legal Design
+    - **PASSEDSKILLASSESSMENT**: false
+  - **24**:
+    - **NAME**: Data Discovery
+    - **PASSEDSKILLASSESSMENT**: false
+  - **25**:
+    - **NAME**: Adobe Photoshop
+    - **PASSEDSKILLASSESSMENT**: false
+- **CERTIFICATIONS**:
+  - **0**:
+    - **NAME**: AI & Law  (with Honors)
+    - **START**:
+      - **YEAR**: 2024
+      - **MONTH**: 11
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+    - **AUTHORITY**: Lund University
+    - **COMPANY**:
+      - **STAFFCOUNTRANGE**:
+      - **HEADQUARTER**:
+    - **TIMEPERIOD**:
+      - **START**:
+        - **YEAR**: 0
+        - **MONTH**: 0
+        - **DAY**: 0
+      - **END**:
+        - **YEAR**: 0
+        - **MONTH**: 0
+        - **DAY**: 0
+- **HONORS**:
+  - **0**:
+    - **TITLE**: Premio Innovare 2011 - Categoria Ministério Público
+    - **DESCRIPTION**: Programa de Resolução Operacional de Homicídios para a MEta 2 Enasp. 
+    - **ISSUER**: Instituto Innovare
+    - **ISSUERLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_76190.jpeg]]
+    - **ISSUEDON**:
+      - **YEAR**: 2011
+      - **MONTH**: 11
+      - **DAY**: 0
+  - **1**:
+    - **TITLE**: Prêmio Gestão de Excelência 2011 - Ministério Público do Estado do Rio de Janeiro
+    - **DESCRIPTION**: Reconhecimento pelos resultados de gestão em investigações de homicídios junto ao Centro Integrado de Apuração Criminal. Ciclo completo de polícia. PROHOMEN
+    - **ISSUER**: Ministério Público do Estado do Rio de Janeiro
+    - **ISSUERLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_01445.jpeg]]
+    - **ISSUEDON**:
+      - **YEAR**: 2011
+      - **MONTH**: 10
+      - **DAY**: 0
+  - **2**:
+    - **TITLE**: Prêmio Gestão de Excelência 2010 - Ministério Público do Estado do Rio de Janeiro
+    - **DESCRIPTION**: Reconhecimento pela gestão de excelência pelo desenvolvimento dos métodos operacionais do Programa de Identificação de Vítimas. 
+    - **ISSUER**: Ministério Público do Estado do Rio de Janeiro
+    - **ISSUERLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_55731.jpeg]]
+    - **ISSUEDON**:
+      - **YEAR**: 2010
+      - **MONTH**: 12
+      - **DAY**: 0
+  - **3**:
+    - **TITLE**: Premio Innovare 2010 - Menção Honrosa - Categoria Ministério Público
+    - **DESCRIPTION**: Programa de Identificação de Vítimas - PIV
+    - **ISSUER**: Instituto Innovare
+    - **ISSUERLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_86425.jpeg]]
+    - **ISSUEDON**:
+      - **YEAR**: 2010
+      - **MONTH**: 11
+      - **DAY**: 0
+  - **4**:
+    - **TITLE**: Prêmio CNMP / Programa de Localização de Desaparecidos
+    - **DESCRIPTION**: Reconhecimento pelo desenvolvimento do PLID - Programa de Localização e Identificação de Desaparecidos - MPRJ. Projeto hoje em nível nacional tendo sido replicado em todos os estados da federação. Hoje SINALID, capitaneado pelo MPRJ e Comissão de Direitos Fundamentais do CNMP.
+    - **ISSUER**: CNMP
+    - **ISSUERLOGO**: ![[OSINT-CASES/ODISSEUS-PLUGIN/media/file_52533.jpeg]]
+    - **ISSUEDON**:
+      - **YEAR**: 2010
+      - **MONTH**: 1
+      - **DAY**: 0
+- **PROJECTS**:
+- **SUPPORTEDLOCALES**:
+  - **0**:
+    - **COUNTRY**: BR
+    - **LANGUAGE**: pt
+- **MULTILOCALEFIRSTNAME**:
+  - **PT**: Pedro
+- **MULTILOCALELASTNAME**:
+  - **PT**: Borges Mourão
+- **MULTILOCALEHEADLINE**:
+  - **PT**: Promotor de Justiça - Mestre em Direito Digital - Provas Digitais, IA e Legal Storytelling. 🏆🏆Innovare. 

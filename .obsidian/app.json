@@ -7,7 +7,7 @@
   },
   "attachmentFolderPath": "attachments",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "newFileFolderPath": "CURSO-OBSIDIAN/journal",
   "propertiesInDocument": "visible",
   "vimMode": false,
