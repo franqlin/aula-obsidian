@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Definições"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Definições.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Git"
+              "title": "Sumário de Definições"
             }
           },
           {
@@ -280,14 +280,25 @@
   },
   "active": "385512351130ea1c",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Slide 2 - Introdução.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE5/Slide 5 - OSINT.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 -  Zettelkasten.md",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/3. Introdução às notas de obsidiana.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/4. Crie sua primeira nota.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/5. Uma introdução aos links.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/6. Uma introdução ao Markdown.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/8. Mapas de Conteúdo.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/9. O Método Zettelkasten.md",
+    "OSINT-CASES/KANBAN.md",
+    "TEMPLATES/Meeting.md",
+    "TEMPLATES/TEMPLATE.md",
+    "Sem título.canvas",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/LINKS.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/9. O Método Zettelkasten.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/8. Mapas de Conteúdo.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/7. Organizando suas anotações.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/6. Uma introdução ao Markdown.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/4. Crie sua primeira nota.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/3. Introdução às notas de obsidiana.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/2. O Obsidian é gratuito.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
@@ -297,18 +308,7 @@
     "OSINT-CASES/METODOLOGIAS/Fravia.md",
     "OSINT-CASES/METODOLOGIAS/CRAWL.md",
     "OSINT-CASES/METODOLOGIAS/5W1H.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE5/Slide 5 - O que é OSINT?.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 - O que é Zettelkasten?.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Proposta.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/O modelo de Luhmann.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE2/Slide 2 - Introdução.md",
-    "Sem título.canvas",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
-    "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
-    "MORIN-ZETTEL-KASTEN/INBOX/Edgar Morin propõe sete saberes fundamentais.md",
-    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
     "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
     "OSINT-CASES/Ferramentas OSINT/BOOKS",
     "OSINT-CASES/CASOS/CASO-002",
