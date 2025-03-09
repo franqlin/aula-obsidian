@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "385512351130ea1c",
+            "id": "e31814b5a8bc1940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATES/Sem título.md",
+                "file": "TEMPLATES/Sem título 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "Sem título 1"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/Sem título.md",
+                "file": "TEMPLATES/Sem título 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de Sem título 1"
             }
           },
           {
@@ -278,10 +278,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "385512351130ea1c",
+  "active": "e31814b5a8bc1940",
   "lastOpenFiles": [
-    "Sem título.canvas",
     "TEMPLATES/Sem título.md",
+    "TEMPLATES/Sem título 1.md",
+    "Sem título.canvas",
     "TEMPLATES/TEMPLATE.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE6/Sinergia entre Conhecimento e Investigaçã.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/RAW.md",
