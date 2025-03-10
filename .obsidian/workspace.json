@@ -6,7 +6,7 @@
       {
         "id": "b14cb4a794980417",
         "type": "tabs",
-        "dimension": 47.06308919506889,
+        "dimension": 66.20739666424946,
         "children": [
           {
             "id": "7d52d12df4cdf38e",
@@ -23,7 +23,7 @@
       {
         "id": "19813170abff8f81",
         "type": "tabs",
-        "dimension": 52.93691080493112,
+        "dimension": 33.79260333575054,
         "children": [
           {
             "id": "6176c7028852a8cc",
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#card",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
