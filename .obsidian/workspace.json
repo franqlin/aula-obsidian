@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
+                "file": "OSINT-CASES/CASOS/CASO-003/Sem título.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Odysseus Plugins"
+              "title": "Sem título"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
+                "file": "OSINT-CASES/CASOS/CASO-003/Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Odysseus Plugins"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -237,11 +237,16 @@
       "slide-note:Slide Note Block Generator": false,
       "marp:Marp: Open Preview": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7d52d12df4cdf38e",
   "lastOpenFiles": [
+    "attachments/Captura de tela_2025-03-10_09-40-22.png",
+    "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
+    "OSINT-CASES/CASOS/CASO-003/Sem título.md",
+    "OSINT-CASES/CASOS/CASO-003",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - Obsidian.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 -  Zettelkasten.md",
@@ -264,11 +269,8 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Estrutura de Notas.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/6. Uma introdução ao Markdown.md",
-    "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
     "OSINT-CASES/ODISSEUS-PLUGIN/BUSCA LINKEDIN.md",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
-    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
-    "_media-sync_resources/2025/03/09/162237/94175.png.md",
     "_media-sync_resources/2025/03/09/162237/94175.png",
     "_media-sync_resources/2025/03/09/162237/51933.jpeg",
     "_media-sync_resources/2025/03/09/162237/78300.png",
@@ -287,7 +289,6 @@
     "_media-sync_resources/2025/03/09/162142/30098.pdf",
     "_media-sync_resources/2025/03/09/162142",
     "_media-sync_resources/2025/03/09/162106/66552.pdf",
-    "_media-sync_resources/2025/03/09/162106/77060.pdf",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",
