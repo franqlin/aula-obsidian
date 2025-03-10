@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+                "file": "OSINT-CASES/Material.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0.SLIDES"
+              "title": "Material"
             }
           }
         ]
@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+                "file": "OSINT-CASES/Material.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 0.SLIDES"
+              "title": "Sumário de Material"
             }
           },
           {
@@ -257,8 +257,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6176c7028852a8cc",
+  "active": "7d52d12df4cdf38e",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+    "OSINT-CASES/Material.md",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "attachments/Pasted image 20250310110223.png",
     "attachments/Pasted image 20250310110120.png",
@@ -295,7 +297,6 @@
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Reescrever em Suas Próprias Palavras.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Nomeclatura de Arquivos.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Estrutura de Notas.md",
     "_media-sync_resources/2025/03/09/162237",
     "_media-sync_resources/2025/03/09/162230",
     "_media-sync_resources/2025/03/09/162229",
