@@ -6,7 +6,7 @@
       {
         "id": "b14cb4a794980417",
         "type": "tabs",
-        "dimension": 74.97907949790795,
+        "dimension": 38.76306620209059,
         "children": [
           {
             "id": "7d52d12df4cdf38e",
@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INGLES/INBOX/MODELO-CARTÃO.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,25 +39,29 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MODELO-CARTÃO"
+              "title": "Busca de Informações via CPF-CNPJ-CRM-CNA"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "19813170abff8f81",
+        "id": "321ce152ea4ae294",
         "type": "tabs",
-        "dimension": 25.020920502092046,
+        "dimension": 61.23693379790941,
         "children": [
           {
-            "id": "6176c7028852a8cc",
+            "id": "5b8c99338f646e02",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: 0.SLIDES.md"
+              "type": "surfing-view",
+              "state": {
+                "url": "https://valoresareceber.bcb.gov.br/publico"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Valores a Receber"
             }
           }
         ]
@@ -191,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INGLES/INBOX/MODELO-CARTÃO.md",
+                "file": "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de MODELO-CARTÃO"
+              "title": "Sumário de Busca de Informações via CPF-CNPJ-CRM-CNA"
             }
           },
           {
@@ -270,11 +274,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db7fa5c6913b86b4",
+  "active": "022e475884c4ea2a",
   "lastOpenFiles": [
+    "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
+    "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
+    "INGLES/INBOX/MODELO-CARTÃO.md",
     "attachments/Pasted image 20250310194833.png",
     "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
-    "INGLES/INBOX/MODELO-CARTÃO.md",
     "INGLES/REFERENCIAS",
     "INGLES/NOTAS-PERMANENTES",
     "INGLES/PRE-PROCESS",
@@ -296,7 +302,6 @@
     "attachments/Pasted image 20250310105536.png",
     "attachments/Pasted image 20250310105450.png",
     "attachments/Pasted image 20250310105307.png",
-    "attachments/Pasted image 20250310105229.png",
     "OSINT-CASES/CASOS/CASO-003/Confort.md",
     "OSINT-CASES/CASOS/CASO-003/Sem título.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Confort.md",
@@ -318,7 +323,6 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1b Conexões Temáticas.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
-    "_media-sync_resources/2025/03/09/162237",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",
