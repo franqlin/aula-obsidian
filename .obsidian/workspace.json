@@ -6,7 +6,7 @@
       {
         "id": "b14cb4a794980417",
         "type": "tabs",
-        "dimension": 66.20739666424946,
+        "dimension": 31.966527196652724,
         "children": [
           {
             "id": "7d52d12df4cdf38e",
@@ -17,13 +17,38 @@
               "icon": "lucide-git-fork",
               "title": "Visualização em gráfico"
             }
+          },
+          {
+            "id": "022e475884c4ea2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSINT-CASES/Material.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Material"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "19813170abff8f81",
         "type": "tabs",
-        "dimension": 33.79260333575054,
+        "dimension": 68.03347280334728,
         "children": [
           {
             "id": "6176c7028852a8cc",
@@ -98,12 +123,11 @@
               "title": "Surfing Tab Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 441.5
   },
   "right": {
     "id": "07ceb56b031f6880",
@@ -167,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OSINT-CASES/Material.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Material"
             }
           },
           {
@@ -245,7 +270,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3020db7a3f87e948",
+  "active": "022e475884c4ea2a",
   "lastOpenFiles": [
     "OSINT-CASES/Material.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",

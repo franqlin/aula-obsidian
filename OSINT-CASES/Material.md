@@ -1,1 +1,23 @@
-- [https://github.com/franqlin/aula-obsidian/](https://github.com/franqlin/aula-obsidian/%E2%80%8B)​
+- [https://github.com/franqlin/aula-obsidian/](https://github.com/franqlin/aula-obsidian/%E2%80%8B)
+- 
+- **Resultado da Busca WHOIS:* www.terra.com.br*
+- **% PRIVACY POLICY AT HTTPS**: //registro.br/upp . Distribution,
+- **% 2025-03-10T19**: 05:30-03:00 - 177.47.117.12
+- **DOMAIN**: terra.com.br
+- **OWNER**: Terra Networks Brasil S.A.
+- **OWNERID**: 91.088.328/0001-67
+- **RESPONSIBLE**: Hostmaster Terra Networks
+- **COUNTRY**: BR
+- **OWNER-C**: MPL4
+- **TECH-C**: ALG3
+- **NSERVER**: d.dns.terra.com.br 2.16.130.67
+- **NSSTAT**: 20250309 AA
+- **NSLASTAA**: 20250309
+- **CREATED**: 19971226
+- **CHANGED**: 20250129
+- **EXPIRES**: 20271130
+- **STATUS**: published
+- **NIC-HDL-BR**: ALG3
+- **PERSON**: Hostmaster Terra Networks
+- **E-MAIL**: domain@terra.com.br
+​
