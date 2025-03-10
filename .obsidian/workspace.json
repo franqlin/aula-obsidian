@@ -6,7 +6,7 @@
       {
         "id": "b14cb4a794980417",
         "type": "tabs",
-        "dimension": 45.1063829787234,
+        "dimension": 47.06308919506889,
         "children": [
           {
             "id": "7d52d12df4cdf38e",
@@ -37,7 +37,7 @@
       {
         "id": "19813170abff8f81",
         "type": "tabs",
-        "dimension": 54.8936170212766,
+        "dimension": 52.93691080493112,
         "children": [
           {
             "id": "6176c7028852a8cc",
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 256.5
   },
   "right": {
     "id": "07ceb56b031f6880",
@@ -259,7 +259,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d52d12df4cdf38e",
+  "active": "db7fa5c6913b86b4",
   "lastOpenFiles": [
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "OSINT-CASES/Material.md",
