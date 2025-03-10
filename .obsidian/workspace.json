@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - Obsidian.md",
+                "file": "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Slide 3 - Obsidian"
+              "title": "Odysseus Plugins"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - Obsidian.md",
+                "file": "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Slide 3 - Obsidian"
+              "title": "Sumário de Odysseus Plugins"
             }
           },
           {
@@ -245,6 +245,8 @@
   },
   "active": "7d52d12df4cdf38e",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - Obsidian.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 -  Zettelkasten.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/TEXTO.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
@@ -271,9 +273,7 @@
     "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
     "_media-sync_resources/2025/03/09/162237/94175.png.md",
     "_media-sync_resources/2025/03/09/162237/94175.png",
-    "_media-sync_resources/2025/03/09/162237/51933.jpeg.md",
     "_media-sync_resources/2025/03/09/162237/51933.jpeg",
-    "_media-sync_resources/2025/03/09/162237/78300.png.md",
     "_media-sync_resources/2025/03/09/162237/78300.png",
     "_media-sync_resources/2025/03/09/162237/63095.jpeg",
     "_media-sync_resources/2025/03/09/162237",
