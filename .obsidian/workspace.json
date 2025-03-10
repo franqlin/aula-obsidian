@@ -258,9 +258,9 @@
       "marp:Marp: Open Preview": false,
       "flashcards-obsidian:Generate flashcards": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7d52d12df4cdf38e",
