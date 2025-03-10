@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/Material.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Material"
+              "title": "Exemplos de uso"
             }
           }
         ],
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/Material.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Material"
+              "title": "Sumário de Exemplos de uso"
             }
           },
           {
@@ -272,6 +272,7 @@
   },
   "active": "022e475884c4ea2a",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "OSINT-CASES/Material.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
@@ -293,7 +294,6 @@
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
     "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
     "OSINT-CASES/CASOS/CASO-003",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - Obsidian.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 -  Zettelkasten.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/TEXTO.md",

@@ -1,5 +1,5 @@
 - [https://github.com/franqlin/aula-obsidian/](https://github.com/franqlin/aula-obsidian/%E2%80%8B)
-- 
+
 - **Resultado da Busca WHOIS:* www.terra.com.br*
 - **% PRIVACY POLICY AT HTTPS**: //registro.br/upp . Distribution,
 - **% 2025-03-10T19**: 05:30-03:00 - 177.47.117.12

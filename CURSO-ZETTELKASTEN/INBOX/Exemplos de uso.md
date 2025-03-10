@@ -1,6 +1,7 @@
 Aqui estão alguns exemplos práticos de como você pode aplicar a estrutura de pastas do Zettelkasten no Obsidian:
 
 ### 1. **Inbox**
+#card
    - **Exemplo**: Você está lendo um artigo sobre produtividade e tem uma ideia para melhorar sua gestão de tempo. Cria uma nota rápida na pasta `Inbox` com o título "Ideia: Técnica Pomodoro Adaptada" e anota os pontos principais.
 
 ### 2. **Notas Permanentes**
