@@ -1,14 +1,7 @@
 {
 	"nodes":[
-		{"id":"ad9caeb313982630","type":"file","file":"OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md","x":-80,"y":-329,"width":400,"height":400},
-		{"id":"a8cc52579f6efabe","type":"text","text":"PineTools.com\nimgupscale.com","x":-440,"y":71,"width":250,"height":60},
-		{"id":"52281f2438ef8720","type":"text","text":"magick mogrify -resize 50%  image.jpg","x":-440,"y":200,"width":250,"height":60},
-		{"id":"3741cb8207735be8","type":"file","file":"attachments/Captura de tela_2025-03-10_09-47-23 1.png","x":-440,"y":340,"width":400,"height":331},
-		{"id":"eb495341b2b20317","type":"file","file":"OSINT-CASES/CASOS/CASO-003/Confort.md","x":120,"y":400,"width":400,"height":400},
-		{"id":"a686b990c0605b9a","type":"file","file":"attachments/Pasted image 20250310104543.png","x":-800,"y":800,"width":485,"height":267},
 		{"id":"ad1f55733defbd97","type":"text","text":"As placas de fundo são escritas em árabe e inglês e podemos ver que o nome da empresa de elevadores é \"confort\" (canto superior esquerdo). O logotipo é um círculo (não uma letra C completa) com duas setas dentro, uma apontando para cima e outra para baixo.","x":-185,"y":601,"width":250,"height":60},
 		{"id":"6e1474baab7df011","type":"file","file":"attachments/Pasted image 20250310104951.png","x":-800,"y":1160,"width":400,"height":358},
-		{"id":"230ef25ccdd1c3aa","type":"file","file":"attachments/Pasted image 20250310105049.png","x":-40,"y":1040,"width":419,"height":478},
 		{"id":"f99252b845538e2c","type":"text","text":" site oficial de Pullman para encontrar locais em potencial com o idioma árabe - Oriente Médio.\nHavia três países em potencial, Arábia Saudita, Emirados Árabes Unidos e Catar.","x":-400,"y":2160,"width":380,"height":76},
 		{"id":"af7605a5cfec91f6","type":"file","file":"attachments/Pasted image 20250310105307.png","x":94,"y":1640,"width":571,"height":402},
 		{"id":"88a36f2f42d951f3","type":"file","file":"attachments/Pasted image 20250310105450.png","x":380,"y":2280,"width":400,"height":362},
@@ -20,7 +13,14 @@
 		{"id":"a7850c08c3a12973","type":"file","file":"attachments/Pasted image 20250310105948.png","x":741,"y":4325,"width":400,"height":369},
 		{"id":"28f4a756206e5950","type":"file","file":"attachments/Pasted image 20250310110023.png","x":-53,"y":4409,"width":400,"height":202},
 		{"id":"18cd66d602556aa6","type":"file","file":"attachments/Pasted image 20250310110120.png","x":280,"y":5000,"width":578,"height":341},
-		{"id":"8d255aa6de69a730","type":"file","file":"attachments/Pasted image 20250310110223.png","x":-129,"y":5880,"width":698,"height":320}
+		{"id":"8d255aa6de69a730","type":"file","file":"attachments/Pasted image 20250310110223.png","x":-129,"y":5880,"width":698,"height":320},
+		{"id":"ad9caeb313982630","type":"file","file":"OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md","x":320,"y":-800,"width":400,"height":400},
+		{"id":"a8cc52579f6efabe","type":"text","text":"PineTools.com\nimgupscale.com","x":-725,"y":-720,"width":250,"height":60},
+		{"id":"52281f2438ef8720","type":"text","text":"magick mogrify -resize 50%  image.jpg","x":-1050,"y":-360,"width":250,"height":300},
+		{"id":"3741cb8207735be8","type":"file","file":"attachments/Captura de tela_2025-03-10_09-47-23 1.png","x":-1250,"y":235,"width":400,"height":331},
+		{"id":"eb495341b2b20317","type":"file","file":"OSINT-CASES/CASOS/CASO-003/Confort.md","x":265,"y":35,"width":400,"height":400},
+		{"id":"230ef25ccdd1c3aa","type":"file","file":"attachments/Pasted image 20250310105049.png","x":170,"y":695,"width":419,"height":478},
+		{"id":"a686b990c0605b9a","type":"file","file":"attachments/Pasted image 20250310104543.png","x":-800,"y":667,"width":485,"height":267}
 	],
 	"edges":[
 		{"id":"70a9dcbfd6403326","fromNode":"ad9caeb313982630","fromSide":"left","toNode":"a8cc52579f6efabe","toSide":"right"},

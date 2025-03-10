@@ -11,17 +11,40 @@
             "id": "7d52d12df4cdf38e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
-                "viewState": {
-                  "x": 217.55553869499246,
-                  "y": 285.2367262913195,
-                  "zoom": -1.1054054171035343
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVA"
+              "icon": "lucide-file",
+              "title": "0.SLIDES"
+            }
+          }
+        ]
+      },
+      {
+        "id": "19813170abff8f81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6176c7028852a8cc",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: 0.SLIDES.md"
             }
           }
         ]
@@ -91,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 225.5
   },
   "right": {
     "id": "07ceb56b031f6880",
@@ -155,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de CANVA"
+              "title": "Sumário de 0.SLIDES"
             }
           },
           {
@@ -230,11 +253,13 @@
       "slide-note:Slide Note Block Generator": false,
       "marp:Marp: Open Preview": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d52d12df4cdf38e",
+  "active": "6176c7028852a8cc",
   "lastOpenFiles": [
+    "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "attachments/Pasted image 20250310110223.png",
     "attachments/Pasted image 20250310110120.png",
     "attachments/Pasted image 20250310110023.png",
@@ -245,8 +270,6 @@
     "attachments/Pasted image 20250310105450.png",
     "attachments/Pasted image 20250310105307.png",
     "attachments/Pasted image 20250310105229.png",
-    "attachments/Pasted image 20250310105153.png",
-    "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "OSINT-CASES/CASOS/CASO-003/Confort.md",
     "OSINT-CASES/CASOS/CASO-003/Sem título.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Confort.md",
