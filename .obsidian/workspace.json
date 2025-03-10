@@ -6,7 +6,6 @@
       {
         "id": "b14cb4a794980417",
         "type": "tabs",
-        "dimension": 38.76306620209059,
         "children": [
           {
             "id": "7d52d12df4cdf38e",
@@ -24,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
+                "file": "OSINT-CASES/METODOLOGIAS/Funnel.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,32 +38,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Busca de Informações via CPF-CNPJ-CRM-CNA"
+              "title": "Funnel"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "321ce152ea4ae294",
-        "type": "tabs",
-        "dimension": 61.23693379790941,
-        "children": [
-          {
-            "id": "5b8c99338f646e02",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://valoresareceber.bcb.gov.br/publico"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Valores a Receber"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -195,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
+                "file": "OSINT-CASES/METODOLOGIAS/Funnel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Busca de Informações via CPF-CNPJ-CRM-CNA"
+              "title": "Sumário de Funnel"
             }
           },
           {
@@ -276,6 +254,13 @@
   },
   "active": "022e475884c4ea2a",
   "lastOpenFiles": [
+    "OSINT-CASES/METODOLOGIAS/Fravia.md",
+    "OSINT-CASES/METODOLOGIAS/5W1H.md",
+    "OSINT-CASES/Ferramentas OSINT/Mapas e Georreferenciamento.md",
+    "OSINT-CASES/Ferramentas OSINT/Tor.md",
+    "OSINT-CASES/Ferramentas OSINT/Search and Links.md",
+    "OSINT-CASES/Ferramentas OSINT/Saúde.md",
+    "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
     "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
     "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
     "INGLES/INBOX/MODELO-CARTÃO.md",
@@ -316,13 +301,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/rituais de leitura, escrita e gerenciamento de notas.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Impacto Cultural.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1d Conclusão.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1c Impacto Cultural.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1b Conexões Temáticas.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas.md",
-    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",
