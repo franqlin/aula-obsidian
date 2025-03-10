@@ -1,15 +1,23 @@
 {
 	"nodes":[
-		{"id":"ad9caeb313982630","x":-80,"y":-329,"width":400,"height":400,"type":"file","file":"OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md"},
-		{"id":"a8cc52579f6efabe","x":-440,"y":71,"width":250,"height":60,"type":"text","text":"PineTools.com\nimgupscale.com"},
-		{"id":"52281f2438ef8720","x":-440,"y":200,"width":250,"height":60,"type":"text","text":"magick mogrify -resize 50%  image.jpg"},
-		{"id":"3741cb8207735be8","x":-440,"y":340,"width":400,"height":331,"type":"file","file":"attachments/Captura de tela_2025-03-10_09-47-23 1.png"},
-		{"id":"a686b990c0605b9a","x":-420,"y":740,"width":400,"height":220,"type":"file","file":"attachments/Pasted image 20250310104543.png"}
+		{"id":"d192b96849f325bd","x":-620,"y":1625,"width":250,"height":60,"type":"text","text":""},
+		{"id":"ad9caeb313982630","type":"file","file":"OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md","x":-80,"y":-329,"width":400,"height":400},
+		{"id":"a8cc52579f6efabe","type":"text","text":"PineTools.com\nimgupscale.com","x":-440,"y":71,"width":250,"height":60},
+		{"id":"52281f2438ef8720","type":"text","text":"magick mogrify -resize 50%  image.jpg","x":-440,"y":200,"width":250,"height":60},
+		{"id":"3741cb8207735be8","type":"file","file":"attachments/Captura de tela_2025-03-10_09-47-23 1.png","x":-440,"y":340,"width":400,"height":331},
+		{"id":"eb495341b2b20317","x":120,"y":400,"width":400,"height":400,"type":"file","file":"OSINT-CASES/CASOS/CASO-003/Confort.md"},
+		{"id":"a686b990c0605b9a","type":"file","file":"attachments/Pasted image 20250310104543.png","x":-800,"y":800,"width":485,"height":267},
+		{"id":"ad1f55733defbd97","x":-185,"y":601,"width":250,"height":60,"type":"text","text":"As placas de fundo são escritas em árabe e inglês e podemos ver que o nome da empresa de elevadores é \"confort\" (canto superior esquerdo). O logotipo é um círculo (não uma letra C completa) com duas setas dentro, uma apontando para cima e outra para baixo."},
+		{"id":"6e1474baab7df011","x":-800,"y":1160,"width":400,"height":358,"type":"file","file":"attachments/Pasted image 20250310104951.png"},
+		{"id":"230ef25ccdd1c3aa","x":-40,"y":1040,"width":351,"height":400,"type":"file","file":"attachments/Pasted image 20250310105049.png"}
 	],
 	"edges":[
 		{"id":"70a9dcbfd6403326","fromNode":"ad9caeb313982630","fromSide":"left","toNode":"a8cc52579f6efabe","toSide":"right"},
 		{"id":"2f44155f1852b4ff","fromNode":"a8cc52579f6efabe","fromSide":"bottom","toNode":"52281f2438ef8720","toSide":"top"},
 		{"id":"95be71232360f0d6","fromNode":"52281f2438ef8720","fromSide":"bottom","toNode":"3741cb8207735be8","toSide":"top"},
-		{"id":"5e2c9d0bf6c645bd","fromNode":"3741cb8207735be8","fromSide":"bottom","toNode":"a686b990c0605b9a","toSide":"top"}
+		{"id":"5e2c9d0bf6c645bd","fromNode":"3741cb8207735be8","fromSide":"bottom","toNode":"a686b990c0605b9a","toSide":"top"},
+		{"id":"3b51694ead841498","fromNode":"3741cb8207735be8","fromSide":"right","toNode":"eb495341b2b20317","toSide":"left"},
+		{"id":"f2d742b1de898381","fromNode":"a686b990c0605b9a","fromSide":"bottom","toNode":"6e1474baab7df011","toSide":"top"},
+		{"id":"8af162d47e542015","fromNode":"a686b990c0605b9a","fromSide":"right","toNode":"230ef25ccdd1c3aa","toSide":"left"}
 	]
 }

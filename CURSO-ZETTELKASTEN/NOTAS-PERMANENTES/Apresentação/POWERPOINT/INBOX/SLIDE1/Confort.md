@@ -1,0 +1,1 @@
+As placas de fundo são escritas em árabe e inglês e podemos ver que o nome da empresa de elevadores é "confort" (canto superior esquerdo). O logotipo é um círculo (não uma letra C completa) com duas setas dentro, uma apontando para cima e outra para baixo.

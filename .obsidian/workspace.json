@@ -11,24 +11,17 @@
             "id": "7d52d12df4cdf38e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Sem título.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
+                "viewState": {
+                  "x": -60,
+                  "y": 1651.1553452200303,
+                  "zoom": -1.1054054171035343
                 }
               },
-              "icon": "lucide-file",
-              "title": "Sem título"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVA"
             }
           }
         ]
@@ -162,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Sem título.md",
+                "file": "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de CANVA"
             }
           },
           {
@@ -243,12 +236,17 @@
   },
   "active": "7d52d12df4cdf38e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250310105153.png",
+    "attachments/Pasted image 20250310105049.png",
+    "attachments/Pasted image 20250310104951.png",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Sem título.md",
+    "OSINT-CASES/CASOS/CASO-003/Confort.md",
+    "OSINT-CASES/CASOS/CASO-003/Sem título.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Confort.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "attachments/Pasted image 20250310104543.png",
     "attachments/Captura de tela_2025-03-10_09-47-23 1.png",
     "OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md",
-    "OSINT-CASES/CASOS/CASO-003/Sem título.md",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
     "attachments/Captura de tela_2025-03-10_09-40-22 1.png",
     "attachments/Pasted image 20250310095921.png",
@@ -261,7 +259,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - Obsidian.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 -  Zettelkasten.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/TEXTO.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
     "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
@@ -277,9 +274,6 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Reescrever em Suas Próprias Palavras.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Nomeclatura de Arquivos.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Estrutura de Notas.md",
-    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
-    "_media-sync_resources/2025/03/09/162237/94175.png",
-    "_media-sync_resources/2025/03/09/162237/51933.jpeg",
     "_media-sync_resources/2025/03/09/162237",
     "_media-sync_resources/2025/03/09/162230",
     "_media-sync_resources/2025/03/09/162229",
