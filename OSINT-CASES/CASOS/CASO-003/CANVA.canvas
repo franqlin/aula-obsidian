@@ -13,7 +13,13 @@
 		{"id":"af7605a5cfec91f6","x":94,"y":1640,"width":571,"height":402,"type":"file","file":"attachments/Pasted image 20250310105307.png"},
 		{"id":"88a36f2f42d951f3","x":380,"y":2280,"width":400,"height":362,"type":"file","file":"attachments/Pasted image 20250310105450.png"},
 		{"id":"2bd75ab0c3f2d6a6","x":-480,"y":2760,"width":574,"height":395,"type":"file","file":"attachments/Pasted image 20250310105536.png"},
-		{"id":"b2aa095fce53e3dc","x":520,"y":2958,"width":400,"height":201,"type":"file","file":"attachments/Pasted image 20250310105645.png"}
+		{"id":"b2aa095fce53e3dc","x":520,"y":2958,"width":400,"height":201,"type":"file","file":"attachments/Pasted image 20250310105645.png"},
+		{"id":"9ed59c8128fc210a","x":-480,"y":3280,"width":427,"height":307,"type":"text","text":"Um ótimo site para verificar se há edifícios contados em todo o mundo - ctbuh.org.\nAlém disso, encontrei uma lista da Wikipedia dos edifícios mais altos em\nDoha, Catar, então tentei procurar este hotel específico de 45 a 50 andares dentro da lista.\nEncontrei o hotel Pullman lá dentro!"},
+		{"id":"23bac3d7a60a7ef5","x":280,"y":3434,"width":661,"height":523,"type":"file","file":"attachments/Pasted image 20250310105811.png"},
+		{"id":"c9840cb57bbc2471","x":-360,"y":4080,"width":463,"height":134,"type":"text","text":"Agora eu decidi procurar fotos de visitantes deste hotel, uma ótima solução é o Google e o TripAdvisor."},
+		{"id":"a7850c08c3a12973","x":741,"y":4325,"width":400,"height":369,"type":"file","file":"attachments/Pasted image 20250310105948.png"},
+		{"id":"28f4a756206e5950","x":-53,"y":4409,"width":400,"height":202,"type":"file","file":"attachments/Pasted image 20250310110023.png"},
+		{"id":"18cd66d602556aa6","x":280,"y":5000,"width":578,"height":341,"type":"file","file":"attachments/Pasted image 20250310110120.png"}
 	],
 	"edges":[
 		{"id":"70a9dcbfd6403326","fromNode":"ad9caeb313982630","fromSide":"left","toNode":"a8cc52579f6efabe","toSide":"right"},
@@ -27,6 +33,12 @@
 		{"id":"d667b0cfcbe22e76","fromNode":"af7605a5cfec91f6","fromSide":"bottom","toNode":"f99252b845538e2c","toSide":"top"},
 		{"id":"4781c11c8680f592","fromNode":"af7605a5cfec91f6","fromSide":"bottom","toNode":"88a36f2f42d951f3","toSide":"right"},
 		{"id":"b6d42c3031a46656","fromNode":"88a36f2f42d951f3","fromSide":"bottom","toNode":"2bd75ab0c3f2d6a6","toSide":"top"},
-		{"id":"002264aec12fc87a","fromNode":"2bd75ab0c3f2d6a6","fromSide":"right","toNode":"b2aa095fce53e3dc","toSide":"left"}
+		{"id":"002264aec12fc87a","fromNode":"2bd75ab0c3f2d6a6","fromSide":"right","toNode":"b2aa095fce53e3dc","toSide":"left"},
+		{"id":"998f776144de9288","fromNode":"2bd75ab0c3f2d6a6","fromSide":"bottom","toNode":"9ed59c8128fc210a","toSide":"top"},
+		{"id":"50d4da7382c9bcd7","fromNode":"9ed59c8128fc210a","fromSide":"right","toNode":"23bac3d7a60a7ef5","toSide":"left"},
+		{"id":"34dd052d9b7bcf86","fromNode":"23bac3d7a60a7ef5","fromSide":"bottom","toNode":"c9840cb57bbc2471","toSide":"top"},
+		{"id":"defd673036e9f768","fromNode":"23bac3d7a60a7ef5","fromSide":"bottom","toNode":"a7850c08c3a12973","toSide":"top"},
+		{"id":"27dfeebae622b470","fromNode":"23bac3d7a60a7ef5","fromSide":"bottom","toNode":"28f4a756206e5950","toSide":"top"},
+		{"id":"2877c48c424d7537","fromNode":"a7850c08c3a12973","fromSide":"bottom","toNode":"18cd66d602556aa6","toSide":"top"}
 	]
 }

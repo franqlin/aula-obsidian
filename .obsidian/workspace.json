@@ -16,7 +16,7 @@
                 "file": "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
                 "viewState": {
                   "x": 217.55553869499246,
-                  "y": 2963.4121130500776,
+                  "y": 5024.423357359641,
                   "zoom": -1.1054054171035343
                 }
               },
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "attachments/Pasted image 20250310105645.png",
+                "file": "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Pasted image 20250310105645"
+              "title": "Sumário de CANVA"
             }
           },
           {
@@ -236,6 +236,10 @@
   },
   "active": "7d52d12df4cdf38e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250310110120.png",
+    "attachments/Pasted image 20250310110023.png",
+    "attachments/Pasted image 20250310105948.png",
+    "attachments/Pasted image 20250310105811.png",
     "attachments/Pasted image 20250310105645.png",
     "attachments/Pasted image 20250310105536.png",
     "attachments/Pasted image 20250310105450.png",
@@ -243,17 +247,13 @@
     "attachments/Pasted image 20250310105229.png",
     "attachments/Pasted image 20250310105153.png",
     "attachments/Pasted image 20250310105049.png",
-    "attachments/Pasted image 20250310104951.png",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "OSINT-CASES/CASOS/CASO-003/Confort.md",
     "OSINT-CASES/CASOS/CASO-003/Sem título.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Confort.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
-    "attachments/Pasted image 20250310104543.png",
-    "attachments/Captura de tela_2025-03-10_09-47-23 1.png",
     "OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
-    "attachments/Captura de tela_2025-03-10_09-40-22 1.png",
     "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
     "OSINT-CASES/CASOS/CASO-003",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
