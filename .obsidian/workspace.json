@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/TEXTO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Teoria Geral dos Sistemas Sociais"
+              "title": "TEXTO"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/TEXTO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Teoria Geral dos Sistemas Sociais"
+              "title": "Sumário de TEXTO"
             }
           },
           {
@@ -265,8 +265,21 @@
   },
   "active": "7d52d12df4cdf38e",
   "lastOpenFiles": [
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Reescrever em Suas Próprias Palavras.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/TEXTO.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/rituais de leitura, escrita e gerenciamento de notas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Impacto Cultural.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1d Conclusão.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1c Impacto Cultural.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1b Conexões Temáticas.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas.md",
+    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Reescrever em Suas Próprias Palavras.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Nomeclatura de Arquivos.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Estrutura de Notas.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
@@ -284,27 +297,14 @@
     "_media-sync_resources/2025/03/09/162237/63095.jpeg.md",
     "_media-sync_resources/2025/03/09/162237/63095.jpeg",
     "_media-sync_resources/2025/03/09/162237",
-    "_media-sync_resources/2025/03/09/162230/59570.png.md",
     "_media-sync_resources/2025/03/09/162230/59570.png",
-    "_media-sync_resources/2025/03/09/162230/98053.png.md",
     "_media-sync_resources/2025/03/09/162230/98053.png",
-    "_media-sync_resources/2025/03/09/162230/72129.png.md",
     "_media-sync_resources/2025/03/09/162230/72129.png",
-    "_media-sync_resources/2025/03/09/162230/03580.png.md",
     "_media-sync_resources/2025/03/09/162230/03580.png",
-    "_media-sync_resources/2025/03/09/162230/40661.png.md",
     "_media-sync_resources/2025/03/09/162230/40661.png",
-    "_media-sync_resources/2025/03/09/162230/30086.png.md",
-    "_media-sync_resources/2025/03/09/162230/30086.png",
     "_media-sync_resources/2025/03/09/162230",
-    "_media-sync_resources/2025/03/09/162229/67271.png.md",
     "_media-sync_resources/2025/03/09/162229",
-    "_media-sync_resources/2025/03/09/162202/05773.jpeg.md",
     "_media-sync_resources/2025/03/09/162202",
-    "_media-sync_resources/2025/03/09/162158/92976.png.md",
-    "_media-sync_resources/2025/03/09/162158/20368.jpeg.md",
-    "_media-sync_resources/2025/03/09/162158/54788.png.md",
-    "_media-sync_resources/2025/03/09/162158/53118.jpeg.md",
     "_media-sync_resources/2025/03/09/162158",
     "_media-sync_resources/2025/03/09/162142/99874.pdf",
     "_media-sync_resources/2025/03/09/162142/30098.pdf",
