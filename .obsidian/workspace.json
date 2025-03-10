@@ -12,24 +12,10 @@
             "id": "7d52d12df4cdf38e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT-CASES/Material.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Material"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -81,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#card",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +98,8 @@
               "title": "Surfing Tab Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/Material.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Material"
+              "title": "Sumário"
             }
           },
           {
@@ -259,10 +245,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db7fa5c6913b86b4",
+  "active": "3020db7a3f87e948",
   "lastOpenFiles": [
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "OSINT-CASES/Material.md",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "attachments/Pasted image 20250310110223.png",
     "attachments/Pasted image 20250310110120.png",
