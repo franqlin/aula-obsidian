@@ -15,8 +15,8 @@
               "state": {
                 "file": "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
                 "viewState": {
-                  "x": -60,
-                  "y": 1651.1553452200303,
+                  "x": 217.55553869499246,
+                  "y": 2963.4121130500776,
                   "zoom": -1.1054054171035343
                 }
               },
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
+                "file": "attachments/Pasted image 20250310105645.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de CANVA"
+              "title": "Sumário de Pasted image 20250310105645"
             }
           },
           {
@@ -236,6 +236,11 @@
   },
   "active": "7d52d12df4cdf38e",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250310105645.png",
+    "attachments/Pasted image 20250310105536.png",
+    "attachments/Pasted image 20250310105450.png",
+    "attachments/Pasted image 20250310105307.png",
+    "attachments/Pasted image 20250310105229.png",
     "attachments/Pasted image 20250310105153.png",
     "attachments/Pasted image 20250310105049.png",
     "attachments/Pasted image 20250310104951.png",
@@ -249,10 +254,6 @@
     "OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
     "attachments/Captura de tela_2025-03-10_09-40-22 1.png",
-    "attachments/Pasted image 20250310095921.png",
-    "attachments/Pasted image 20250310094959.png",
-    "attachments/Captura de tela_2025-03-10_09-47-23.png",
-    "attachments/Captura de tela_2025-03-10_09-40-22.png",
     "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
     "OSINT-CASES/CASOS/CASO-003",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
@@ -262,7 +263,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
     "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/rituais de leitura, escrita e gerenciamento de notas.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Impacto Cultural.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1a Estrutura Musical.md",
