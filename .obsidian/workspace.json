@@ -6,7 +6,7 @@
       {
         "id": "b14cb4a794980417",
         "type": "tabs",
-        "dimension": 31.966527196652724,
+        "dimension": 74.97907949790795,
         "children": [
           {
             "id": "7d52d12df4cdf38e",
@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
+                "file": "INGLES/INBOX/MODELO-CARTÃO.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -39,7 +39,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Exemplos de uso"
+              "title": "MODELO-CARTÃO"
             }
           }
         ],
@@ -48,7 +48,7 @@
       {
         "id": "19813170abff8f81",
         "type": "tabs",
-        "dimension": 68.03347280334728,
+        "dimension": 25.020920502092046,
         "children": [
           {
             "id": "6176c7028852a8cc",
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
+                "file": "INGLES/INBOX/MODELO-CARTÃO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Exemplos de uso"
+              "title": "Sumário de MODELO-CARTÃO"
             }
           },
           {
@@ -272,6 +272,11 @@
   },
   "active": "db7fa5c6913b86b4",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250310194833.png",
+    "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
+    "INGLES/INBOX/MODELO-CARTÃO.md",
+    "INGLES/REFERENCIAS",
+    "INGLES/NOTAS-PERMANENTES",
     "INGLES/PRE-PROCESS",
     "INGLES/INBOX",
     "INGLES",
@@ -304,7 +309,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 -  Zettelkasten.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/TEXTO.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
-    "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/rituais de leitura, escrita e gerenciamento de notas.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Impacto Cultural.md",
@@ -314,11 +318,7 @@
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Nota 1b Conexões Temáticas.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/estudo-de-caso/Temas das Músicas.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/LUHMANN/Teoria Geral dos Sistemas Sociais.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Reescrever em Suas Próprias Palavras.md",
     "_media-sync_resources/2025/03/09/162237",
-    "_media-sync_resources/2025/03/09/162230",
-    "_media-sync_resources/2025/03/09/162229",
-    "_media-sync_resources/2025/03/09/162202",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",

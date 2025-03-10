@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiActivitySquare",
+      "LiAArrowDown",
       "🌐",
       "LiBookA",
-      "LiBriefcaseBusiness",
-      "👩‍🔬",
-      "LiInbox"
+      "LiBriefcaseBusiness"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -110,5 +110,7 @@
   "MORIN-ZETTEL-KASTEN": "LiBookA",
   "INGLES": "🌐",
   "INGLES/INBOX": "LiInbox",
-  "INGLES/PRE-PROCESS": "LiBriefcaseBusiness"
+  "INGLES/PRE-PROCESS": "LiBriefcaseBusiness",
+  "INGLES/NOTAS-PERMANENTES": "LiAArrowDown",
+  "INGLES/REFERENCIAS": "LiActivitySquare"
 }
