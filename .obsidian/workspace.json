@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/METODOLOGIAS/Funnel.md",
+                "file": "OSINT-CASES/CASOS/CASE-AULA/PERSON.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,11 +38,29 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Funnel"
+              "title": "PERSON"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "f36a3286e3d2943a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b6c8a7ced26f4f4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Surfing"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +191,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/METODOLOGIAS/Funnel.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Funnel"
+              "title": "Sumário"
             }
           },
           {
@@ -252,10 +269,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "022e475884c4ea2a",
+  "active": "4b6c8a7ced26f4f4",
   "lastOpenFiles": [
-    "OSINT-CASES/METODOLOGIAS/Fravia.md",
+    "OSINT-CASES/CASOS/CASE-AULA/PERSON.md",
+    "OSINT-CASES/CASOS/CASO-001/INFO.md",
+    "OSINT-CASES/CASOS/CASE-AULA",
+    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
     "OSINT-CASES/METODOLOGIAS/5W1H.md",
+    "OSINT-CASES/METODOLOGIAS/CRAWL.md",
+    "OSINT-CASES/METODOLOGIAS/Fravia.md",
+    "OSINT-CASES/METODOLOGIAS/Funnel.md",
     "OSINT-CASES/Ferramentas OSINT/Mapas e Georreferenciamento.md",
     "OSINT-CASES/Ferramentas OSINT/Tor.md",
     "OSINT-CASES/Ferramentas OSINT/Search and Links.md",
@@ -294,13 +317,7 @@
     "OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
     "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
-    "OSINT-CASES/CASOS/CASO-003",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - Obsidian.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE4/Slide 4 -  Zettelkasten.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/TEXTO.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Como integrar técnicas de gestão de conhecimento e inteligência de fontes abertas.md",
-    "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/rituais de leitura, escrita e gerenciamento de notas.md",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",
