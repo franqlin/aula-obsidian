@@ -1,10 +1,15 @@
 {
 	"nodes":[
 		{"id":"ad9caeb313982630","x":-80,"y":-329,"width":400,"height":400,"type":"file","file":"OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md"},
-		{"id":"52281f2438ef8720","x":-472,"y":-95,"width":250,"height":60,"type":"text","text":""},
-		{"id":"a8cc52579f6efabe","x":-440,"y":71,"width":250,"height":60,"type":"text","text":"PineTools.com\nimgupscale.com"}
+		{"id":"a8cc52579f6efabe","x":-440,"y":71,"width":250,"height":60,"type":"text","text":"PineTools.com\nimgupscale.com"},
+		{"id":"52281f2438ef8720","x":-440,"y":200,"width":250,"height":60,"type":"text","text":"magick mogrify -resize 50%  image.jpg"},
+		{"id":"3741cb8207735be8","x":-440,"y":340,"width":400,"height":331,"type":"file","file":"attachments/Captura de tela_2025-03-10_09-47-23 1.png"},
+		{"id":"a686b990c0605b9a","x":-420,"y":740,"width":400,"height":220,"type":"file","file":"attachments/Pasted image 20250310104543.png"}
 	],
 	"edges":[
-		{"id":"70a9dcbfd6403326","fromNode":"ad9caeb313982630","fromSide":"left","toNode":"a8cc52579f6efabe","toSide":"right"}
+		{"id":"70a9dcbfd6403326","fromNode":"ad9caeb313982630","fromSide":"left","toNode":"a8cc52579f6efabe","toSide":"right"},
+		{"id":"2f44155f1852b4ff","fromNode":"a8cc52579f6efabe","fromSide":"bottom","toNode":"52281f2438ef8720","toSide":"top"},
+		{"id":"95be71232360f0d6","fromNode":"52281f2438ef8720","fromSide":"bottom","toNode":"3741cb8207735be8","toSide":"top"},
+		{"id":"5e2c9d0bf6c645bd","fromNode":"3741cb8207735be8","fromSide":"bottom","toNode":"a686b990c0605b9a","toSide":"top"}
 	]
 }
