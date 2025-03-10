@@ -92,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sans",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,12 +123,11 @@
               "title": "Surfing Tab Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 488.5
   },
   "right": {
     "id": "07ceb56b031f6880",
@@ -271,7 +270,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3020db7a3f87e948",
+  "active": "db7fa5c6913b86b4",
   "lastOpenFiles": [
     "attachments/Pasted image 20250310194833.png",
     "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
