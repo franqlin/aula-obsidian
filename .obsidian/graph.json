@@ -1,10 +1,10 @@
 {
   "collapse-filter": false,
-  "search": "#elon",
+  "search": "",
   "showTags": true,
-  "showAttachments": true,
-  "hideUnresolved": true,
-  "showOrphans": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [],
   "collapse-display": false,
@@ -17,6 +17,6 @@
   "repelStrength": 7.8125,
   "linkStrength": 0.848958333333333,
   "linkDistance": 250,
-  "scale": 0.46822130772748044,
+  "scale": 0.13873223932666082,
   "close": true
 }

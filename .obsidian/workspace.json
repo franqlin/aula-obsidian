@@ -22,24 +22,17 @@
             "id": "022e475884c4ea2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "OSINT-CASES/CASOS/CASO-001/Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "ELON-WIKI"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ],
@@ -193,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md",
+                "file": "OSINT-CASES/CASOS/CASO-001/Sem título.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de ELON-WIKI"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -274,11 +267,14 @@
   },
   "active": "022e475884c4ea2a",
   "lastOpenFiles": [
-    "OSINT-CASES/CASOS/CASE-AULA/PERSON.md",
+    "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
+    "OSINT-CASES/CASOS/CASO-001/Sem título.canvas",
+    "OSINT-CASES/CASOS/CASO-001/INFO.md",
+    "OSINT-CASES/Ferramentas OSINT/Burner SMS Phones.md",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md",
+    "OSINT-CASES/CASOS/CASE-AULA/PERSON.md",
     "attachments/Pasted image 20250310205945.png",
     "attachments/Pasted image 20250310205709.png",
-    "OSINT-CASES/CASOS/CASO-001/INFO.md",
     "OSINT-CASES/CASOS/CASE-AULA",
     "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
     "OSINT-CASES/METODOLOGIAS/5W1H.md",
@@ -319,7 +315,6 @@
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Confort.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md",
-    "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",
