@@ -4,51 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b14cb4a794980417",
-        "type": "tabs",
-        "dimension": 41.289198606271775,
-        "children": [
-          {
-            "id": "7d52d12df4cdf38e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
-            }
-          },
-          {
-            "id": "022e475884c4ea2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSINT-CASES/CASOS/CASE-AULA/Sem título.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sem título"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "6df29d262973c9c0",
         "type": "tabs",
-        "dimension": 41.289198606271775,
         "children": [
           {
             "id": "78917b36e60d734e",
@@ -56,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título.md",
+                "file": "OSINT-CASES/CASOS/CASE-AULA/DUMP-LINKEDIN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -71,26 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sem título"
-            }
-          }
-        ]
-      },
-      {
-        "id": "f36a3286e3d2943a",
-        "type": "tabs",
-        "dimension": 17.421602787456447,
-        "children": [
-          {
-            "id": "4b6c8a7ced26f4f4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Surfing"
+              "title": "DUMP-LINKEDIN"
             }
           }
         ]
@@ -160,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 488.5
+    "width": 255.5
   },
   "right": {
     "id": "07ceb56b031f6880",
@@ -224,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título.md",
+                "file": "OSINT-CASES/CASOS/CASE-AULA/DUMP-LINKEDIN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de DUMP-LINKEDIN"
             }
           },
           {
@@ -305,16 +243,34 @@
   },
   "active": "78917b36e60d734e",
   "lastOpenFiles": [
-    "OSINT-CASES/CASOS/CASE-AULA/Sem título.md",
-    "Sem título.md",
-    "OSINT-CASES/CASOS/CASO-001/ELON-CANVA.canvas",
+    "OSINT-CASES/CASOS/CASE-AULA/DUMP-LINKEDIN.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_07560.jpeg.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_07560.jpeg",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_55838.jpeg.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_55838.jpeg",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_64995.jpeg.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_64995.jpeg",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_46085.jpeg.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_46085.jpeg",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_34933.jpeg.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_34933.jpeg",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_07676.jpeg.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_07676.jpeg",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_99213.jpeg.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_99213.jpeg",
+    "OSINT-CASES/CASOS/CASE-AULA/media",
+    "OSINT-CASES/CASOS/CASE-AULA/DESCRIPTION.md",
+    "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/PERSON.md",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
     "OSINT-CASES/CASOS/CASO-001/INFO.md",
     "OSINT-CASES/Ferramentas OSINT/Burner SMS Phones.md",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md",
     "attachments/Pasted image 20250310205945.png",
-    "attachments/Pasted image 20250310205709.png",
     "OSINT-CASES/CASOS/CASE-AULA",
     "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
     "OSINT-CASES/METODOLOGIAS/5W1H.md",
@@ -326,11 +282,7 @@
     "OSINT-CASES/Ferramentas OSINT/Search and Links.md",
     "OSINT-CASES/Ferramentas OSINT/Saúde.md",
     "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
-    "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
     "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
-    "INGLES/INBOX/MODELO-CARTÃO.md",
-    "attachments/Pasted image 20250310194833.png",
-    "CURSO-ZETTELKASTEN/INBOX/Exemplos de uso.md",
     "INGLES/REFERENCIAS",
     "INGLES/NOTAS-PERMANENTES",
     "INGLES/PRE-PROCESS",
@@ -338,21 +290,7 @@
     "INGLES",
     "Sem título 2",
     "Sem título 1",
-    "Sem título",
-    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
-    "OSINT-CASES/Material.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
-    "attachments/Pasted image 20250310110223.png",
-    "attachments/Pasted image 20250310110120.png",
-    "attachments/Pasted image 20250310110023.png",
-    "attachments/Pasted image 20250310105948.png",
-    "attachments/Pasted image 20250310105811.png",
-    "attachments/Pasted image 20250310105645.png",
-    "attachments/Pasted image 20250310105536.png",
-    "OSINT-CASES/CASOS/CASO-003/Confort.md",
-    "OSINT-CASES/CASOS/CASO-003/Sem título.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Confort.md",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",

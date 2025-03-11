@@ -5,22 +5,22 @@
 - **FIRSTNAME**: Elon 
 - **LASTNAME**: Musk 
 - **ISPREMIUM**: false
-- **PROFILEPICTURE**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_800_800/B4EZSn5vYnHcAc-/0/1737983729003?e=1747267200&v=beta&t=kT20r5qoUmvG-Mparw-aY5NuwIjhQ4Gcv40OMohwblU
+- **PROFILEPICTURE**: ![[OSINT-CASES/CASOS/CASE-AULA/media/file_99213.jpeg]]
 - **PROFILEPICTURES**:
   - **0**:
-    - **URL**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_200_200/B4EZSn5vYnHcAY-/0/1737983728981?e=1747267200&v=beta&t=TwZNrxpl7WI1fyh-rxLgR6SsUI3cBnZ6jCcHVgYhdqw
+    - **URL**: ![[OSINT-CASES/CASOS/CASE-AULA/media/file_07676.jpeg]]
     - **WIDTH**: 200
     - **HEIGHT**: 200
   - **1**:
-    - **URL**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_400_400/B4EZSn5vYnHcAg-/0/1737983728981?e=1747267200&v=beta&t=ZzWbHFACxBWRlPW7OcEKeXTqkYRU2UVSUzpmyCyDM7o
+    - **URL**: ![[OSINT-CASES/CASOS/CASE-AULA/media/file_34933.jpeg]]
     - **WIDTH**: 400
     - **HEIGHT**: 400
   - **2**:
-    - **URL**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_100_100/B4EZSn5vYnHcAU-/0/1737983728981?e=1747267200&v=beta&t=H8MlQACphnsmSJtlpDMa9G6ddtrDAFmgJfmzaNsglHg
+    - **URL**: ![[OSINT-CASES/CASOS/CASE-AULA/media/file_46085.jpeg]]
     - **WIDTH**: 100
     - **HEIGHT**: 100
   - **3**:
-    - **URL**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_800_800/B4EZSn5vYnHcAc-/0/1737983729003?e=1747267200&v=beta&t=kT20r5qoUmvG-Mparw-aY5NuwIjhQ4Gcv40OMohwblU
+    - **URL**: ![[OSINT-CASES/CASOS/CASE-AULA/media/file_64995.jpeg]]
     - **WIDTH**: 800
     - **HEIGHT**: 800
 - **HEADLINE**: CEO of Telsa Motors
@@ -36,7 +36,7 @@ Space X corp
     - **COMPANYNAME**: SpaceX
     - **COMPANYUSERNAME**: spacex
     - **COMPANYURL**: https://www.linkedin.com/company/spacex/
-    - **COMPANYLOGO**: https://media.licdn.com/dms/image/v2/C560BAQEbqLQ-JE0vdQ/company-logo_400_400/company-logo_400_400/0/1630604387686/spacex_logo?e=1749686400&v=beta&t=jCHUUQKVheJYbV9IQKXRdKHAjKudCI7ggOSMWNWY6a8
+    - **COMPANYLOGO**: ![[OSINT-CASES/CASOS/CASE-AULA/media/file_55838.jpeg]]
     - **COMPANYINDUSTRY**: Aviation & Aerospace
     - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
     - **TITLE**: Founder
@@ -86,7 +86,7 @@ Space X corp
     - **COMPANYNAME**: Tesla
     - **COMPANYUSERNAME**: tesla-motors
     - **COMPANYURL**: https://www.linkedin.com/company/tesla-motors/
-    - **COMPANYLOGO**: https://media.licdn.com/dms/image/v2/C4D0BAQHUcu98SZ2TVw/company-logo_400_400/company-logo_400_400/0/1630576446368/tesla_motors_logo?e=1749686400&v=beta&t=ULPoJnWF63w5Mxqzu5XbWlCz35-cqTLR-3SvdcYOgQg
+    - **COMPANYLOGO**: ![[OSINT-CASES/CASOS/CASE-AULA/media/file_07560.jpeg]]
     - **COMPANYINDUSTRY**: Automotive
     - **COMPANYSTAFFCOUNTRANGE**: 10001+
     - **TITLE**: Product Architect
@@ -112,7 +112,7 @@ Tesla is also one of the largest global suppliers of battery energy storage syst
     - **COMPANYNAME**: SpaceX
     - **COMPANYUSERNAME**: spacex
     - **COMPANYURL**: https://www.linkedin.com/company/spacex/
-    - **COMPANYLOGO**: https://media.licdn.com/dms/image/v2/C560BAQEbqLQ-JE0vdQ/company-logo_400_400/company-logo_400_400/0/1630604387686/spacex_logo?e=1749686400&v=beta&t=jCHUUQKVheJYbV9IQKXRdKHAjKudCI7ggOSMWNWY6a8
+    - **COMPANYLOGO**: ![[OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg]]
     - **COMPANYINDUSTRY**: Aviation & Aerospace
     - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
     - **TITLE**: Founder
@@ -162,7 +162,7 @@ Tesla is also one of the largest global suppliers of battery energy storage syst
     - **COMPANYNAME**: Tesla
     - **COMPANYUSERNAME**: tesla-motors
     - **COMPANYURL**: https://www.linkedin.com/company/tesla-motors/
-    - **COMPANYLOGO**: https://media.licdn.com/dms/image/v2/C4D0BAQHUcu98SZ2TVw/company-logo_400_400/company-logo_400_400/0/1630576446368/tesla_motors_logo?e=1749686400&v=beta&t=ULPoJnWF63w5Mxqzu5XbWlCz35-cqTLR-3SvdcYOgQg
+    - **COMPANYLOGO**: ![[OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg]]
     - **COMPANYINDUSTRY**: Automotive
     - **COMPANYSTAFFCOUNTRANGE**: 10001+
     - **TITLE**: Product Architect
