@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASO-002/www.odyssey.com.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,11 +45,27 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "www.odyssey.com"
+              "title": "0.SLIDES"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "481d725a59def27a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf97f56006e1d564",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: 0.SLIDES.md"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 413.5
   },
   "right": {
     "id": "07ceb56b031f6880",
@@ -180,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASO-002/www.odyssey.com.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de www.odyssey.com"
+              "title": "Sumário de 0.SLIDES"
             }
           },
           {
@@ -259,44 +275,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a67fd0d8b5babe40",
+  "active": "bf97f56006e1d564",
   "lastOpenFiles": [
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_82628.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_82628.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_87331.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_87331.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_66420.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_66420.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_99331.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_99331.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_16225.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_16225.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_90553.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_90553.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_delaware-chancery-court-invalidates-elon-musk-55-8-billion-equity-compensation-package.pdf\"; filename*=UTF-8''delaware-chancery-court-invalidates-elon-musk-55-8-billion-equity-compensation-package.pdf.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_delaware-chancery-court-invalidates-elon-musk-55-8-billion-equity-compensation-package.pdf\"; filename*=UTF-8''delaware-chancery-court-invalidates-elon-musk-55-8-billion-equity-compensation-package.pdf.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_mothership_i-dont-think-spore-will-ever-have-an-elon-musk-us-economist-at-ips-forum-with-sm-tharman_120121.pdf.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_mothership_i-dont-think-spore-will-ever-have-an-elon-musk-us-economist-at-ips-forum-with-sm-tharman_120121.pdf.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_04967.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_04967.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_67288.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_67288.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_13660.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_Tell Elon Musk the Hell with It.pdf.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_78144.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_Elon Musk Buys Twitter; Opens Auestions on the Sites Journalisit.pdf.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_10796.pdf.md",
-    "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_57670.pdf.md",
-    "OSINT-CASES/CASOS/CASO-002/www.odyssey.com.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_83421.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_76609.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_35240.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_35454.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_63658.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_89992.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_79856.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_18514.pdf.md",
+    "OSINT-CASES/CASOS/CASO-002/Sem título.canvas",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_08504.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_08504.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_30209.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_30209.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_13716.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_13716.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_85679.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_85679.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_58867.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_58867.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_47282.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_47282.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_81014.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_81014.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_27559.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_27559.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_43616.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_43616.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_66419.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_66419.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_39557.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_86772.pdf.md",
+    "OSINT-CASES/CASOS/CASO-002/3.33.251.168.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_PREMS 013425 GBR 2519 Annual Report 2025_correction cartooning.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASO-001/INFO.md",
+    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_46693.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_54039.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_53490.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_C2-00-Syllabus-American-Culture-after-World-War-II_25SS-4.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_37980.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_29807.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_89084.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_40000.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_40241.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg",
