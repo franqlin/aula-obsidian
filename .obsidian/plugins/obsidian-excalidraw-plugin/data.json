@@ -61834,7 +61834,7 @@
             "version": 122,
             "versionNonce": 349058201,
             "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1741195203262,
             "link": null,
             "locked": false,
@@ -62198,10 +62198,7 @@
             ],
             "pressures": [],
             "simulatePressure": true,
-            "lastCommittedPoint": [
-              200,
-              -220
-            ]
+            "lastCommittedPoint": null
           }
         ],
         "id": "FhC7jJH6SVGpPgPQcioDh",

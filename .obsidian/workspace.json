@@ -11,27 +11,41 @@
             "id": "78917b36e60d734e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASE-AULA/Sem título.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
+                "viewState": {
+                  "x": -290,
+                  "y": 280,
+                  "zoom": -0.6673112102748538
                 }
               },
-              "icon": "lucide-file",
-              "title": "Sem título"
+              "icon": "lucide-layout-dashboard",
+              "title": "ELON-CANVA"
+            }
+          },
+          {
+            "id": "a67fd0d8b5babe40",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "OSINT-CASES/KANBAN.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "KANBAN"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 394.5
   },
   "right": {
     "id": "07ceb56b031f6880",
@@ -162,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASE-AULA/Sem título.md",
+                "file": "OSINT-CASES/KANBAN.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de KANBAN"
             }
           },
           {
@@ -241,55 +255,55 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78917b36e60d734e",
+  "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_74489.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_74489.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_72446.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_72446.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_politicsandpolicy_2025_1_21_why-is-elon-musk-destabilising-uk-and-eu-politics.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_politicsandpolicy_2025_1_21_why-is-elon-musk-destabilising-uk-and-eu-politics.pdf.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_57746.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_57746.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_51484.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_51484.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_editor%2C+Leaderhip-elon+Musk.pdf\";filename*=UTF-8''editor%2C+Leaderhip-elon+Musk.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_editor%2C+Leaderhip-elon+Musk.pdf\";filename*=UTF-8''editor%2C+Leaderhip-elon+Musk.pdf.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_53980.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_53980.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_25304.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_25304.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_21706.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_21706.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_Poster.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_Poster.pdf.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_07805.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_07805.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_428550.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_428550.pdf.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_Towards an Optimal Design: What Can We Recommend to Elon Musk?.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_02882.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_11270.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_98111.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_elon-musk-letter.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_24369.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_45387.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_34966.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_20862.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_3341-Article Text-7309-1-10-20220609.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_78316.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_81008.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_23659.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_26034D80-3A20-11EE-8D31-B2F1BD34641A.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_Representing Elon Musk.pdf.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_2025-03-elon-musk-massive-cyberattack.pdf\"; filename*=UTF-8''2025-03-elon-musk-massive-cyberattack.pdf.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
-    "OSINT-CASES/CASOS/CASE-AULA/Sem título.md",
-    "OSINT-CASES/CASOS/CASE-AULA/DESCRIPTION.md",
-    "OSINT-CASES/CASOS/CASE-AULA/DUMP-LINKEDIN.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_07560.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_07560.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_55838.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_55838.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_64995.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_64995.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_46085.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_46085.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_34933.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_34933.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_07676.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_07676.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_99213.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_99213.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media",
-    "OSINT-CASES/CASOS/CASE-AULA/PERSON.md",
-    "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
-    "OSINT-CASES/CASOS/CASO-001/INFO.md",
-    "OSINT-CASES/Ferramentas OSINT/Burner SMS Phones.md",
-    "OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md",
     "attachments/Pasted image 20250310205945.png",
-    "OSINT-CASES/CASOS/CASE-AULA",
-    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
-    "OSINT-CASES/METODOLOGIAS/5W1H.md",
-    "OSINT-CASES/METODOLOGIAS/CRAWL.md",
-    "OSINT-CASES/METODOLOGIAS/Fravia.md",
-    "OSINT-CASES/METODOLOGIAS/Funnel.md",
-    "OSINT-CASES/Ferramentas OSINT/Mapas e Georreferenciamento.md",
-    "OSINT-CASES/Ferramentas OSINT/Tor.md",
-    "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
-    "INGLES/REFERENCIAS",
-    "INGLES/NOTAS-PERMANENTES",
-    "INGLES/PRE-PROCESS",
-    "INGLES/INBOX",
-    "INGLES",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",

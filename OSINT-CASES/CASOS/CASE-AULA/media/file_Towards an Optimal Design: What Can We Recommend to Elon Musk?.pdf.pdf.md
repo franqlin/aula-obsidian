@@ -1,0 +1,1 @@
+![[OSINT-CASES/CASOS/CASE-AULA/media/file_Towards an Optimal Design: What Can We Recommend to Elon Musk?.pdf.pdf]] From note: [[OSINT-CASES/CASOS/CASE-AULA/Busca Real-Time Web Search.md]] Original url: https://scholarworks.utep.edu/cgi/viewcontent.cgi?article=2865&context=cs_techrep

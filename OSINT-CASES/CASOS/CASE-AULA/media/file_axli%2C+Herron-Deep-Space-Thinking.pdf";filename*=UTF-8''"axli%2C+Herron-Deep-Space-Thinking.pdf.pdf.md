@@ -1,0 +1,1 @@
+![[OSINT-CASES/CASOS/CASE-AULA/media/file_axli%2C+Herron-Deep-Space-Thinking.pdf";filename*=UTF-8''"axli%2C+Herron-Deep-Space-Thinking.pdf.pdf]] From note: [[OSINT-CASES/CASOS/CASE-AULA/Busca Real-Time Web Search.md]] Original url: https://journals.library.columbia.edu/index.php/cjel/article/download/3728/1535/6383

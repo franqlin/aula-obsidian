@@ -1,0 +1,1 @@
+![[OSINT-CASES/CASOS/CASE-AULA/media/file_FCC-23-105A2.pdf.pdf]] From note: [[Busca Real-Time Web Search]] Original url: https://docs.fcc.gov/public/attachments/FCC-23-105A2.pdf
