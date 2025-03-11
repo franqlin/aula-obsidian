@@ -1,0 +1,1 @@
+![[OSINT-CASES/CASOS/CASE-AULA/media/file_Elon Musk Buys Twitter; Opens Auestions on the Sites Journalisit.pdf.pdf]] From note: [[OSINT-CASES/CASOS/CASE-AULA/Busca Real-Time Web Search.md]] Original url: https://scholarworks.seattleu.edu/cgi/viewcontent.cgi?article=1605&context=spectator-online

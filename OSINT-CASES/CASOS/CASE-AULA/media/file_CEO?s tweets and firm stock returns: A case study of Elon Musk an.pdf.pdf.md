@@ -1,0 +1,1 @@
+![[OSINT-CASES/CASOS/CASE-AULA/media/file_CEO?s tweets and firm stock returns: A case study of Elon Musk an.pdf.pdf]] From note: [[OSINT-CASES/CASOS/CASE-AULA/Busca Real-Time Web Search.md]] Original url: https://digitalcommons.georgiasouthern.edu/context/honors-theses/article/1950/viewcontent/CEO_s_tweets_and_firm_stock_returns__A_case_study_of_Elon_Musk_and_Tesla.pdf
