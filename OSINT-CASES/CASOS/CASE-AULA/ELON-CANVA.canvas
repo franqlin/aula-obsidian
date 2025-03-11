@@ -1,11 +1,13 @@
 {
 	"nodes":[
-		{"id":"e19886a6e79ba540","type":"file","file":"OSINT-CASES/CASOS/CASE-AULA/PERSON.md","x":-100,"y":-380,"width":400,"height":400},
 		{"id":"780616be546e3977","type":"file","file":"OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md","x":-600,"y":180,"width":400,"height":400},
-		{"id":"14bafc0ec6a67950","x":-20,"y":320,"width":400,"height":400,"type":"file","file":"OSINT-CASES/CASOS/CASE-AULA/DESCRIPTION.md"}
+		{"id":"14bafc0ec6a67950","type":"file","file":"OSINT-CASES/CASOS/CASE-AULA/DESCRIPTION.md","x":20,"y":560,"width":400,"height":400},
+		{"id":"e19886a6e79ba540","type":"file","file":"OSINT-CASES/CASOS/CASE-AULA/PERSON.md","x":-60,"y":-220,"width":400,"height":400},
+		{"id":"55f9a55c874dcaba","x":-1000,"y":-400,"width":400,"height":400,"type":"file","file":"OSINT-CASES/CASOS/CASE-AULA/media/file_64995.jpeg"}
 	],
 	"edges":[
 		{"id":"18ba34f2a26c244b","fromNode":"780616be546e3977","fromSide":"top","toNode":"e19886a6e79ba540","toSide":"bottom"},
-		{"id":"500fe744a60494ce","fromNode":"14bafc0ec6a67950","fromSide":"top","toNode":"e19886a6e79ba540","toSide":"bottom"}
+		{"id":"500fe744a60494ce","fromNode":"14bafc0ec6a67950","fromSide":"top","toNode":"e19886a6e79ba540","toSide":"bottom"},
+		{"id":"a0916e269793d399","fromNode":"55f9a55c874dcaba","fromSide":"right","toNode":"e19886a6e79ba540","toSide":"left"}
 	]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASE-AULA/DUMP-LINKEDIN.md",
+                "file": "OSINT-CASES/CASOS/CASE-AULA/Sem título.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DUMP-LINKEDIN"
+              "title": "Sem título"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASE-AULA/DUMP-LINKEDIN.md",
+                "file": "OSINT-CASES/CASOS/CASE-AULA/Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de DUMP-LINKEDIN"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -243,6 +243,13 @@
   },
   "active": "78917b36e60d734e",
   "lastOpenFiles": [
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_74489.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_74489.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_72446.pdf.md",
+    "OSINT-CASES/CASOS/CASE-AULA/media/file_72446.pdf",
+    "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
+    "OSINT-CASES/CASOS/CASE-AULA/Sem título.md",
+    "OSINT-CASES/CASOS/CASE-AULA/DESCRIPTION.md",
     "OSINT-CASES/CASOS/CASE-AULA/DUMP-LINKEDIN.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg",
@@ -263,8 +270,6 @@
     "OSINT-CASES/CASOS/CASE-AULA/media/file_99213.jpeg.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_99213.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media",
-    "OSINT-CASES/CASOS/CASE-AULA/DESCRIPTION.md",
-    "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/PERSON.md",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
     "OSINT-CASES/CASOS/CASO-001/INFO.md",
@@ -279,17 +284,12 @@
     "OSINT-CASES/METODOLOGIAS/Funnel.md",
     "OSINT-CASES/Ferramentas OSINT/Mapas e Georreferenciamento.md",
     "OSINT-CASES/Ferramentas OSINT/Tor.md",
-    "OSINT-CASES/Ferramentas OSINT/Search and Links.md",
-    "OSINT-CASES/Ferramentas OSINT/Saúde.md",
-    "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
     "OSINT-CASES/Ferramentas OSINT/BOOKS/OSINT-TBIOTT.pdf",
     "INGLES/REFERENCIAS",
     "INGLES/NOTAS-PERMANENTES",
     "INGLES/PRE-PROCESS",
     "INGLES/INBOX",
     "INGLES",
-    "Sem título 2",
-    "Sem título 1",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
