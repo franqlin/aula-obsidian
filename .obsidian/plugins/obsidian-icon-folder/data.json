@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🧑",
       "LiActivitySquare",
       "LiAArrowDown",
       "🌐",
-      "LiBookA",
-      "LiBriefcaseBusiness"
+      "LiBookA"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -112,5 +112,6 @@
   "INGLES/INBOX": "LiInbox",
   "INGLES/PRE-PROCESS": "LiBriefcaseBusiness",
   "INGLES/NOTAS-PERMANENTES": "LiAArrowDown",
-  "INGLES/REFERENCIAS": "LiActivitySquare"
+  "INGLES/REFERENCIAS": "LiActivitySquare",
+  "OSINT-CASES/CASOS/CASE-AULA/PERSON.md": "🧑"
 }

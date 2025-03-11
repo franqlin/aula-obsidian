@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/CASOS/CASE-AULA/PERSON.md",
+                "file": "OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PERSON"
+              "title": "ELON-WIKI"
             }
           }
         ],
@@ -191,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de ELON-WIKI"
             }
           },
           {
@@ -269,9 +270,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4b6c8a7ced26f4f4",
+  "active": "022e475884c4ea2a",
   "lastOpenFiles": [
     "OSINT-CASES/CASOS/CASE-AULA/PERSON.md",
+    "OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md",
+    "attachments/Pasted image 20250310205945.png",
+    "attachments/Pasted image 20250310205709.png",
     "OSINT-CASES/CASOS/CASO-001/INFO.md",
     "OSINT-CASES/CASOS/CASE-AULA",
     "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
@@ -308,16 +312,12 @@
     "attachments/Pasted image 20250310105811.png",
     "attachments/Pasted image 20250310105645.png",
     "attachments/Pasted image 20250310105536.png",
-    "attachments/Pasted image 20250310105450.png",
-    "attachments/Pasted image 20250310105307.png",
     "OSINT-CASES/CASOS/CASO-003/Confort.md",
     "OSINT-CASES/CASOS/CASO-003/Sem título.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Confort.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/Slide 1 - Apresentação.md",
     "OSINT-CASES/CASOS/CASO-003/GEOLOCALIZAÇÃO - IVAN SHKVARUN.md",
     "OSINT-CASES/CASOS/CASO-002/Ex. 2 Varredura de um site.md",
-    "OSINT-CASES/ODISSEUS-PLUGIN/Odysseus Plugins.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE3/Slide 3 - Obsidian.md",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",
