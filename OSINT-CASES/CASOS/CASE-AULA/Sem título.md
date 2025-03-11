@@ -1,0 +1,222 @@
+**Resultado da Busca LinkedIn:* elon-musk-a4647575*
+- **ID**: 266903190
+- **URN**: ACoAAA_onpYBC8NVO8A2pfz-8XkEwQyBNVy5350
+- **USERNAME**: elon-musk-a4647575
+- **FIRSTNAME**: Elon 
+- **LASTNAME**: Musk 
+- **ISPREMIUM**: false
+- **PROFILEPICTURE**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_800_800/B4EZSn5vYnHcAc-/0/1737983729003?e=1747267200&v=beta&t=kT20r5qoUmvG-Mparw-aY5NuwIjhQ4Gcv40OMohwblU
+- **PROFILEPICTURES**:
+  - **0**:
+    - **URL**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_200_200/B4EZSn5vYnHcAY-/0/1737983728981?e=1747267200&v=beta&t=TwZNrxpl7WI1fyh-rxLgR6SsUI3cBnZ6jCcHVgYhdqw
+    - **WIDTH**: 200
+    - **HEIGHT**: 200
+  - **1**:
+    - **URL**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_400_400/B4EZSn5vYnHcAg-/0/1737983728981?e=1747267200&v=beta&t=ZzWbHFACxBWRlPW7OcEKeXTqkYRU2UVSUzpmyCyDM7o
+    - **WIDTH**: 400
+    - **HEIGHT**: 400
+  - **2**:
+    - **URL**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_100_100/B4EZSn5vYnHcAU-/0/1737983728981?e=1747267200&v=beta&t=H8MlQACphnsmSJtlpDMa9G6ddtrDAFmgJfmzaNsglHg
+    - **WIDTH**: 100
+    - **HEIGHT**: 100
+  - **3**:
+    - **URL**: https://media.licdn.com/dms/image/v2/D4E03AQGXV8B4mMDSRQ/profile-displayphoto-shrink_800_800/B4EZSn5vYnHcAc-/0/1737983729003?e=1747267200&v=beta&t=kT20r5qoUmvG-Mparw-aY5NuwIjhQ4Gcv40OMohwblU
+    - **WIDTH**: 800
+    - **HEIGHT**: 800
+- **HEADLINE**: CEO of Telsa Motors
+Space X corp 
+
+- **GEO**:
+  - **COUNTRY**: United States
+  - **FULL**: United States
+  - **COUNTRYCODE**: us
+- **POSITION**:
+  - **0**:
+    - **COMPANYID**: 30846
+    - **COMPANYNAME**: SpaceX
+    - **COMPANYUSERNAME**: spacex
+    - **COMPANYURL**: https://www.linkedin.com/company/spacex/
+    - **COMPANYLOGO**: https://media.licdn.com/dms/image/v2/C560BAQEbqLQ-JE0vdQ/company-logo_400_400/company-logo_400_400/0/1630604387686/spacex_logo?e=1749686400&v=beta&t=jCHUUQKVheJYbV9IQKXRdKHAjKudCI7ggOSMWNWY6a8
+    - **COMPANYINDUSTRY**: Aviation & Aerospace
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Founder
+    - **MULTILOCALETITLE**:
+      - **EN_US**: Founder
+    - **MULTILOCALECOMPANYNAME**:
+      - **EN_US**: SpaceX
+    - **LOCATION**: Hawthorne, California, United States
+    - **DESCRIPTION**: Space Exploration Technologies Corp.
+(SpaceX) is an American aerospace manufacturer and space transportation services company headquartered in Hawthorne, California with the goal of reducing space transportation costs to enable the colonization of Mars. SpaceX has developed several launch vehicles and rocket engines, as well as the Dragon cargo spacecraft and the Starlink satellite constellation (providing internet access), and has flown humans and cargo to the International Space Station on the SpaceX Dragon 2. SpaceX's achievements include the first privately funded liquid-propellant rocket to reach orbit (Falcon 1 in 2008), the first private company to successfully launch, orbit, and recover a spacecraft (Dragon in
+2010), the first private company to send a spacecraft to the International Space Station (Dragon in 2012), the first vertical take-off and vertical propulsive landing for an orbital rocket (Falcon 9 in 2015), the first reuse of an orbital rocket (Falcon 9 in 2017), the first to launch a private spacecraft into orbit around the Sun (Falcon Heavy's payload of a Tesla Roadster in 2018), and the first private company to send astronauts to orbit and to the International Space Station (SpaceX Crew Dragon Demo-2 and SpaceX Crew-1 missions in 2020). As of 1 February 2021, SpaceX has flown 21 cargo resupply missions to the International Space Station (ISS) under a partnership with NASA, as well as an uncrewed demonstration flight of the human-rated Dragon 2 spacecraft (Crew Dragon Demo-1) on 2 March 2019, and two manned flights
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2002
+      - **MONTH**: 5
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **1**:
+    - **COMPANYID**: 0
+    - **COMPANYNAME**: Neutralink
+    - **COMPANYUSERNAME**: 
+    - **COMPANYURL**: 
+    - **COMPANYLOGO**: 
+    - **COMPANYINDUSTRY**: 
+    - **COMPANYSTAFFCOUNTRANGE**: 
+    - **TITLE**: Co-Founder
+    - **MULTILOCALETITLE**:
+      - **EN_US**: Co-Founder
+    - **MULTILOCALECOMPANYNAME**:
+      - **EN_US**: Neutralink
+    - **LOCATION**: San Francisco, California, United States
+    - **DESCRIPTION**: Neuralink Corporation is a neurotechnology company, developing implantable brain-machine interfaces (BMIs). The company's headquarters is in San Francisco; it was started in 2016 Since its founding, the company has hired several high-profile neuroscientists from various universities.
+    - **EMPLOYMENTTYPE**: Self-employed
+    - **START**:
+      - **YEAR**: 2016
+      - **MONTH**: 7
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **2**:
+    - **COMPANYID**: 15564
+    - **COMPANYNAME**: Tesla
+    - **COMPANYUSERNAME**: tesla-motors
+    - **COMPANYURL**: https://www.linkedin.com/company/tesla-motors/
+    - **COMPANYLOGO**: https://media.licdn.com/dms/image/v2/C4D0BAQHUcu98SZ2TVw/company-logo_400_400/company-logo_400_400/0/1630576446368/tesla_motors_logo?e=1749686400&v=beta&t=ULPoJnWF63w5Mxqzu5XbWlCz35-cqTLR-3SvdcYOgQg
+    - **COMPANYINDUSTRY**: Automotive
+    - **COMPANYSTAFFCOUNTRANGE**: 10001+
+    - **TITLE**: Product Architect
+    - **MULTILOCALETITLE**:
+      - **EN_US**: Product Architect
+    - **MULTILOCALECOMPANYNAME**:
+      - **EN_US**: Tesla
+    - **LOCATION**: United States
+    - **DESCRIPTION**: Tesla, Inc. is an American electric vehicle and clean energy company based in Palo Alto, California. Tesla's current products include electric cars, battery energy storage from home to grid scale, solar panels and solar roof tiles, as well as other related products and services. Tesla is ranked as the world's best-selling plug-in and battery electric passenger car manufacturer, with a market share of 16% of the plug-in segment and 23% of the battery electric segment 2020 sales. Through its subsidiary SolarCity, Tesla develops and is a major installer of solar photovoltaic systems in the United States.
+Tesla is also one of the largest global suppliers of battery energy storage systems, with 3 GWh of battery storage supplied in 2020.
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2003
+      - **MONTH**: 7
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+- **FULLPOSITIONS**:
+  - **0**:
+    - **COMPANYID**: 30846
+    - **COMPANYNAME**: SpaceX
+    - **COMPANYUSERNAME**: spacex
+    - **COMPANYURL**: https://www.linkedin.com/company/spacex/
+    - **COMPANYLOGO**: https://media.licdn.com/dms/image/v2/C560BAQEbqLQ-JE0vdQ/company-logo_400_400/company-logo_400_400/0/1630604387686/spacex_logo?e=1749686400&v=beta&t=jCHUUQKVheJYbV9IQKXRdKHAjKudCI7ggOSMWNWY6a8
+    - **COMPANYINDUSTRY**: Aviation & Aerospace
+    - **COMPANYSTAFFCOUNTRANGE**: 1001 - 5000
+    - **TITLE**: Founder
+    - **MULTILOCALETITLE**:
+      - **EN_US**: Founder
+    - **MULTILOCALECOMPANYNAME**:
+      - **EN_US**: SpaceX
+    - **LOCATION**: Hawthorne, California, United States
+    - **DESCRIPTION**: Space Exploration Technologies Corp.
+(SpaceX) is an American aerospace manufacturer and space transportation services company headquartered in Hawthorne, California with the goal of reducing space transportation costs to enable the colonization of Mars. SpaceX has developed several launch vehicles and rocket engines, as well as the Dragon cargo spacecraft and the Starlink satellite constellation (providing internet access), and has flown humans and cargo to the International Space Station on the SpaceX Dragon 2. SpaceX's achievements include the first privately funded liquid-propellant rocket to reach orbit (Falcon 1 in 2008), the first private company to successfully launch, orbit, and recover a spacecraft (Dragon in
+2010), the first private company to send a spacecraft to the International Space Station (Dragon in 2012), the first vertical take-off and vertical propulsive landing for an orbital rocket (Falcon 9 in 2015), the first reuse of an orbital rocket (Falcon 9 in 2017), the first to launch a private spacecraft into orbit around the Sun (Falcon Heavy's payload of a Tesla Roadster in 2018), and the first private company to send astronauts to orbit and to the International Space Station (SpaceX Crew Dragon Demo-2 and SpaceX Crew-1 missions in 2020). As of 1 February 2021, SpaceX has flown 21 cargo resupply missions to the International Space Station (ISS) under a partnership with NASA, as well as an uncrewed demonstration flight of the human-rated Dragon 2 spacecraft (Crew Dragon Demo-1) on 2 March 2019, and two manned flights
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2002
+      - **MONTH**: 5
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **1**:
+    - **COMPANYID**: 0
+    - **COMPANYNAME**: Neutralink
+    - **COMPANYUSERNAME**: 
+    - **COMPANYURL**: 
+    - **COMPANYLOGO**: 
+    - **COMPANYINDUSTRY**: 
+    - **COMPANYSTAFFCOUNTRANGE**: 
+    - **TITLE**: Co-Founder
+    - **MULTILOCALETITLE**:
+      - **EN_US**: Co-Founder
+    - **MULTILOCALECOMPANYNAME**:
+      - **EN_US**: Neutralink
+    - **LOCATION**: San Francisco, California, United States
+    - **DESCRIPTION**: Neuralink Corporation is a neurotechnology company, developing implantable brain-machine interfaces (BMIs). The company's headquarters is in San Francisco; it was started in 2016 Since its founding, the company has hired several high-profile neuroscientists from various universities.
+    - **EMPLOYMENTTYPE**: Self-employed
+    - **START**:
+      - **YEAR**: 2016
+      - **MONTH**: 7
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+  - **2**:
+    - **COMPANYID**: 15564
+    - **COMPANYNAME**: Tesla
+    - **COMPANYUSERNAME**: tesla-motors
+    - **COMPANYURL**: https://www.linkedin.com/company/tesla-motors/
+    - **COMPANYLOGO**: https://media.licdn.com/dms/image/v2/C4D0BAQHUcu98SZ2TVw/company-logo_400_400/company-logo_400_400/0/1630576446368/tesla_motors_logo?e=1749686400&v=beta&t=ULPoJnWF63w5Mxqzu5XbWlCz35-cqTLR-3SvdcYOgQg
+    - **COMPANYINDUSTRY**: Automotive
+    - **COMPANYSTAFFCOUNTRANGE**: 10001+
+    - **TITLE**: Product Architect
+    - **MULTILOCALETITLE**:
+      - **EN_US**: Product Architect
+    - **MULTILOCALECOMPANYNAME**:
+      - **EN_US**: Tesla
+    - **LOCATION**: United States
+    - **DESCRIPTION**: Tesla, Inc. is an American electric vehicle and clean energy company based in Palo Alto, California. Tesla's current products include electric cars, battery energy storage from home to grid scale, solar panels and solar roof tiles, as well as other related products and services. Tesla is ranked as the world's best-selling plug-in and battery electric passenger car manufacturer, with a market share of 16% of the plug-in segment and 23% of the battery electric segment 2020 sales. Through its subsidiary SolarCity, Tesla develops and is a major installer of solar photovoltaic systems in the United States.
+Tesla is also one of the largest global suppliers of battery energy storage systems, with 3 GWh of battery storage supplied in 2020.
+    - **EMPLOYMENTTYPE**: Full-time
+    - **START**:
+      - **YEAR**: 2003
+      - **MONTH**: 7
+      - **DAY**: 0
+    - **END**:
+      - **YEAR**: 0
+      - **MONTH**: 0
+      - **DAY**: 0
+- **SKILLS**:
+  - **0**:
+    - **NAME**: Supply Chain Management
+    - **PASSEDSKILLASSESSMENT**: false
+    - **ENDORSEMENTSCOUNT**: 8
+  - **1**:
+    - **NAME**: SAP
+    - **PASSEDSKILLASSESSMENT**: false
+    - **ENDORSEMENTSCOUNT**: 3
+  - **2**:
+    - **NAME**: Order Fulfillment
+    - **PASSEDSKILLASSESSMENT**: false
+    - **ENDORSEMENTSCOUNT**: 2
+  - **3**:
+    - **NAME**: Supply Management
+    - **PASSEDSKILLASSESSMENT**: false
+    - **ENDORSEMENTSCOUNT**: 7
+  - **4**:
+    - **NAME**: Procurement
+    - **PASSEDSKILLASSESSMENT**: false
+    - **ENDORSEMENTSCOUNT**: 8
+  - **5**:
+    - **NAME**: Contract Negotiation
+    - **PASSEDSKILLASSESSMENT**: false
+    - **ENDORSEMENTSCOUNT**: 4
+- **PROJECTS**:
+- **SUPPORTEDLOCALES**:
+  - **0**:
+    - **COUNTRY**: US
+    - **LANGUAGE**: en
+- **MULTILOCALEFIRSTNAME**:
+  - **EN**: Elon 
+- **MULTILOCALELASTNAME**:
+  - **EN**: Musk 
+- **MULTILOCALEHEADLINE**:
+  - **EN**: CEO of Telsa Motors
+Space X corp 
+

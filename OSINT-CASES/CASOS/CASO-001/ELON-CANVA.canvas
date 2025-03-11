@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"780616be546e3977","x":-420,"y":180,"width":400,"height":400,"type":"file","file":"OSINT-CASES/CASOS/CASE-AULA/ELON-WIKI.md"},
+		{"id":"e19886a6e79ba540","x":-100,"y":-380,"width":400,"height":400,"type":"file","file":"OSINT-CASES/CASOS/CASE-AULA/PERSON.md"}
+	],
+	"edges":[
+		{"id":"18ba34f2a26c244b","fromNode":"780616be546e3977","fromSide":"top","toNode":"e19886a6e79ba540","toSide":"bottom"}
+	]
+}
