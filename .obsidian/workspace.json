@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,27 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "Git"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1be6b2fc7851f07a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d04902cb3a0c7275",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsettings%2Ftokens"
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Sign in to GitHub · GitHub"
             }
           }
         ]
@@ -163,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de GIT"
+              "title": "Sumário de Git"
             }
           },
           {
@@ -244,6 +264,8 @@
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
+    "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/3. Exemplo - DATAVIEW.md",
@@ -279,8 +301,6 @@
     "OSINT-CASES/CASOS/CASE-AULA/media/file_46693.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_54039.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_53490.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_C2-00-Syllabus-American-Culture-after-World-War-II_25SS-4.pdf.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_37980.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg",
