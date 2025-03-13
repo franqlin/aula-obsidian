@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
+                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2. Como usar o Dataview"
+              "title": "GIT"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataview",
+                "query": "#git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "Surfing Tab Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -162,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
+                "file": "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 2. Como usar o Dataview"
+              "title": "Sumário de GIT"
             }
           },
           {
@@ -237,13 +238,14 @@
       "slide-note:Slide Note Block Generator": false,
       "marp:Marp: Open Preview": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db7fa5c6913b86b4",
+  "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/3. Exemplo - DATAVIEW.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/FORMATAÇÃO BÁSICA.md",
