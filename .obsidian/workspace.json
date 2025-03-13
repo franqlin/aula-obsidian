@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
+                "file": "OSINT-CASES/METODOLOGIAS/_TOC_.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "_TOC_"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "Surfing Tab Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
+                "file": "OSINT-CASES/METODOLOGIAS/_TOC_.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Git"
+              "title": "Sumário de _TOC_"
             }
           },
           {
@@ -238,11 +237,17 @@
       "slide-note:Slide Note Block Generator": false,
       "marp:Marp: Open Preview": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
+    "OSINT-CASES/METODOLOGIAS/Funnel.md",
+    "OSINT-CASES/METODOLOGIAS/Fravia.md",
+    "OSINT-CASES/METODOLOGIAS/CRAWL.md",
+    "OSINT-CASES/METODOLOGIAS/5W1H.md",
+    "OSINT-CASES/METODOLOGIAS/_TOC_.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
@@ -275,11 +280,6 @@
     "OSINT-CASES/CASOS/CASE-AULA/media/file_86772.pdf.md",
     "OSINT-CASES/CASOS/CASO-002/3.33.251.168.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_PREMS 013425 GBR 2519 Annual Report 2025_correction cartooning.pdf.pdf.md",
-    "OSINT-CASES/CASOS/CASO-001/INFO.md",
-    "OSINT-CASES/CASOS/CASO-001/Ex1. Coleta de dados.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_46693.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_54039.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_53490.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg",
