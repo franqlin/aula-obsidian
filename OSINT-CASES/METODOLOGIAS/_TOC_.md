@@ -2,6 +2,8 @@
 toc: true
 title: METODOLOGIAS
 ---
+Autor: Professor Franqlin Soares
+
 [[OSINT-CASES/METODOLOGIAS/5W1H.md]]
 [[OSINT-CASES/METODOLOGIAS/CRAWL.md]]
 [[OSINT-CASES/METODOLOGIAS/Fravia.md]]
