@@ -32,26 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "1be6b2fc7851f07a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d04902cb3a0c7275",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsettings%2Ftokens"
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Sign in to GitHub · GitHub"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

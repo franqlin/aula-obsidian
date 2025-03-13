@@ -16,7 +16,6 @@
     - Use o comando no terminal:
         
         bash
-        
         Copiar
         
         `git clone https://<SEU_TOKEN>@github.com/<USUÁRIO>/meus-notes.git`  
