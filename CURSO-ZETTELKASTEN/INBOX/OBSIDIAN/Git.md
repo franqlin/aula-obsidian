@@ -12,7 +12,16 @@
     - No GitHub/GitLab, crie um novo repositório (ex.: `meus-notes`) [4](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429)[10](https://github.com/Vinzent03/obsidian-git).
 2. **Instalar o plugin**:
     - No Obsidian: _Configurações → Plugins da comunidade → Buscar "Obsidian Git" → Instalar_ [1](https://andrewwegner.com/obsidian-gitlab-setup.html)[6](https://www.youtube.com/watch?v=XR7PYaMVDw0).
-3. **Clonar repositório**:
+    ### …or create a new repository on the command line
+
+echo "# materias-wb" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/franqlin/materias-wb.git
+git push -u origin main
+1. **Clonar repositório**:
     - Use o comando no terminal:
         
         bash
@@ -21,7 +30,7 @@
         `git clone https://<SEU_TOKEN>@github.com/<USUÁRIO>/meus-notes.git`  
         
         Substitua `<SEU_TOKEN>` por um [Personal Access Token do GitHub](https://github.com/settings/tokens) com escopo `repo` [4](https://forum.obsidian.md/t/the-easiest-way-to-setup-obsidian-git-to-backup-notes/51429)[5](https://www.youtube.com/watch?v=5YZz38U20ws).
-4. **Configurar automação**:
+2. **Configurar automação**:
     - No plugin:
         - _Ativar "Pull ao iniciar"_
         - _Definir intervalo de backup_ (ex.: 5 minutos)
