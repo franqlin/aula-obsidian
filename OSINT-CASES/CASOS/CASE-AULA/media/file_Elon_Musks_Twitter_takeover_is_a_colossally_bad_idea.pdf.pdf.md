@@ -1,1 +1,0 @@
-![[OSINT-CASES/CASOS/CASE-AULA/media/file_Elon_Musks_Twitter_takeover_is_a_colossally_bad_idea.pdf.pdf]] From note: [[OSINT-CASES/CASOS/CASE-AULA/Busca Real-Time Web Search.md]] Original url: https://www.ips-journal.eu/work-and-digitalisation/elon-musks-twitter-takeover-is-a-colossally-bad-idea-5912?tx_web2pdf_pi1%5Bargument%5D=printPage&tx_web2pdf_pi1%5Bcontroller%5D=Pdf
