@@ -1,1 +1,0 @@
-![[OSINT-CASES/CASOS/CASE-AULA/media/file_23655-elon-musk-space-x-has-gone-nuts.pdf"; filename*=UTF-8''23655-elon-musk-space-x-has-gone-nuts.pdf.pdf]] From note: [[OSINT-CASES/CASOS/CASE-AULA/Busca Real-Time Web Search.md]] Original url: https://sesa.scholasticahq.com/api/v1/articles/23655-elon-musk-space-x-has-gone-nuts.pdf
