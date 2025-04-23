@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/METODOLOGIAS/_TOC_.md",
+                "file": "OSINT-CASES/METODOLOGIAS/5W1H.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "_TOC_"
+              "title": "5W1H"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/METODOLOGIAS/_TOC_.md",
+                "file": "OSINT-CASES/METODOLOGIAS/5W1H.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de _TOC_"
+              "title": "Sumário de 5W1H"
             }
           },
           {
@@ -243,11 +243,15 @@
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
-    "OSINT-CASES/METODOLOGIAS/Funnel.md",
+    "OSINT-CASES/METODOLOGIAS/_TOC_.md",
+    "OSINT-CASES/Ferramentas OSINT/Busca de Pessoas e Informações Pessoais.md",
+    "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
+    "OSINT-CASES/Ferramentas OSINT/Burner SMS Phones.md",
+    "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
     "OSINT-CASES/METODOLOGIAS/Fravia.md",
     "OSINT-CASES/METODOLOGIAS/CRAWL.md",
     "OSINT-CASES/METODOLOGIAS/5W1H.md",
-    "OSINT-CASES/METODOLOGIAS/_TOC_.md",
+    "OSINT-CASES/METODOLOGIAS/Funnel.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
@@ -276,10 +280,6 @@
     "OSINT-CASES/CASOS/CASE-AULA/media/file_43616.pdf",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_66419.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_66419.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_39557.pdf.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_86772.pdf.md",
-    "OSINT-CASES/CASOS/CASO-002/3.33.251.168.md",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_PREMS 013425 GBR 2519 Annual Report 2025_correction cartooning.pdf.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg",
