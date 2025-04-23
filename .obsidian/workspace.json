@@ -6,6 +6,7 @@
       {
         "id": "6df29d262973c9c0",
         "type": "tabs",
+        "dimension": 38.14317673378076,
         "children": [
           {
             "id": "a67fd0d8b5babe40",
@@ -29,6 +30,23 @@
               },
               "icon": "lucide-file",
               "title": "0.SLIDES"
+            }
+          }
+        ]
+      },
+      {
+        "id": "25731d16f56a369d",
+        "type": "tabs",
+        "dimension": 61.85682326621924,
+        "children": [
+          {
+            "id": "dd581ad24668a944",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "slides",
+              "title": "Preview: 0.SLIDES.md"
             }
           }
         ]
@@ -241,7 +259,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a67fd0d8b5babe40",
+  "active": "dd581ad24668a944",
   "lastOpenFiles": [
     "OSINT-CASES/METODOLOGIAS/CRAWL.md",
     "OSINT-CASES/METODOLOGIAS/5W1H.md",
