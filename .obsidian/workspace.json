@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSINT-CASES/METODOLOGIAS/5W1H.md",
+                "file": "OSINT-CASES/METODOLOGIAS/CRAWL.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "5W1H"
+              "title": "CRAWL"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT-CASES/METODOLOGIAS/5W1H.md",
+                "file": "OSINT-CASES/METODOLOGIAS/CRAWL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 5W1H"
+              "title": "Sumário de CRAWL"
             }
           },
           {
@@ -243,6 +243,7 @@
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
+    "OSINT-CASES/METODOLOGIAS/5W1H.md",
     "OSINT-CASES/METODOLOGIAS/_TOC_.md",
     "OSINT-CASES/Ferramentas OSINT/Busca de Pessoas e Informações Pessoais.md",
     "OSINT-CASES/Ferramentas OSINT/Busca de Informações via CPF-CNPJ-CRM-CNA.md",
@@ -250,7 +251,6 @@
     "OSINT-CASES/Ferramentas OSINT/Bookmarks.md",
     "OSINT-CASES/METODOLOGIAS/Fravia.md",
     "OSINT-CASES/METODOLOGIAS/CRAWL.md",
-    "OSINT-CASES/METODOLOGIAS/5W1H.md",
     "OSINT-CASES/METODOLOGIAS/Funnel.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Git.md",
     "CURSO-ZETTELKASTEN/REFERENCIAS/GIT.md",
