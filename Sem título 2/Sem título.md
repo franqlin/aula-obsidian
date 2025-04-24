@@ -5,61 +5,61 @@
   - **0**:
     - **TITLE**: Start with Security: A Guide for Business
     - **SNIPPET**: Start with security. 2. Control access to data sensibly. 3. Require secure passwords and authentication. 4. Store sensitive personal information securely and ...
-    - **URL**: https://www.ftc.gov/system/files/documents/plain-language/pdf0205-startwithsecurity.pdf
+    - **URL**: ![[Sem título 2/media/file_48877.pdf]]
     - **DOMAIN**: www.ftc.gov
     - **POSITION**: 1
   - **1**:
     - **TITLE**: Online Security Tips
     - **SNIPPET**: Consider using a secure password manager to help create and track passwords. • Change passwords every 120 days, or if there's a security breach. • Don't share, ...
-    - **URL**: https://www.dol.gov/sites/dolgov/files/ebsa/key-topics/retirement-benefits/cybersecurity/online-security-tips.pdf
+    - **URL**: ![[Sem título 2/media/file_37912.pdf]]
     - **DOMAIN**: www.dol.gov
     - **POSITION**: 2
   - **2**:
     - **TITLE**: Security
     - **SNIPPET**: The Security Division was created in December 2001 and has grown from 13 to 27 functional units covering physical, personnel, acquisition, and information ...
-    - **URL**: https://www.fbi.gov/about-us/ten-years-after-the-fbi-since-9-11/just-the-facts-1/security.pdf
+    - **URL**: ![[Sem título 2/media/file_24982.pdf]]
     - **DOMAIN**: www.fbi.gov
     - **POSITION**: 3
   - **3**:
     - **TITLE**: The Concept of Security
     - **SNIPPET**: Economic security, environmental security, identity security, social security, and military security are different forms of security, not fundamentally.
-    - **URL**: https://dbaldwin.scholar.princeton.edu/document/16
+    - **URL**: ![[Sem título 2/media/file_82728.pdf]]
     - **DOMAIN**: dbaldwin.scholar.princeton.edu
     - **POSITION**: 4
   - **4**:
     - **TITLE**: Security Key Setup and Login
     - **SNIPPET**: A security key is a physical device that you can connect to your computer to add an extra layer of protection to your NSF account. NSF does not ...
-    - **URL**: https://resources.research.gov/common/attachment/Desktop/Rgov%20Security%20Key%20prMFA.pdf
+    - **URL**: ![[Sem título 2/media/file_77184.pdf]]
     - **DOMAIN**: resources.research.gov
     - **POSITION**: 5
   - **5**:
     - **TITLE**: Security Requirements for Restricted Transactions
     - **SNIPPET**: As directed by E.O. 14117, CISA has developed the following security requirements to apply to classes of restricted transactions identified in regulations ...
-    - **URL**: https://www.cisa.gov/sites/default/files/2025-01/Security_Requirements_for_Restricted_Transaction-EO_14117_Implementation508.pdf
+    - **URL**: ![[Sem título 2/media/file_92896.pdf]]
     - **DOMAIN**: www.cisa.gov
     - **POSITION**: 6
   - **6**:
     - **TITLE**: An Introduction to Information Security
     - **SNIPPET**: This publication introduces the information security principles that organizations may leverage to understand the information security needs of their respective ...
-    - **URL**: https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-12r1.pdf
+    - **URL**: ![[Sem título 2/media/file_06795.pdf]]
     - **DOMAIN**: nvlpubs.nist.gov
     - **POSITION**: 7
   - **7**:
     - **TITLE**: Security 101
     - **SNIPPET**: Information security is the protection of information and systems from unauthorized access, disclosure, modification, destruction or disruption. The three ...
-    - **URL**: https://www.cmu.edu/iso/aware/presentation/security101-v2.pdf
+    - **URL**: ![[Sem título 2/media/file_07775.pdf]]
     - **DOMAIN**: www.cmu.edu
     - **POSITION**: 8
   - **8**:
     - **TITLE**: SECURITY - PHMSA
     - **SNIPPET**: This information will assist you in managing the potential security risks associated with the transportation of hazmat in commerce, as well as identifying and ...
-    - **URL**: https://www.phmsa.dot.gov/sites/phmsa.dot.gov/files/docs/Enhanced%20Security%20Brochure.pdf
+    - **URL**: ![[Sem título 2/media/file_61260.pdf]]
     - **DOMAIN**: www.phmsa.dot.gov
     - **POSITION**: 9
   - **9**:
     - **TITLE**: Apple Platform Security
     - **SNIPPET**: Key security features, such as hardware-based device encryption, can't be disabled by mistake. Other features, such as Face ID and Touch ID, enhance the user.
-    - **URL**: https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf
+    - **URL**: ![[Sem título 2/media/file_42436.pdf]]
     - **DOMAIN**: help.apple.com
     - **POSITION**: 10
   - **10**:
@@ -71,13 +71,13 @@
   - **11**:
     - **TITLE**: Security Pillar - AWS Well-Architected Framework
     - **SNIPPET**: • Security tools: Centralize security services in a security tool AWS account. This account operates as the delegated administrator for ...
-    - **URL**: https://docs.aws.amazon.com/pdfs/wellarchitected/latest/security-pillar/wellarchitected-security-pillar.pdf
+    - **URL**: ![[Sem título 2/media/file_51661.pdf]]
     - **DOMAIN**: docs.aws.amazon.com
     - **POSITION**: 12
   - **12**:
     - **TITLE**: Security and Privacy Controls for Federal Information Systems ...
     - **SNIPPET**: NIST is responsible for developing information security standards and guidelines, including minimum requirements for federal information systems ...
-    - **URL**: https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-53r4.pdf
+    - **URL**: ![[Sem título 2/media/file_44774.pdf]]
     - **DOMAIN**: nvlpubs.nist.gov
     - **POSITION**: 13
   - **13**:
@@ -89,37 +89,37 @@
   - **14**:
     - **TITLE**: Embracing a Zero Trust Security Model
     - **SNIPPET**: Zero Trust is a security model, a set of system design principles, and a coordinated cybersecurity and system management strategy based on ...
-    - **URL**: https://media.defense.gov/2021/Feb/25/2002588479/-1/-1/0/CSI_EMBRACING_ZT_SECURITY_MODEL_UOO115131-21.pdf
+    - **URL**: ![[Sem título 2/media/file_18143.pdf]]
     - **DOMAIN**: media.defense.gov
     - **POSITION**: 15
   - **15**:
     - **TITLE**: Statewide Information Security Manual
     - **SNIPPET**: The purpose of this policy is to establish a statewide security policy for North Carolina State agencies and the State network. This policy also establishes ...
-    - **URL**: https://it.nc.gov/documents/statewide-policies/statewide-information-security-manual/open
+    - **URL**: ![[Sem título 2/media/file_statewide-information-security-manual-signed.pdf.pdf]]
     - **DOMAIN**: it.nc.gov
     - **POSITION**: 16
   - **16**:
     - **TITLE**: USM IT SECURITY STANDARDS Version 5.0 Revised ...
     - **SNIPPET**: These documents are computer security guidelines, recommendations, and reference materials published by the National Institute of Standards and Technology.
-    - **URL**: https://www.usmd.edu/usm/adminfinance/itcc/USMITSecurityStandards.pdf
+    - **URL**: ![[Sem título 2/media/file_USMITSecurityStandards.pdf;.pdf]]
     - **DOMAIN**: www.usmd.edu
     - **POSITION**: 17
   - **17**:
     - **TITLE**: Proposed Security Requirements for Restricted Transactions
     - **SNIPPET**: As directed by E.O. 14117, CISA has developed the following security requirements to apply to classes of restricted transactions identified in regulations ...
-    - **URL**: https://www.cisa.gov/sites/default/files/2024-10/Proposed-Security-Requirements-EO-14117-21Oct24508.pdf
+    - **URL**: ![[Sem título 2/media/file_59612.pdf]]
     - **DOMAIN**: www.cisa.gov
     - **POSITION**: 18
   - **18**:
     - **TITLE**: Security Primitives: Common Nomenclature To Describe ...
     - **SNIPPET**: WHITE PAPER SECURITY PRIMITIVES: COMMON NOMENCLATURE TO DESCRIBE SECURITY REQUIREMENTS IN (I)IoT SYSTEMS ... A detailed security analysis of the individual ...
-    - **URL**: https://www.nxp.com/docs/en/white-paper/SEC_PRIMITIVES_WP.pdf
+    - **URL**: ![[Sem título 2/media/file_13679.pdf]]
     - **DOMAIN**: www.nxp.com
     - **POSITION**: 19
   - **19**:
     - **TITLE**: Security Profile
     - **SNIPPET**: Importers must conduct a comprehensive assessment of their security practices based upon the following C-TPAT minimum-security criteria. Click on the following ...
-    - **URL**: https://www.cbp.gov/sites/default/files/documents/importer_security_profile_overview_3.pdf
+    - **URL**: ![[Sem título 2/media/file_43125.pdf]]
     - **DOMAIN**: www.cbp.gov
     - **POSITION**: 20
   - **20**:
@@ -131,31 +131,31 @@
   - **21**:
     - **TITLE**: FedRAMP System Security Plan (SSP) Required Documents
     - **SNIPPET**: What is a System. Security Plan or. SSP? ○. The system security plan provides an overview of the security requirements for a cloud service offering. ○. The ...
-    - **URL**: https://www.fedramp.gov/assets/resources/training/200-A-FedRAMP-Training-FedRAMP-System-Security-Plan-SSP-Required-Documents.pdf
+    - **URL**: ![[Sem título 2/media/file_01517.pdf]]
     - **DOMAIN**: www.fedramp.gov
     - **POSITION**: 22
   - **22**:
     - **TITLE**: Pipeline Security Guidelines - TSA
     - **SNIPPET**: The security measures in this guidance provide the basis for TSA's Pipeline Security Program. Corporate Security Reviews and Critical Facility Security Reviews.
-    - **URL**: https://www.tsa.gov/sites/default/files/pipeline_security_guidelines.pdf
+    - **URL**: ![[Sem título 2/media/file_23468.pdf]]
     - **DOMAIN**: www.tsa.gov
     - **POSITION**: 23
   - **23**:
     - **TITLE**: Information Security Policy
     - **SNIPPET**: This policy defines the mandatory minimum information security requirements for all. State Entities (SEs). An SE may, based on its ...
-    - **URL**: https://its.ny.gov/information-security-policy
+    - **URL**: ![[Sem título 2/media/file_32336.pdf]]
     - **DOMAIN**: its.ny.gov
     - **POSITION**: 24
   - **24**:
     - **TITLE**: Directive 140-01, Revision 02, Information Technology ...
     - **SNIPPET**: This Directive establishes Department of Homeland Security (OHS) policy regarding the. Information Technology (IT) Security Program.
-    - **URL**: https://www.dhs.gov/sites/default/files/publications/mgmt/information-and-technology-management/mgmt-dir_140-01-info-tech-security-program_revision-02.pdf
+    - **URL**: ![[Sem título 2/media/file_57605.pdf]]
     - **DOMAIN**: www.dhs.gov
     - **POSITION**: 25
   - **25**:
     - **TITLE**: Declaration on Security in the Americas
     - **SNIPPET**: Our new concept of security in the Hemisphere is multidimensional in scope, includes traditional and new threats, concerns, and other challenges to the security ...
-    - **URL**: https://www.oas.org/sap/peacefund/VirtualLibrary/DeclarationSecurityAmericas/DeclarationSecurityintheAmericas.pdf
+    - **URL**: ![[Sem título 2/media/file_11976.pdf]]
     - **DOMAIN**: www.oas.org
     - **POSITION**: 26
   - **26**:
@@ -167,55 +167,55 @@
   - **27**:
     - **TITLE**: Applied Application Security— Positive & Negative Efficiency
     - **SNIPPET**: Implementing an application security solution that is both secure and practical—while still allowing for the fluid nature of protecting dynamic applications— ...
-    - **URL**: https://www.f5.com/pdf/white-papers/applied-app-security-wp.pdf
+    - **URL**: ![[Sem título 2/media/file_96525.pdf]]
     - **DOMAIN**: www.f5.com
     - **POSITION**: 28
   - **28**:
     - **TITLE**: RECOMMENDED PRACTICES FOR STRENGTHENING ...
     - **SNIPPET**: The purpose of the Subcommittee on Research. Security is to coordinate Federal Government efforts to enhance the security and integrity of America's science and ...
-    - **URL**: https://trumpwhitehouse.archives.gov/wp-content/uploads/2021/01/NSTC-Research-Security-Best-Practices-Jan2021.pdf
+    - **URL**: ![[Sem título 2/media/file_02489.pdf]]
     - **DOMAIN**: trumpwhitehouse.archives.gov
     - **POSITION**: 29
   - **29**:
     - **TITLE**: Cybersecurity for Security Personnel: Student Guide
     - **SNIPPET**: Objectives. This course provides an overview of Security Personnel's role in cybersecurity, including the need for cybersecurity, cybersecurity roles and ...
-    - **URL**: https://www.cdse.edu/Portals/124/Documents/student-guides/CS160-guide.pdf
+    - **URL**: ![[Sem título 2/media/file_79703.pdf]]
     - **DOMAIN**: www.cdse.edu
     - **POSITION**: 30
   - **30**:
     - **TITLE**: Security Advisory Opinion Fact Sheet
     - **SNIPPET**: The Security Advisory Opinion (SAO) is a process the State Department utilizes to decide to grant or deny US visas to certain applicants.
-    - **URL**: https://rcusa.org/wp-content/uploads/2024/01/Security-Advisory-Opinion-Fact-Sheet.pdf
+    - **URL**: ![[Sem título 2/media/file_18624.pdf]]
     - **DOMAIN**: rcusa.org
     - **POSITION**: 31
   - **31**:
     - **TITLE**: Security Plan Guidance
     - **SNIPPET**: A security plan is a documented, systematic set of policies and procedures to achieve security goals that protect BSAT from theft, loss, or ...
-    - **URL**: https://www.selectagents.gov/compliance/guidance/security-plan/docs/Security_Plan_Guidance.pdf
+    - **URL**: ![[Sem título 2/media/file_73352.pdf]]
     - **DOMAIN**: www.selectagents.gov
     - **POSITION**: 32
   - **32**:
     - **TITLE**: PPSD, Decentralized Security Guidelines
     - **SNIPPET**: The purpose of these guidelines is to define the State Controller's Office (SCO) security requirements for all users of the SCO systems. Contact your department ...
-    - **URL**: https://www.sco.ca.gov/Files-PPSD/2020_decentralized_security_guidelines.pdf
+    - **URL**: ![[Sem título 2/media/file_49916.pdf]]
     - **DOMAIN**: www.sco.ca.gov
     - **POSITION**: 33
   - **33**:
     - **TITLE**: Fortinet's Commitment to Product Security and Integrity
     - **SNIPPET**: We remain committed to implementing a comprehensive approach to protecting the security and integrity of our products throughout the product ...
-    - **URL**: https://www.fortinet.com/content/dam/fortinet/assets/flyer/flyer-fortinet-commitment-to-product-security-and-integrity.pdf
+    - **URL**: ![[Sem título 2/media/file_25916.pdf]]
     - **DOMAIN**: www.fortinet.com
     - **POSITION**: 34
   - **34**:
     - **TITLE**: Robust. Resilient. Sustainable. Integrated Security for Germany
     - **SNIPPET**: NATIONAL SECURITY STRATEGY. Our security is linked to the security and stability of other regions in the world. The EU's Common. Security and Defence Policy ...
-    - **URL**: https://www.nationalesicherheitsstrategie.de/National-Security-Strategy-EN.pdf
+    - **URL**: ![[Sem título 2/media/file_39283.pdf]]
     - **DOMAIN**: www.nationalesicherheitsstrategie.de
     - **POSITION**: 35
   - **35**:
     - **TITLE**: Enhancing the Security and Integrity of America's Research ...
     - **SNIPPET**: The JCORE Research Security Subcommittee aims to protect America's research enterprise without compromising our values or our ability to maintain the innovation ...
-    - **URL**: https://trumpwhitehouse.archives.gov/wp-content/uploads/2020/07/Enhancing-the-Security-and-Integrity-of-Americas-Research-Enterprise.pdf
+    - **URL**: ![[Sem título 2/media/file_91244.pdf]]
     - **DOMAIN**: trumpwhitehouse.archives.gov
     - **POSITION**: 36
   - **36**:
@@ -227,13 +227,13 @@
   - **37**:
     - **TITLE**: SAFETY AND SECURITY IN THE UNITED NATIONS SYSTEM
     - **SNIPPET**: The United Nations security management system must provide security for approximately 180,000 personnel2 and. 300,000 dependants in very different environments, ...
-    - **URL**: https://documents.un.org/access.nsf/get?OpenAgent&DS=jiu/rep/2016/9&Lang=E
+    - **URL**: ![[Sem título 2/media/file_17407.pdf]]
     - **DOMAIN**: documents.un.org
     - **POSITION**: 38
   - **38**:
     - **TITLE**: ARTICLE XXI SECURITY EXCEPTIONS
     - **SNIPPET**: The question of whether and to what extent the CONTRACTING PARTIES can review the national security reasons for measures taken under Article XXI was discussed ...
-    - **URL**: https://www.wto.org/english/res_e/booksp_e/gatt_ai_e/art21_e.pdf
+    - **URL**: ![[Sem título 2/media/file_01779.pdf]]
     - **DOMAIN**: www.wto.org
     - **POSITION**: 39
   - **39**:
@@ -251,79 +251,79 @@
   - **41**:
     - **TITLE**: USDA Actions on Nutrition Security
     - **SNIPPET**: WHAT IS NUTRITION SECURITY? Nutrition security builds on food security, emphasizing the co-existence of food insecurity and diet-related diseases and ...
-    - **URL**: https://www.usda.gov/sites/default/files/documents/usda-actions-nutrition-security.pdf
+    - **URL**: ![[Sem título 2/media/file_03102.pdf]]
     - **DOMAIN**: www.usda.gov
     - **POSITION**: 42
   - **42**:
     - **TITLE**: COMMON SECURITY 2022
     - **SNIPPET**: In 1982, the Independent Commission on Disarmament and Security Issues, led by the Swedish Prime Minister. Olof Palme, published the report, ...
-    - **URL**: https://www.ituc-csi.org/IMG/pdf/commonsecurity_report_2022_final.pdf
+    - **URL**: ![[Sem título 2/media/file_commonsecurity_report_2022_final.pdf";.pdf]]
     - **DOMAIN**: www.ituc-csi.org
     - **POSITION**: 43
   - **43**:
     - **TITLE**: Voting System Security Measures
     - **SNIPPET**: The security of voting systems is essential to a trustworthy election. Every state and local jurisdiction utilizes common-sense procedures.
-    - **URL**: https://www.eac.gov/sites/default/files/electionofficials/security/Voting_System_Security_Measures_508_EAC.pdf
+    - **URL**: ![[Sem título 2/media/file_35742.pdf]]
     - **DOMAIN**: www.eac.gov
     - **POSITION**: 44
   - **44**:
     - **TITLE**: National Security Agency | Mobile Device Best Practices
     - **SNIPPET**: ... security. This best practices guide outlines steps the users can take to better protect personal devices and information. Cellular service signal. Wi-Fi. Near ...
-    - **URL**: https://media.defense.gov/2021/Sep/16/2002855921/-1/-1/0/MOBILE_DEVICE_BEST_PRACTICES_FINAL_V3%20-%20COPY.PDF
+    - **URL**: ![[Sem título 2/media/file_28391.pdf]]
     - **DOMAIN**: media.defense.gov
     - **POSITION**: 45
   - **45**:
     - **TITLE**: THE IMPACT OF SECURITY ALERT OVERLOAD
     - **SNIPPET**: CRITICALSTART conducted a survey of more than 50 Security Operations Center (SOC) professionals across enterprises, Managed Security Services Providers (MSSP) ...
-    - **URL**: https://www.criticalstart.com/wp-content/uploads/2021/02/CS_Report-The-Impact-of-Security-Alert-Overload.pdf
+    - **URL**: ![[Sem título 2/media/file_06011.pdf]]
     - **DOMAIN**: www.criticalstart.com
     - **POSITION**: 46
   - **46**:
     - **TITLE**: PCI DSS v3.2.1 Quick Reference Guide
     - **SNIPPET**: PCI Security Standards are technical and operational requirements set by the PCI Security Standards. Council (PCI SSC) to protect cardholder data. The standards ...
-    - **URL**: https://listings.pcisecuritystandards.org/documents/PCI_DSS-QRG-v3_2_1.pdf
+    - **URL**: ![[Sem título 2/media/file_23291.pdf]]
     - **DOMAIN**: listings.pcisecuritystandards.org
     - **POSITION**: 47
   - **47**:
     - **TITLE**: Decentralized Security Manual - State Controller's Office
     - **SNIPPET**: If the department/campus Security Monitor/Assistant Security Monitor or Authorizing. Official/Assistant Authorizing Official changes, please follow the ...
-    - **URL**: https://sco.ca.gov/Files-PPSD/decentralized_security_manual.pdf
+    - **URL**: ![[Sem título 2/media/file_34404.pdf]]
     - **DOMAIN**: sco.ca.gov
     - **POSITION**: 48
   - **48**:
     - **TITLE**: Data Security Business Advisory
     - **SNIPPET**: The U.S. Department of Homeland Security (DHS) is issuing this Advisory to highlight the risk of PRC government-sponsored data theft. PRC legal regimes enable ...
-    - **URL**: https://www.dhs.gov/sites/default/files/publications/20_1222_data-security-business-advisory.pdf
+    - **URL**: ![[Sem título 2/media/file_47546.pdf]]
     - **DOMAIN**: www.dhs.gov
     - **POSITION**: 49
   - **49**:
     - **TITLE**: Chapter 6, Guide to Privacy and Security of Electronic ...
     - **SNIPPET**: The security management process standard is a requirement in the HIPAA Security Rule. Conducting a risk analysis is one of the requirements that provides ...
-    - **URL**: https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide-chapter-6.pdf
+    - **URL**: ![[Sem título 2/media/file_21246.pdf]]
     - **DOMAIN**: www.healthit.gov
     - **POSITION**: 50
   - **50**:
     - **TITLE**: Security Deposit Bulletin - NJ.gov
     - **SNIPPET**: The security deposit law was created to protect tenants from landlords who require security deposits and then divert the deposits for their own use. This ...
-    - **URL**: https://www.nj.gov/dca/codes/publications/pdf_lti/secty_deposit_bulletin.pdf
+    - **URL**: ![[Sem título 2/media/file_27167.pdf]]
     - **DOMAIN**: www.nj.gov
     - **POSITION**: 51
   - **51**:
     - **TITLE**: 3 Security Standards: Physical Safeguards
     - **SNIPPET**: This rule, commonly known as the Security Rule, was adopted to implement provisions of the Health. Insurance Portability and Accountability Act of 1996 (HIPAA).
-    - **URL**: https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/securityrule/physsafeguards.pdf
+    - **URL**: ![[Sem título 2/media/file_92245.pdf]]
     - **DOMAIN**: www.hhs.gov
     - **POSITION**: 52
   - **52**:
     - **TITLE**: Emergency National Security Supplemental Section-by- ...
     - **SNIPPET**: Requires briefings to Congress on the status and welfare of hostages being held in Gaza. DIVISION B –. BORDER SECURITY AND COMBATTING FENTANYL SUPPLEMENTAL.
-    - **URL**: https://www.appropriations.senate.gov/imo/media/doc/emergency_national_security_supplemental_section-by-section.pdf
+    - **URL**: ![[Sem título 2/media/file_97466.pdf]]
     - **DOMAIN**: www.appropriations.senate.gov
     - **POSITION**: 53
   - **53**:
     - **TITLE**: Public Safety and Security Annex - ESF Coordinator
     - **SNIPPET**: Emergency Support Function (ESF) #13 – Provides Federal public safety and security assistance to local, state, tribal, territorial, and Federal organizations ...
-    - **URL**: https://www.fema.gov/sites/default/files/2020-07/fema_ESF_13_Public-Safety-Security.pdf
+    - **URL**: ![[Sem título 2/media/file_85328.pdf]]
     - **DOMAIN**: www.fema.gov
     - **POSITION**: 54
   - **54**:
@@ -335,55 +335,55 @@
   - **55**:
     - **TITLE**: Global Water Security
     - **SNIPPET**: Depleted and degraded groundwater can threaten food security and thereby risk social disruption. When water available for agriculture is insufficient, ...
-    - **URL**: https://www.dni.gov/files/documents/Special%20Report_ICA%20Global%20Water%20Security.pdf
+    - **URL**: ![[Sem título 2/media/file_61240.pdf]]
     - **DOMAIN**: www.dni.gov
     - **POSITION**: 56
   - **56**:
     - **TITLE**: The Security Impact of HTTPS Interception - J. Alex Halderman
     - **SNIPPET**: connection security, and half introduce severe vulnerabilities. In some cases, manufacturers attempted to customize libraries or re-implement TLS, introducing ...
-    - **URL**: https://jhalderm.com/pub/papers/interception-ndss17.pdf
+    - **URL**: ![[Sem título 2/media/file_42149.pdf]]
     - **DOMAIN**: jhalderm.com
     - **POSITION**: 57
   - **57**:
     - **TITLE**: Minimum Security Standard (pdf)
     - **SNIPPET**: This UC Standard defines minimum security requirements for devices connected to Location networks. This Standard must be used in conjunction with UC's ...
-    - **URL**: https://security.ucop.edu/files/documents/policies/minimum-security-standard.pdf
+    - **URL**: ![[Sem título 2/media/file_93324.pdf]]
     - **DOMAIN**: security.ucop.edu
     - **POSITION**: 58
   - **58**:
     - **TITLE**: Why Information Security is Hard -- An Economic Perspective
     - **SNIPPET**: These observations prompted us to look for other ways in which economics and computer security inter- act. 2 Network Externalities. Economists have devoted much ...
-    - **URL**: https://www.acsac.org/2001/papers/110.pdf
+    - **URL**: ![[Sem título 2/media/file_99360.pdf]]
     - **DOMAIN**: www.acsac.org
     - **POSITION**: 59
   - **59**:
     - **TITLE**: NSD Data Security Program - FAQs - 04112025
     - **SNIPPET**: The Data Security Program (“DSP”) implemented by the National Security Division (“NSD”) under Executive Order 14117 comprehensively and ...
-    - **URL**: https://www.justice.gov/opa/media/1396351/dl
+    - **URL**: ![[Sem título 2/media/file_nsd_data_security_program_-_faqs_-_04112025_0.pdf.pdf]]
     - **DOMAIN**: www.justice.gov
     - **POSITION**: 60
   - **60**:
     - **TITLE**: SECURITY DIRECTOR DATASHEET
     - **SNIPPET**: Network security management is how administrators operationalize their firewall architecture, provide visibility across individual deployments, policies, and ...
-    - **URL**: https://www.juniper.net/content/dam/www/assets/datasheets/us/en/security/security-director-datasheet.pdf
+    - **URL**: ![[Sem título 2/media/file_49357.pdf]]
     - **DOMAIN**: www.juniper.net
     - **POSITION**: 61
   - **61**:
     - **TITLE**: Security Guide
     - **SNIPPET**: Unless otherwise noted, the security features in this document apply across the product suite of Zoom Meetings, Zoom. Video Webinars, Zoom Rooms, and Zoom Phone ...
-    - **URL**: https://explore.zoom.us/docs/doc/Zoom-Security-White-Paper.pdf
+    - **URL**: ![[Sem título 2/media/file_69503.pdf]]
     - **DOMAIN**: explore.zoom.us
     - **POSITION**: 62
   - **62**:
     - **TITLE**: 2019 Global Health Security Index
     - **SNIPPET**: ... Security Index. 31. Key Findings and Recommendations. 39. Methodology. 61. Country Profiles. 115. About the Organizations. 313. Glossary. 315 ...
-    - **URL**: https://ghsindex.org/wp-content/uploads/2019/10/2019-Global-Health-Security-Index.pdf
+    - **URL**: ![[Sem título 2/media/file_30316.pdf]]
     - **DOMAIN**: ghsindex.org
     - **POSITION**: 63
   - **63**:
     - **TITLE**: ARCHIVED: Security Pillar - awsstatic.com
     - **SNIPPET**: For managing AWS WAF, AWS Shield Advanced protections, and Amazon VPC security groups across AWS Organizations, you can use AWS Firewall Manager. It allows you ...
-    - **URL**: https://d1.awsstatic.com/whitepapers/architecture/AWS-Security-Pillar.pdf
+    - **URL**: ![[Sem título 2/media/file_56140.pdf]]
     - **DOMAIN**: d1.awsstatic.com
     - **POSITION**: 64
   - **64**:
@@ -395,25 +395,25 @@
   - **65**:
     - **TITLE**: Fundamental Research Security - National Science Foundation
     - **SNIPPET**: Appendices include the charge to JASON from NSF, the text of National Security Decision. Directive 189, and a brief classified section. In ...
-    - **URL**: https://nsf-gov-resources.nsf.gov/files/JSR-19-2IFundamentalResearchSecurity-12062019FINAL.pdf
+    - **URL**: ![[Sem título 2/media/file_07380.pdf]]
     - **DOMAIN**: nsf-gov-resources.nsf.gov
     - **POSITION**: 66
   - **66**:
     - **TITLE**: Chapter 14: Museum Collections Security
     - **SNIPPET**: park's security system and have security responsibilities that should be ... Museum Security: . Fire Safety: 
-    - **URL**: https://www.nps.gov/museum/publications/mhi/chapter%209.pdf
+    - **URL**: ![[Sem título 2/media/file_29165.pdf]]
     - **DOMAIN**: www.nps.gov
     - **POSITION**: 67
   - **67**:
     - **TITLE**: MOM-SITSD-POL-Internet Privacy and Security Policy
     - **SNIPPET**: The State of Montana is committed to data security and the data quality of personally identifiable information that is either available from or collected by ...
-    - **URL**: https://mt.gov/1240-x06.pdf
+    - **URL**: ![[Sem título 2/media/file_80247.pdf]]
     - **DOMAIN**: mt.gov
     - **POSITION**: 68
   - **68**:
     - **TITLE**: Security-Sensitive Positions
     - **SNIPPET**: Security-sensitive positions: Positions in which employees handle currency, have access to a computer terminal, master key, personal information or ...
-    - **URL**: https://www.sfasu.edu/docs/hops/03-214.pdf
+    - **URL**: ![[Sem título 2/media/file_11056.pdf]]
     - **DOMAIN**: www.sfasu.edu
     - **POSITION**: 69
   - **69**:
@@ -425,25 +425,25 @@
   - **70**:
     - **TITLE**: Publication 166 - Guide to Mail Center Security
     - **SNIPPET**: Long- known as experts in all matters related to mail security, our Chief. Postal Inspector was made chairman of the Universal Postal. Union's Postal Security ...
-    - **URL**: https://about.usps.com/publications/pub166.pdf
+    - **URL**: ![[Sem título 2/media/file_12973.pdf]]
     - **DOMAIN**: about.usps.com
     - **POSITION**: 71
   - **71**:
     - **TITLE**: CIP-006-6 - Physical Security of BES Cyber Systems
     - **SNIPPET**: Title: Cyber Security — Physical Security of BES Cyber Systems. 2. Number: CIP-006-6. 3. Purpose: To manage physical access to Bulk Electric System (BES) ...
-    - **URL**: https://www.nerc.com/pa/Stand/Reliability%20Standards/CIP-006-6.pdf
+    - **URL**: ![[Sem título 2/media/file_99396.pdf]]
     - **DOMAIN**: www.nerc.com
     - **POSITION**: 72
   - **72**:
     - **TITLE**: 3510-33-P DEPARTMENT OF COMMERCE Bureau of ...
     - **SNIPPET**: SUMMARY: The Secretary of Commerce initiated an investigation to determine the effects on the national security of imports of semiconductors and ...
-    - **URL**: https://public-inspection.federalregister.gov/2025-06591.pdf
+    - **URL**: ![[Sem título 2/media/file_04766.pdf]]
     - **DOMAIN**: public-inspection.federalregister.gov
     - **POSITION**: 73
   - **73**:
     - **TITLE**: Safety and Security Information for Federal Firearms ...
     - **SNIPPET**: This document is intended only to provide clarity to the public regarding existing requirements under the law or Department policies. Safety and Security ...
-    - **URL**: https://www.atf.gov/firearms/docs/guide/safety-and-security-information-federal-firearms-licensees-atf-p-33172/download
+    - **URL**: ![[Sem título 2/media/file_p3317.2_safety_security_for_ffls_508_6-2021_0.pdf.pdf]]
     - **DOMAIN**: www.atf.gov
     - **POSITION**: 74
   - **74**:
@@ -455,43 +455,43 @@
   - **75**:
     - **TITLE**: NAIC Insurance Data Security Model Law
     - **SNIPPET**: ➢ The NAIC Insurance Data Security Model Law (#668) was adopted in 2017 to establish data security standards for regulators and insurers to ...
-    - **URL**: https://content.naic.org/sites/default/files/government-affairs-brief-data-security-model-law.pdf
+    - **URL**: ![[Sem título 2/media/file_00308.pdf]]
     - **DOMAIN**: content.naic.org
     - **POSITION**: 76
   - **76**:
     - **TITLE**: Mail Center Security Guide 5th Edition ...
     - **SNIPPET**: Title 41, Code of Federal Regulations (CFR), Part 102-81, Physical Security further specifies ISC policies and recommendations “govern physical security at ...
-    - **URL**: https://www.gsa.gov/system/files/Mail%20Center%20Security%20Guide%205th%20Edition%20508%20Compliant.pdf
+    - **URL**: ![[Sem título 2/media/file_77748.pdf]]
     - **DOMAIN**: www.gsa.gov
     - **POSITION**: 77
   - **77**:
     - **TITLE**: BaseSpace Sequence Hub security and privacy
     - **SNIPPET**: several security measures protect data in transit during communication between the sequencing instrument and the data analysis (Table 1). Users can store data ...
-    - **URL**: https://www.illumina.com/content/dam/illumina/gcs/assembled-assets/marketing-literature/basespace-security-and-privacy-security-brief-m-gl-01959/basespace-security-and-privacy-security-brief-m-gl-01959.pdf
+    - **URL**: ![[Sem título 2/media/file_33379.pdf]]
     - **DOMAIN**: www.illumina.com
     - **POSITION**: 78
   - **78**:
     - **TITLE**: SAS® Product Security Framework
     - **SNIPPET**: The SAS Product Security Framework is our conceptual foundation for producing software that is resistant to misuse and cybersecurity threats.
-    - **URL**: https://www.sas.com/content/dam/SAS/documents/marketing-whitepapers-ebooks/sas-whitepapers/en/sas-product-security-framework-107607.pdf
+    - **URL**: ![[Sem título 2/media/file_41934.pdf]]
     - **DOMAIN**: www.sas.com
     - **POSITION**: 79
   - **79**:
     - **TITLE**: FARM SECURITY AND RURAL INVESTMENT ACT OF 2002
     - **SNIPPET**: SECTION 1. SHORT TITLE; TABLE OF CONTENTS. (a) SHORT TITLE.—This Act may be cited as the ''Farm Security.
-    - **URL**: https://www.congress.gov/107/plaws/publ171/PLAW-107publ171.pdf
+    - **URL**: ![[Sem título 2/media/file_46892.pdf]]
     - **DOMAIN**: www.congress.gov
     - **POSITION**: 80
   - **80**:
     - **TITLE**: Information Security Access Agreement
     - **SNIPPET**: Complete the online Security Awareness Training at https://webapps.nsu.edu/securityawareness/newusers/. 2. Complete Section I of this form.
-    - **URL**: https://www.nsu.edu/Information-Security-Access-Agreement.aspx
+    - **URL**: ![[Sem título 2/media/file_Information-Security-Access-Agreement.pdf.pdf]]
     - **DOMAIN**: www.nsu.edu
     - **POSITION**: 81
   - **81**:
     - **TITLE**: 1password-white-paper.pdf
     - **SNIPPET**: 1Password offers a number of notable security features. True end-to-end encryption All cryptographic keys are generated by the client on your devices, and all.
-    - **URL**: https://1passwordstatic.com/files/security/1password-white-paper.pdf
+    - **URL**: ![[Sem título 2/media/file_17149.pdf]]
     - **DOMAIN**: 1passwordstatic.com
     - **POSITION**: 82
   - **82**:
@@ -503,67 +503,67 @@
   - **83**:
     - **TITLE**: Employment Status Notification (Security Guard) X
     - **SNIPPET**: The General Business Law requires that all employment, retirement, resignation or termination of security guards be reported to the NYS Department of State, ...
-    - **URL**: https://dos.ny.gov/employment-status-notification
+    - **URL**: ![[Sem título 2/media/file_55800.pdf]]
     - **DOMAIN**: dos.ny.gov
     - **POSITION**: 84
   - **84**:
     - **TITLE**: Program for Security of FOMC Information
     - **SNIPPET**: Confidential FOMC information loses its security classification when the Committee releases it to the public. Class II information is downgraded to Class III ...
-    - **URL**: https://www.federalreserve.gov/monetarypolicy/files/FOMC_InformationSecurityProgram.pdf
+    - **URL**: ![[Sem título 2/media/file_36035.pdf]]
     - **DOMAIN**: www.federalreserve.gov
     - **POSITION**: 85
   - **85**:
     - **TITLE**: Overview of Test Security
     - **SNIPPET**: A link to the OEAA Assessment Security Compliance. Form is also provided in the Assessment Coordinator. Quick Reference chapter of this Training Guide. 608 W.
-    - **URL**: https://www.michigan.gov/-/media/Project/Websites/mde/OEAA/Assessment-Coordinator-Training-Guide/Overview_of_Test_Security.pdf?rev=e40e6fb0f2ea455996e3a5ab200b325b
+    - **URL**: ![[Sem título 2/media/file_Overview_of_Test_Security.pdf.pdf]]
     - **DOMAIN**: www.michigan.gov
     - **POSITION**: 86
   - **86**:
     - **TITLE**: HighQ Information Security Controls
     - **SNIPPET**: 1.1. These HiqhQ Information Security Controls (“Information Security Controls”) apply when you purchase a license to use or access HighQ as set out in the ...
-    - **URL**: https://www.thomsonreuters.com/highq-infosec
+    - **URL**: ![[Sem título 2/media/file_43470.pdf]]
     - **DOMAIN**: www.thomsonreuters.com
     - **POSITION**: 87
   - **87**:
     - **TITLE**: Symantec Endpoint Security Product Brief
     - **SNIPPET**: Well, some security solutions deliver lower protection levels to minimize false positives. Add in configuration mistakes and weak settings, and it's easy to see ...
-    - **URL**: https://docs.broadcom.com/doc/endpoint-security-en
+    - **URL**: ![[Sem título 2/media/file_SED-EPS-PB105.pdf.pdf]]
     - **DOMAIN**: docs.broadcom.com
     - **POSITION**: 88
   - **88**:
     - **TITLE**: Security Intelligence
     - **SNIPPET**: If you want to supplement the Cisco-provided Security Intelligence feeds with custom threat data, or manually block emerging threats: • For IP addresses, use ...
-    - **URL**: https://www.cisco.com/c/en/us/td/docs/security/cdo/cloud-delivered-firewall-management-center-in-cdo/managing-firewall-threat-defense-services-with-cisco-defense-orchestrator/m_access-security-intelligence.pdf
+    - **URL**: ![[Sem título 2/media/file_87001.pdf]]
     - **DOMAIN**: www.cisco.com
     - **POSITION**: 89
   - **89**:
     - **TITLE**: SECURITY
     - **SNIPPET**: Bill, DIA police officer, and Norma Jean, K-9 officer, conduct vehicle inspections, ensuring the safety of DIA facilities. Page 4. 2. SECURITY CAREER FIELD.
-    - **URL**: https://www.dia.mil/Portals/110/Documents/Careers/Security.pdf
+    - **URL**: ![[Sem título 2/media/file_94487.pdf]]
     - **DOMAIN**: www.dia.mil
     - **POSITION**: 90
   - **90**:
     - **TITLE**: Security Rules and Procedures - Mastercard
     - **SNIPPET**: – Center for Internet Security (CIS) Critical Security Controls for ... Digital Wallet Operator (DWO) Security Incident, DWO Security ...
-    - **URL**: https://www.mastercard.us/content/dam/public/mastercardcom/na/global-site/documents/SPME-Manual.pdf
+    - **URL**: ![[Sem título 2/media/file_75262.pdf]]
     - **DOMAIN**: www.mastercard.us
     - **POSITION**: 91
   - **91**:
     - **TITLE**: U.S. Treasury Check Security Features
     - **SNIPPET**: U.S. Treasury Check Security Features ... The Treasury seal, located to the right of the Statue of. Liberty, contains security ink that will run and turn red.
-    - **URL**: https://fiscal.treasury.gov/files/reference-guidance/gold-book/check-security-features.pdf
+    - **URL**: ![[Sem título 2/media/file_check-security-features.pdf.pdf]]
     - **DOMAIN**: fiscal.treasury.gov
     - **POSITION**: 92
   - **92**:
     - **TITLE**: Network Security Software
     - **SNIPPET**: NETWORK SECURITY SOFTWARE. Most Complete Security Bundle. SNBT. The SandBlast package includes the NGTP package and adds the latest Zero-Phishing security, ...
-    - **URL**: https://www.checkpoint.com/downloads/products/network-security-software-bundles-at-a-glance.pdf
+    - **URL**: ![[Sem título 2/media/file_53204.pdf]]
     - **DOMAIN**: www.checkpoint.com
     - **POSITION**: 93
   - **93**:
     - **TITLE**: Security strategies: acceptance, protection and deterrence
     - **SNIPPET**: There are typically three security strategies used by humanitarian aid organisations in all contexts. Generally, international and national aid organisations ...
-    - **URL**: https://gisf.ngo/wp-content/uploads/2015/09/EISF_Security-to-go_guide_Module-4_Security-strategies_Acceptance-protection-and-deterrence-.pdf
+    - **URL**: ![[Sem título 2/media/file_51593.pdf]]
     - **DOMAIN**: gisf.ngo
     - **POSITION**: 94
   - **94**:
@@ -581,61 +581,61 @@
   - **96**:
     - **TITLE**: Adobe Operational Security Overview
     - **SNIPPET**: To that end, our dedicated operational security team focuses on securing cloud resources at scale and helping ensure the safety and security of customer ...
-    - **URL**: https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/corporate/adobe-operational-security-overview.pdf
+    - **URL**: ![[Sem título 2/media/file_08861.pdf]]
     - **DOMAIN**: www.adobe.com
     - **POSITION**: 97
   - **97**:
     - **TITLE**: CLIENT SECURITY STATEMENT
     - **SNIPPET**: Goldman Sachs places great importance on information security, including cybersecurity, to protect against external threats and malicious insiders. The firm's ...
-    - **URL**: https://www.goldmansachs.com/disclosures/client-security-statement.pdf
+    - **URL**: ![[Sem título 2/media/file_48260.pdf]]
     - **DOMAIN**: www.goldmansachs.com
     - **POSITION**: 98
   - **98**:
     - **TITLE**: 004 Privacy, Security, and Fraud Prevention Standards
     - **SNIPPET**: This course will help you understand the privacy and security standards applicable to the. Federally-facilitated Marketplace (FFM or Marketplace) and will ...
-    - **URL**: https://www.cms.gov/marketplace/technical-assistance-resources/training-materials/privacy-security-and-fraud-prevention.pdf
+    - **URL**: ![[Sem título 2/media/file_004_privacy_security_and_fraud_prevention_standards_v2.pdf.pdf]]
     - **DOMAIN**: www.cms.gov
     - **POSITION**: 99
   - **99**:
     - **TITLE**: NIH Security Best Practices for Users of Controlled-Access ...
     - **SNIPPET**: This document establishes National Institutes of Health's (NIH) standards for users protecting and maintaining security of controlled-access ...
-    - **URL**: https://sharing.nih.gov/sites/default/files/flmngr/NIH-Security-BPs-for-Users-of-Controlled-Access-Data.pdf
+    - **URL**: ![[Sem título 2/media/file_31406.pdf]]
     - **DOMAIN**: sharing.nih.gov
     - **POSITION**: 100
   - **100**:
     - **TITLE**: Globalization, Security, and the Dangers of Decoupling
     - **SNIPPET**: This article focuses on the national security benefits of US-China economic engagement and the regional economic inte- gration of East Asia. Government ...
-    - **URL**: https://www.sipa.columbia.edu/sites/default/files/2024-03/World-Politics-Artile_Final_Project_MUSE_918726.pdf
+    - **URL**: ![[Sem título 2/media/file_75934.pdf]]
     - **DOMAIN**: www.sipa.columbia.edu
     - **POSITION**: 101
   - **101**:
     - **TITLE**: Personal Security
     - **SNIPPET**: These guidelines are designed to give practical advice on safety and security to anybody who is living in or travelling to places where problems such as kidnap, ...
-    - **URL**: https://www.texastech.edu/offices/risk-management/Personal%20Security_English.pdf
+    - **URL**: ![[Sem título 2/media/file_20376.pdf]]
     - **DOMAIN**: www.texastech.edu
     - **POSITION**: 102
   - **102**:
     - **TITLE**: DoDM 5200.45, "Original Classification Authority and ...
     - **SNIPPET**: at https://www.esd.whs.mil/DD/. Reissues and Cancels: DoD Manual 5200.45, “Instructions for Developing Security. Classification Guides,” April 2 ...
-    - **URL**: https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/520045m.pdf
+    - **URL**: ![[Sem título 2/media/file_01436.pdf]]
     - **DOMAIN**: www.esd.whs.mil
     - **POSITION**: 103
   - **103**:
     - **TITLE**: Security Problem Definition
     - **SNIPPET**: PROPER_USER: The user of the application is trusted to use the software in compliance with the applied enterprise security policy. A.PROPER_ADMIN: The ...
-    - **URL**: https://www.commoncriteriaportal.org/communities/App%20SW%20SPD_v0.3.pdf
+    - **URL**: ![[Sem título 2/media/file_91185.pdf]]
     - **DOMAIN**: www.commoncriteriaportal.org
     - **POSITION**: 104
   - **104**:
     - **TITLE**: Data Security Checklist - Protecting Student Privacy
     - **SNIPPET**: A comprehensive security program is critical to protecting the individual privacy and confidentiality of education records. Solutions and procedures supporting ...
-    - **URL**: https://studentprivacy.ed.gov/sites/default/files/resource_document/file/Data%20Security%20Checklist_0.pdf
+    - **URL**: ![[Sem título 2/media/file_49820.pdf]]
     - **DOMAIN**: studentprivacy.ed.gov
     - **POSITION**: 105
   - **105**:
     - **TITLE**: Position on Information Security
     - **SNIPPET**: Johnson & Johnson is fiercely committed to protecting its information assets and business integrity. Our. Information Security and Risk Management (ISRM) ...
-    - **URL**: https://www.jnj.com/about-jnj/policies-and-positions/our-position-on-information-security
+    - **URL**: ![[Sem título 2/media/file_position-on-information-security-mar2023.pdf.pdf]]
     - **DOMAIN**: www.jnj.com
     - **POSITION**: 106
   - **106**:
@@ -647,37 +647,37 @@
   - **107**:
     - **TITLE**: Security Criteria for C-TPAT Foreign Manufacturers in English
     - **SNIPPET**: Participation/Certification in a Foreign Customs Administration Supply Chain Security Program. Current or prospective business partners who have obtained a ...
-    - **URL**: https://www.cbp.gov/sites/default/files/documents/fm_security_criteria_english_3.pdf
+    - **URL**: ![[Sem título 2/media/file_57286.pdf]]
     - **DOMAIN**: www.cbp.gov
     - **POSITION**: 108
   - **108**:
     - **TITLE**: PIN Transaction Security (PTS) Point of Interaction (POI)
     - **SNIPPET**: security as stated in the security requirements. This module also supports the cost-effective maintenance of components. This module includes security ...
-    - **URL**: https://www.pcisecuritystandards.org/documents/PCI_PTS_POI_SRs_v4_Final.pdf
+    - **URL**: ![[Sem título 2/media/file_70100.pdf]]
     - **DOMAIN**: www.pcisecuritystandards.org
     - **POSITION**: 109
   - **109**:
     - **TITLE**: Application for Social Security Card
     - **SNIPPET**: To change the information on your Social Security number record (i.e., a name or citizenship change, or corrected date of birth) you must provide documents to ...
-    - **URL**: https://www.ssa.gov/forms/ss-5.pdf
+    - **URL**: ![[Sem título 2/media/file_14757.pdf]]
     - **DOMAIN**: www.ssa.gov
     - **POSITION**: 110
   - **110**:
     - **TITLE**: HIPAA Security Series #5 - Organizational, Policies and ...
     - **SNIPPET**: Procedures and Documentation Requirements standard and implementation specification listed in the Security Rule. ❑ Discuss the purpose for each standard. § ...
-    - **URL**: https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/securityrule/pprequirements.pdf
+    - **URL**: ![[Sem título 2/media/file_56640.pdf]]
     - **DOMAIN**: www.hhs.gov
     - **POSITION**: 111
   - **111**:
     - **TITLE**: 2022 Security Annual Report
     - **SNIPPET**: When I joined the company in 2018, I made a personal commitment to establish Equifax as an industry leader in data security and to build a culture where ...
-    - **URL**: https://assets.equifax.com/marketing/US/assets/2022-security-annual-report.pdf
+    - **URL**: ![[Sem título 2/media/file_18037.pdf]]
     - **DOMAIN**: assets.equifax.com
     - **POSITION**: 112
   - **112**:
     - **TITLE**: Security Directiver Pipeline 2021-02C (SD02C) - TSA
     - **SNIPPET**: Attached to this memorandum is Security Directive Pipeline-2021-02C (SD02C). SD02C is a continuation of the SD-02 series, and supersedes and ...
-    - **URL**: https://www.tsa.gov/sites/default/files/tsa_sd_pipeline-2021-02-july-21_2022.pdf
+    - **URL**: ![[Sem título 2/media/file_81152.pdf]]
     - **DOMAIN**: www.tsa.gov
     - **POSITION**: 113
   - **113**:
@@ -689,19 +689,19 @@
   - **114**:
     - **TITLE**: Position Classification Flysheet for Security Clerical and ...
     - **SNIPPET**: This series includes positions the primary duties of which are to supervise or perform clerical and assistant tasks in support of established security ...
-    - **URL**: https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/0000/gs0086.pdf
+    - **URL**: ![[Sem título 2/media/file_gs0086.pdf.pdf]]
     - **DOMAIN**: www.opm.gov
     - **POSITION**: 115
   - **115**:
     - **TITLE**: Chapter 13 – Security
     - **SNIPPET**: This chapter identifies the principal NAVSEA security directives providing direction and guidance for security programs common to all NAVSEA activities.
-    - **URL**: https://www.navsea.navy.mil/Portals/103/Documents/SUPSHIP/SOM/Ch13-Security.pdf
+    - **URL**: ![[Sem título 2/media/file_52954.pdf]]
     - **DOMAIN**: www.navsea.navy.mil
     - **POSITION**: 116
   - **116**:
     - **TITLE**: Introduction to Information Security Student Guide
     - **SNIPPET**: are a security violation, security infraction, spillage, and unauthorized disclosure. For more information on security incidents, refer to the CDSE website.
-    - **URL**: https://www.cdse.edu/Portals/124/Documents/student-guides/IF011-guide.pdf
+    - **URL**: ![[Sem título 2/media/file_20489.pdf]]
     - **DOMAIN**: www.cdse.edu
     - **POSITION**: 117
   - **117**:
@@ -713,67 +713,67 @@
   - **118**:
     - **TITLE**: SCIO-SEC-312: Security Planning Policy (PL)
     - **SNIPPET**: The policies set out the statewide information security standards required by N.C.G.S.. §143B-1376, which directs the State Chief Information ...
-    - **URL**: https://it.nc.gov/documents/statewide-policies/scio-security-planning/download?attachment
+    - **URL**: ![[Sem título 2/media/file_security-planning.pdf.pdf]]
     - **DOMAIN**: it.nc.gov
     - **POSITION**: 119
   - **119**:
     - **TITLE**: Guide to Privacy and Security of Electronic Health Information
     - **SNIPPET**: BAs must comply with the HIPAA Security Rule and Breach Notification Rule as well as certain provisions of the HIPAA Privacy Rule. Whether patient health ...
-    - **URL**: https://www.healthit.gov/sites/default/files/pdf/privacy/privacy-and-security-guide.pdf
+    - **URL**: ![[Sem título 2/media/file_82928.pdf]]
     - **DOMAIN**: www.healthit.gov
     - **POSITION**: 120
   - **120**:
     - **TITLE**: Security of Soft Targets and Crowded Places-Resources ...
     - **SNIPPET**: The Department of Homeland Security's Cybersecurity and Infrastructure. Security Agency (CISA) works closely with public and private sector stakeholders to ...
-    - **URL**: https://www.fema.gov/sites/default/files/2020-03/fema_faith-communities_security-soft-targets-crowded-places.pdf
+    - **URL**: ![[Sem título 2/media/file_13140.pdf]]
     - **DOMAIN**: www.fema.gov
     - **POSITION**: 121
   - **121**:
     - **TITLE**: AWS Ramp-Up Guide: Security, Identity and Compliance
     - **SNIPPET**: These are the most salient learning resources from our classrooms, digital curricula, video library, and AWS Lab Environment, that relate to Cloud Security.
-    - **URL**: https://d1.awsstatic.com/training-and-certification/ramp-up_guides/Ramp-Up_Guide_Security.pdf
+    - **URL**: ![[Sem título 2/media/file_02867.pdf]]
     - **DOMAIN**: d1.awsstatic.com
     - **POSITION**: 122
   - **122**:
     - **TITLE**: security requirements - facility security level ii
     - **SNIPPET**: THESE PARAGRAPHS CONTAIN ADDITIONAL SECURITY REQUIREMENTS, AND, UNLESS. INDICATED OTHERWISE, ARE TO BE PRICED AS PART OF THE BUILDING SPECIFIC AMORTIZED.
-    - **URL**: https://www.gsa.gov/system/files/General/Attachment_2_-_Security_Requirements_%28FSL_Level_II%29_8292022_-_No_errors_-_1_Miss_Header_Tip_C.pdf
+    - **URL**: ![[Sem título 2/media/file_26343.pdf]]
     - **DOMAIN**: www.gsa.gov
     - **POSITION**: 123
   - **123**:
     - **TITLE**: HB00004F.pdf
     - **SNIPPET**: AAThis Act may be cited as the Texas Data Privacy and Security Act. SECTIONA2.AATitle 11, Business & Commerce Code, is amended by adding ...
-    - **URL**: https://capitol.texas.gov/tlodocs/88R/billtext/pdf/HB00004F.pdf
+    - **URL**: ![[Sem título 2/media/file_85161.pdf]]
     - **DOMAIN**: capitol.texas.gov
     - **POSITION**: 124
   - **124**:
     - **TITLE**: List of Social Security Numbers for Each State
     - **SNIPPET**: Follow is a list of social security numbers for each state. The listing is organized in ascending order based on the SSN prefix, with the corresponding issuing ...
-    - **URL**: https://www.nigc.gov/images/uploads/9a-%20List%20of%20Social%20Security%20Numbers%20for%20Each%20State%20Extra%20Handout.pdf
+    - **URL**: ![[Sem título 2/media/file_50943.pdf]]
     - **DOMAIN**: www.nigc.gov
     - **POSITION**: 125
   - **125**:
     - **TITLE**: Security @ ADP
     - **SNIPPET**: security risks and threats. At ADP, security is integral to our products, business processes and infrastructure. Security is ingrained in our solutions ...
-    - **URL**: https://www.adp.com/-/media/who-we-are/pdf/security-at-adp.pdf
+    - **URL**: ![[Sem título 2/media/file_Security-at-ADP.pdf.pdf]]
     - **DOMAIN**: www.adp.com
     - **POSITION**: 126
   - **126**:
     - **TITLE**: What Is National Security?
     - **SNIPPET**: This essay examines the elements of national security, provid- ing both definitions of terms and a clarification of related concepts. It concludes with a number ...
-    - **URL**: https://www.heritage.org/sites/default/files/2019-10/2015_IndexOfUSMilitaryStrength_What%20Is%20National%20Security.pdf
+    - **URL**: ![[Sem título 2/media/file_78786.pdf]]
     - **DOMAIN**: www.heritage.org
     - **POSITION**: 127
   - **127**:
     - **TITLE**: Understanding the Security Operations Journey
     - **SNIPPET**: This evolution is characterized by integrating unified security management, AI assistance, security automation, and continuous posture ...
-    - **URL**: https://www.fortinet.com/content/dam/fortinet/assets/white-papers/pov-fortianalyzer.pdf
+    - **URL**: ![[Sem título 2/media/file_55122.pdf]]
     - **DOMAIN**: www.fortinet.com
     - **POSITION**: 128
   - **128**:
     - **TITLE**: I. Definition Of A "Security"
     - **SNIPPET**: constitutes a security, some indication of the parameters of a. "security" can be derived by examining the statutory purposes be- hind the securities acts ...
-    - **URL**: https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=2288&context=wlulr
+    - **URL**: ![[Sem título 2/media/file_I. Definition Of A Security.pdf.pdf]]
     - **DOMAIN**: scholarlycommons.law.wlu.edu
     - **POSITION**: 129
   - **129**:
@@ -785,19 +785,19 @@
   - **130**:
     - **TITLE**: 2024 DHS STEM Designated Degree Program List
     - **SNIPPET**: The U.S. Department of Homeland Security (DHS) STEM Designated Degree Program List is a complete list of fields of study that DHS considers ...
-    - **URL**: https://www.ice.gov/doclib/sevis/pdf/stemList2024.pdf
+    - **URL**: ![[Sem título 2/media/file_90136.pdf]]
     - **DOMAIN**: www.ice.gov
     - **POSITION**: 131
   - **131**:
     - **TITLE**: CHAPTER IV - Security Management - UN Policy Portal
     - **SNIPPET**: The Security Risk Management (SRM) process was launched by the United Nations. Security Management System (UNSMS) in 2004 as a system–wide managerial tool to.
-    - **URL**: https://policy.un.org/sites/default/files/files/documents/2020/Oct/spm_-_chapter_iv_-_section_a_-_security_risk_management_2.pdf
+    - **URL**: ![[Sem título 2/media/file_60353.pdf]]
     - **DOMAIN**: policy.un.org
     - **POSITION**: 132
   - **132**:
     - **TITLE**: Security and Management Control Outsourcing Standard ...
     - **SNIPPET**: 1.04 Authorized Recipient Security Officer (ARSO) means the individual appointed by the Authorized Recipient to coordinate and oversee ...
-    - **URL**: https://www.fbi.gov/file-repository/compact-council-security-and-management-control-outsourcing-standard-for-channelers.pdf
+    - **URL**: ![[Sem título 2/media/file_12162.pdf]]
     - **DOMAIN**: www.fbi.gov
     - **POSITION**: 133
   - **133**:
@@ -809,19 +809,19 @@
   - **134**:
     - **TITLE**: Cisco Security Suites At-a-Glance
     - **SNIPPET**: Protect your organization more effectively and efficiently with Cisco Security Suites—end-to-end solutions that increase your protection, while reducing the ...
-    - **URL**: https://www.cisco.com/c/en/us/products/collateral/security/security-cloud/security-suites-aag.pdf
+    - **URL**: ![[Sem título 2/media/file_95678.pdf]]
     - **DOMAIN**: www.cisco.com
     - **POSITION**: 135
   - **135**:
     - **TITLE**: Understanding Line Security
     - **SNIPPET**: UL Standards provide requirements for Line Supervision and. Line Security that address this critical element of a security system. • Line Supervision ...
-    - **URL**: https://www.ul.com/sites/g/files/qbfpbp306/files/2019-05/UnderstandingLineSecurity.pdf
+    - **URL**: ![[Sem título 2/media/file_51041.pdf]]
     - **DOMAIN**: www.ul.com
     - **POSITION**: 136
   - **136**:
     - **TITLE**: Access & Security Manager | ADD AN AUTHORIZED USER
     - **SNIPPET**: With Access & Security Manager,1 the system administrator can give authorized users the ability to see account information, set up transactions and/or approve ...
-    - **URL**: https://static.chasecdn.com/content/dam/structured-documents/quick-reference/commercial/Access%20and%20security%20manager.pdf
+    - **URL**: ![[Sem título 2/media/file_60698.pdf]]
     - **DOMAIN**: static.chasecdn.com
     - **POSITION**: 137
   - **137**:
@@ -833,13 +833,13 @@
   - **138**:
     - **TITLE**: DD Form 2962, Volume 2, "PERSONNEL SECURITY ...
     - **SNIPPET**: 10450, Security Requirements for Government Employment; E.O. 10865, Safeguarding Classified Information Within Industry;. (DoDI) 1400.25, Volume 731, DoD ...
-    - **URL**: https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd2962v2.pdf
+    - **URL**: ![[Sem título 2/media/file_17237.pdf]]
     - **DOMAIN**: www.esd.whs.mil
     - **POSITION**: 139
   - **139**:
     - **TITLE**: 2024 Publication 915
     - **SNIPPET**: Social security benefits include monthly retirement, sur- vivor, and disability benefits. They don't include Supple- mental Security Income (SSI) ...
-    - **URL**: https://www.irs.gov/pub/irs-pdf/p915.pdf
+    - **URL**: ![[Sem título 2/media/file_72666.pdf]]
     - **DOMAIN**: www.irs.gov
     - **POSITION**: 140
   - **140**:
@@ -851,13 +851,13 @@
   - **141**:
     - **TITLE**: Information Systems Security Controls Guidance
     - **SNIPPET**: The purpose of this guidance document is to assist the regulated community in addressing the information systems control and information security provisions ...
-    - **URL**: https://www.selectagents.gov/compliance/guidance/information-systems/docs/Information_Systems_Guidance.pdf
+    - **URL**: ![[Sem título 2/media/file_96080.pdf]]
     - **DOMAIN**: www.selectagents.gov
     - **POSITION**: 142
   - **142**:
     - **TITLE**: Adobe Acrobat Sign Security Overview
     - **SNIPPET**: Security practices are deeply ingrained into our internal software development and operations processes and tools and are rigorously followed by our cross- ...
-    - **URL**: https://www.adobe.com/content/dam/cc/en/trust-center/ungated/whitepapers/doc-cloud/acrobat-sign-security-overview.pdf
+    - **URL**: ![[Sem título 2/media/file_11405.pdf]]
     - **DOMAIN**: www.adobe.com
     - **POSITION**: 143
   - **143**:
@@ -869,43 +869,43 @@
   - **144**:
     - **TITLE**: FY2016 Internet Security Awareness Training
     - **SNIPPET**: Welcome to “Destination ISA” – Information Security. Awareness and Rules of Behavior. Training! Annual Information Security Awareness and Rules of Behavior ...
-    - **URL**: https://ncahappspub.aphis.usda.gov/NCAHPortal/public/securityAwarenessDoc
+    - **URL**: ![[Sem título 2/media/file_Current_Security_Awareness_Training_Document.pdf.pdf]]
     - **DOMAIN**: ncahappspub.aphis.usda.gov
     - **POSITION**: 145
   - **145**:
     - **TITLE**: The National Security Strategy United States of America
     - **SNIPPET**: The U.S. national security strategy will be based on a distinctly American internationalism that reflects the union of our values and our ...
-    - **URL**: https://2009-2017.state.gov/documents/organization/63562.pdf
+    - **URL**: ![[Sem título 2/media/file_36787.pdf]]
     - **DOMAIN**: 2009-2017.state.gov
     - **POSITION**: 146
   - **146**:
     - **TITLE**: S/RES/2242 (2015)
     - **SNIPPET**: provisions of Security Council resolutions on women, peace and security, and the important complementary role of United Nations entities and ...
-    - **URL**: https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_res_2242.pdf
+    - **URL**: ![[Sem título 2/media/file_39641.pdf]]
     - **DOMAIN**: www.securitycouncilreport.org
     - **POSITION**: 147
   - **147**:
     - **TITLE**: Valid Proof Documents
     - **SNIPPET**: Security Administration's website at ssa.gov/ssnumber for a replacement ... Issued by the U.S. Department of Homeland Security or U.S. Citizenship and ...
-    - **URL**: https://drive.ky.gov/Drivers/Documents/ValidProofDocuments.pdf
+    - **URL**: ![[Sem título 2/media/file_28212.pdf]]
     - **DOMAIN**: drive.ky.gov
     - **POSITION**: 148
   - **148**:
     - **TITLE**: SECURITY IN SPACE
     - **SNIPPET**: security and quick response to international military and humanitarian crises. Competition. Space competition between the United States and ...
-    - **URL**: https://www.dia.mil/Portals/110/Documents/News/Military_Power_Publications/Challenges_Security_Space_2022.pdf
+    - **URL**: ![[Sem título 2/media/file_93820.pdf]]
     - **DOMAIN**: www.dia.mil
     - **POSITION**: 149
   - **149**:
     - **TITLE**: Security in the Age of AI
     - **SNIPPET**: As confirmed by this survey, security is a top priority for individuals and organizations across America. Citizens, enterprises and ...
-    - **URL**: https://www.oracle.com/a/ocom/docs/data-security-report.pdf
+    - **URL**: ![[Sem título 2/media/file_data-security-report.pdf";filename*=UTF-8''data-security-report.pdf.pdf]]
     - **DOMAIN**: www.oracle.com
     - **POSITION**: 150
   - **150**:
     - **TITLE**: Form I-9, Employment Eligibility Verification
     - **SNIPPET**: U.S. Social Security Number. Employee's Email Address. Employee's Telephone Number. I am aware that federal law provides for imprisonment and/or fines for ...
-    - **URL**: https://www.uscis.gov/sites/default/files/document/forms/i-9.pdf
+    - **URL**: ![[Sem título 2/media/file_94359.pdf]]
     - **DOMAIN**: www.uscis.gov
     - **POSITION**: 151
   - **151**:
@@ -917,55 +917,55 @@
   - **152**:
     - **TITLE**: LB-0489.pdf
     - **SNIPPET**: NOTICE TO EMPLOYER. Within 24 hours of the time of separation, you are required by Rule 0800-09-01-.02 of the Tennessee Employment Security.
-    - **URL**: https://www.tn.gov/content/dam/tn/workforce/documents/Forms/LB-0489.pdf
+    - **URL**: ![[Sem título 2/media/file_31742.pdf]]
     - **DOMAIN**: www.tn.gov
     - **POSITION**: 153
   - **153**:
     - **TITLE**: modern-work-plan-comparison-enterprise.pdf
     - **SNIPPET**: ... Security E3 or Business Premium. 2 Requires Microsoft 365 F1/F3 (or Office 365 F3 and Enterprise Mobility + Security E3). 3 Not available for new customer ...
-    - **URL**: https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/modern-work-plan-comparison-enterprise.pdf
+    - **URL**: ![[Sem título 2/media/file_07603.pdf]]
     - **DOMAIN**: cdn-dynmedia-1.microsoft.com
     - **POSITION**: 154
   - **154**:
     - **TITLE**: Implementation and Enforcement Policy for First 90 Days
     - **SNIPPET**: The Data Security Program (“DSP”) implemented by the National Security Division. (“NSD”) under Executive Order 141171 comprehensively and ...
-    - **URL**: https://www.justice.gov/opa/media/1396346/dl?inline
+    - **URL**: ![[Sem título 2/media/file_nsd_data_security_program_-_implementation_and_enforcement_policy_for_first_90_days_-_04112025_0.pdf.pdf]]
     - **DOMAIN**: www.justice.gov
     - **POSITION**: 155
   - **155**:
     - **TITLE**: Apple T2 Security Chip
     - **SNIPPET**: The Apple T2 Security Chip, our second-generation custom Mac silicon, brings industry-leading security to Mac. It features a Secure Enclave coprocessor, which ...
-    - **URL**: https://www.apple.com/mideast/mac/docs/Apple_T2_Security_Chip_Overview.pdf
+    - **URL**: ![[Sem título 2/media/file_32593.pdf]]
     - **DOMAIN**: www.apple.com
     - **POSITION**: 156
   - **156**:
     - **TITLE**: Cloud Computing Security Requirements Guide
     - **SNIPPET**: of DoD and non-DoD CSOs by DoD Mission Owners. •. Provide guidance to DoD Mission Owners, their Authorization Officials, and Security. Control Assessors (SCAs) ...
-    - **URL**: https://disa.mil/-/media/Files/DISA/News/Events/Symposium/Cloud-Computing-Security-Requirements-Guide.ashx
+    - **URL**: ![[Sem título 2/media/file_Cloud-Computing-Security-Requirements-Guide.pdf.pdf]]
     - **DOMAIN**: disa.mil
     - **POSITION**: 157
   - **157**:
     - **TITLE**: Honors Internship Program: Frequently Asked Questions ...
     - **SNIPPET**: Enter on Duty – Upon issuance of a Top Secret security clearance, you will be contacted and scheduled for an enter-on-duty (EOD) date. The FBI Honors Internship ...
-    - **URL**: https://fbijobs.gov/sites/default/files/2024-02/honors_internship_program_faq.pdf
+    - **URL**: ![[Sem título 2/media/file_13497.pdf]]
     - **DOMAIN**: fbijobs.gov
     - **POSITION**: 158
   - **158**:
     - **TITLE**: SEA Airport Terminal Map
     - **SNIPPET**: Security. Checkpoint ? Ticketing. 04. Security. Checkpoint. 2. Security. Checkpoint. SEA Underground. Yellow Line - Shuttle Train. Connecting A Station to D ...
-    - **URL**: https://www.portseattle.org/sites/default/files/2022-04/Web-Terminal-Map-Overview_3-28-22.pdf
+    - **URL**: ![[Sem título 2/media/file_03254.pdf]]
     - **DOMAIN**: www.portseattle.org
     - **POSITION**: 159
   - **159**:
     - **TITLE**: Android Security & Privacy 2018 Year In Review
     - **SNIPPET**: Google Play Protect debuted in 2017, combining new and existing Android security features, and quickly became the most widely deployed mobile threat protection ...
-    - **URL**: https://source.android.com/static/docs/security/overview/reports/Google_Android_Security_2018_Report_Final.pdf
+    - **URL**: ![[Sem título 2/media/file_55123.pdf]]
     - **DOMAIN**: source.android.com
     - **POSITION**: 160
   - **160**:
     - **TITLE**: Security Deposit for prospective LT consumers
     - **SNIPPET**: Security Deposit. 8,900. 13,350. 26,700. 48,950. 93,450. Page 3. For HT/ EHV consumers: The amount of security deposit payable for monthly billing cycle at the ...
-    - **URL**: https://wss.mahadiscom.in/wss/images/SecurityDeposite_Estimation.pdf
+    - **URL**: ![[Sem título 2/media/file_93680.pdf]]
     - **DOMAIN**: wss.mahadiscom.in
     - **POSITION**: 161
   - **161**:
@@ -977,115 +977,115 @@
   - **162**:
     - **TITLE**: User Self Service
     - **SNIPPET**: Select Security Question Radio Button and Click “Setup” button under. Security Question Option on Setup. MFA page. 2. Select a security question from the.
-    - **URL**: https://secure.mypepsico.com/resources/documents/help/Associate_SSO_Help_en.pdf
+    - **URL**: ![[Sem título 2/media/file_52666.pdf]]
     - **DOMAIN**: secure.mypepsico.com
     - **POSITION**: 163
   - **163**:
     - **TITLE**: CLOUD SECURITY BASICS
     - **SNIPPET**: As more sensitive data is considered for storage and manipulation in cloud environments, organizations must address new security threats before ...
-    - **URL**: https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-cloud-security-basics.pdf
+    - **URL**: ![[Sem título 2/media/file_77316.pdf]]
     - **DOMAIN**: www.nsa.gov
     - **POSITION**: 164
   - **164**:
     - **TITLE**: Identification Documents Checklist
     - **SNIPPET**: Security (DHS) Form I-766, or Form I-668B. NOTE: All immigration documents must show a valid continuous 12-month stay in the U.S.. □ Foreign Passport with a ...
-    - **URL**: https://www.mass.gov/doc/acceptable-forms-of-identification/download
+    - **URL**: ![[Sem título 2/media/file_LIC115_ID%20Documentation%20Checklist-1222.pdf.pdf]]
     - **DOMAIN**: www.mass.gov
     - **POSITION**: 165
   - **165**:
     - **TITLE**: department of homeland security
     - **SNIPPET**: ... Security. Any further request for disclosure of this document or information contained herein should be referred to HSI Headquarters ...
-    - **URL**: https://www.ice.gov/doclib/news/releases/2025/25_0418_hsi_referral-abrego-garcia.pdf
+    - **URL**: ![[Sem título 2/media/file_35412.pdf]]
     - **DOMAIN**: www.ice.gov
     - **POSITION**: 166
   - **166**:
     - **TITLE**: FORM CMS 1763, REQUEST FOR TERMINATION OF ...
     - **SNIPPET**: Send your completed and signed application to your local. Social Security office. If you have questions, call Social. Security at 1-800-772-1213. TTY users ...
-    - **URL**: https://www.cms.gov/medicare/cms-forms/cms-forms/downloads/cms1763.pdf
+    - **URL**: ![[Sem título 2/media/file_CMS-1763-508C.pdf.pdf]]
     - **DOMAIN**: www.cms.gov
     - **POSITION**: 167
   - **167**:
     - **TITLE**: Resolution 2254 (2015)
     - **SNIPPET**: The Security Council,. Recalling its resolutions 2042 (2012), 2043 (2012), 2118 (2013), 2139 (2014),. 2165 (2014), 2170 (2014), 2175 (2014), ...
-    - **URL**: https://www.securitycouncilreport.org/atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9%7D/s_res_2254.pdf
+    - **URL**: ![[Sem título 2/media/file_38183.pdf]]
     - **DOMAIN**: www.securitycouncilreport.org
     - **POSITION**: 168
   - **168**:
     - **TITLE**: Form W-4V (Rev. February 2018)
     - **SNIPPET**: Social security benefits. • Social security equivalent Tier 1 railroad retirement benefits. • Commodity Credit Corporation loans. • Certain crop disaster ...
-    - **URL**: https://www.irs.gov/pub/irs-pdf/fw4v.pdf
+    - **URL**: ![[Sem título 2/media/file_28402.pdf]]
     - **DOMAIN**: www.irs.gov
     - **POSITION**: 169
   - **169**:
     - **TITLE**: Tentative Auction Schedule PDF
     - **SNIPPET**: Tentative Auction Schedule of U.S. Treasury Securities. Security Type. Announcement Date. Auction Date. Settlement Date. 3-Year NOTE.
-    - **URL**: https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf
+    - **URL**: ![[Sem título 2/media/file_99173.pdf]]
     - **DOMAIN**: home.treasury.gov
     - **POSITION**: 170
   - **170**:
     - **TITLE**: G-1055 Fee Schedule
     - **SNIPPET**: Make the check or money order payable to U.S. Department of Homeland Security, do not use the initials “USDHS” or “DHS.” Generally, you must.
-    - **URL**: https://www.uscis.gov/sites/default/files/document/forms/g-1055.pdf
+    - **URL**: ![[Sem título 2/media/file_81788.pdf]]
     - **DOMAIN**: www.uscis.gov
     - **POSITION**: 171
   - **171**:
     - **TITLE**: ProProctor User Guide - Prometric
     - **SNIPPET**: and a security scan. ... For a ProProctor AI exam you will be guided by on-screen instructions to assist you in completing the testing space and security scans.
-    - **URL**: https://www.prometric.com/files/ProProctor/ProProctorUserGuide.pdf
+    - **URL**: ![[Sem título 2/media/file_62847.pdf]]
     - **DOMAIN**: www.prometric.com
     - **POSITION**: 172
   - **172**:
     - **TITLE**: Getting a Virginia Driver's License or Identification (ID) Card
     - **SNIPPET**: Proof of Social Security Number. 1. Social Security card (Individual Taxpayer Identification. Numbers not accepted). 2. U.S. Internal Revenue Service tax ...
-    - **URL**: https://www.dmv.virginia.gov/sites/default/files/forms/dmv141.pdf
+    - **URL**: ![[Sem título 2/media/file_16842.pdf]]
     - **DOMAIN**: www.dmv.virginia.gov
     - **POSITION**: 173
   - **173**:
     - **TITLE**: SAML V2.0 - Security and Privacy Considerations for the ...
     - **SNIPPET**: org/committees/security/ipr.php). saml-sec-consider-2.0-os. 15 March 2005. Copyright © OASIS Open 2005. All ...
-    - **URL**: https://docs.oasis-open.org/security/saml/v2.0/saml-sec-consider-2.0-os.pdf
+    - **URL**: ![[Sem título 2/media/file_79302.pdf]]
     - **DOMAIN**: docs.oasis-open.org
     - **POSITION**: 174
   - **174**:
     - **TITLE**: “...no one can hack my mind”: Comparing Expert and Non- ...
     - **SNIPPET**: Other security practices that non-experts considered very important, such as visiting only known websites, were not being followed by ex- perts ...
-    - **URL**: https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf
+    - **URL**: ![[Sem título 2/media/file_32625.pdf]]
     - **DOMAIN**: www.usenix.org
     - **POSITION**: 175
   - **175**:
     - **TITLE**: Identification Requirements brochure
     - **SNIPPET**: We cannot issue a commercial driver license if you don't have a. Social Security number. 42 USC 405 and 666(a) (13), RCW 26.23.150,. 49 CFR 383.153, RCW 46.25 ...
-    - **URL**: https://dol.wa.gov/sites/default/files/2022-11/ID-requirements.pdf
+    - **URL**: ![[Sem título 2/media/file_93244.pdf]]
     - **DOMAIN**: dol.wa.gov
     - **POSITION**: 176
   - **176**:
     - **TITLE**: Handbook on Dynamic Security and Prison Intelligence
     - **SNIPPET**: Shane Bryans, consultant on penal reform and criminal justice. Wayne Bastin (Regional Fusion and Law Enforcement Centre for Safety and. Security at Sea) and ...
-    - **URL**: https://www.unodc.org/documents/justice-and-prison-reform/UNODC_Handbook_on_Dynamic_Security_and_Prison_Intelligence.pdf
+    - **URL**: ![[Sem título 2/media/file_11884.pdf]]
     - **DOMAIN**: www.unodc.org
     - **POSITION**: 177
   - **177**:
     - **TITLE**: OnVUE Candidate Technical Requirements
     - **SNIPPET**: Mac OS users may need to allow OnVUE within their System. Preferences: Security & Privacy: Privacy settings for camera. Speakers and microphone. Speakers ...
-    - **URL**: https://www.pearsonvue.com/content/dam/VUE/vue/en/documents/tech-specs/online-proctored/onvue-technical-requirements.pdf
+    - **URL**: ![[Sem título 2/media/file_13900.pdf]]
     - **DOMAIN**: www.pearsonvue.com
     - **POSITION**: 178
   - **178**:
     - **TITLE**: Notice of Data <<Breach or Security Incident>> Dear <<Full ...
     - **SNIPPET**: The purpose of this letter is to notify you of a recent data security incident experienced by Onsite Mammography, LLC. (“Onsite”), which may have affected ...
-    - **URL**: https://www.mass.gov/doc/2025-698-onsite-mammography/download
+    - **URL**: ![[Sem título 2/media/file_cn_5.pdf.pdf]]
     - **DOMAIN**: www.mass.gov
     - **POSITION**: 179
   - **179**:
     - **TITLE**: Android Security Paper 2024
     - **SNIPPET**: The lack of security in traditional desktop apps was already pushing users away. This issue was even more critical for mobile devices, which were becoming ...
-    - **URL**: https://services.google.com/fh/files/misc/android-security-paper-2024.pdf
+    - **URL**: ![[Sem título 2/media/file_58750.pdf]]
     - **DOMAIN**: services.google.com
     - **POSITION**: 180
   - **180**:
     - **TITLE**: SECURITY GOVERNANCE INITIATIVE
     - **SNIPPET**: Together with our six current partners – Ghana, Kenya, Mali, Niger, Nigeria, and Tunisia – SGI is making great strides to focus on shared security priorities ...
-    - **URL**: https://2009-2017.state.gov/documents/organization/254115.pdf
+    - **URL**: ![[Sem título 2/media/file_16380.pdf]]
     - **DOMAIN**: 2009-2017.state.gov
     - **POSITION**: 181
   - **181**:
@@ -1097,30 +1097,30 @@
   - **182**:
     - **TITLE**: Practical Security Stories and Security Tasks
     - **SNIPPET**: Consequently, more often than not, the development team ends up skipping security tasks altogether; shipping software with a high software.
-    - **URL**: https://safecode.org/publication/SAFECode_Agile_Dev_Security0712.pdf
+    - **URL**: ![[Sem título 2/media/file_88653.pdf]]
     - **DOMAIN**: safecode.org
     - **POSITION**: 183
   - **183**:
     - **TITLE**: Nothing to Hide: The False Tradeoff between Privacy and ...
     - **SNIPPET**: The privacy-security debate and the law have a two-way rela- tionship. Many arguments in the debate are based on false assump- tions about how the law protects ...
-    - **URL**: https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2092&context=faculty_publications
+    - **URL**: ![[Sem título 2/media/file_Nothing to Hide: The False Tradeoff between Privacy and Security.pdf.pdf]]
     - **DOMAIN**: scholarship.law.gwu.edu
     - **POSITION**: 184
   - **184**:
     - **TITLE**: Integrated Security System (ISS)
     - **SNIPPET**: The Integrated Security System (ISS) is a security platform that provides multi- layered security features and intrusion detection at the field device, network, ...
-    - **URL**: https://www.energy.gov/oe/articles/integrated-security-system
+    - **URL**: ![[Sem título 2/media/file_64209.pdf]]
     - **DOMAIN**: www.energy.gov
     - **POSITION**: 185
   - **185**:
     - **TITLE**: S/RES/1373 (2001) Security Council
     - **SNIPPET**: The Security Council,. Reaffirming its resolutions 1269 (1999) of 19 October 1999 and 1368 (2001) of. 12 September 2001,.
-    - **URL**: https://www.unodc.org/pdf/crime/terrorism/res_1373_english.pdf
+    - **URL**: ![[Sem título 2/media/file_40042.pdf]]
     - **DOMAIN**: www.unodc.org
     - **POSITION**: 186
   - **186**:
     - **TITLE**: Google Workspace security whitepaper
     - **SNIPPET**: This whitepaper outlines Google's approach to security and compliance for Google Workspace, our cloud-based productivity suite. Used by more than five million ...
-    - **URL**: https://services.google.com/fh/files/misc/gws_security_whitepaper.pdf
+    - **URL**: ![[Sem título 2/media/file_20371.pdf]]
     - **DOMAIN**: services.google.com
     - **POSITION**: 187

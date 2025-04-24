@@ -1,0 +1,1 @@
+![[Sem título 2/media/file_I. Definition Of A Security.pdf.pdf]] From note: [[Sem título 2/Sem título.md]] Original url: https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=2288&context=wlulr

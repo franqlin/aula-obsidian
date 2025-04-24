@@ -1,0 +1,1 @@
+![[Sem título 2/media/file_Cloud-Computing-Security-Requirements-Guide.pdf.pdf]] From note: [[Sem título 2/Sem título.md]] Original url: https://disa.mil/-/media/Files/DISA/News/Events/Symposium/Cloud-Computing-Security-Requirements-Guide.ashx
