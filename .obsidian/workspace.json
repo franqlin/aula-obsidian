@@ -6,47 +6,22 @@
       {
         "id": "6df29d262973c9c0",
         "type": "tabs",
-        "dimension": 38.14317673378076,
         "children": [
           {
             "id": "a67fd0d8b5babe40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 334.8,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "0.SLIDES"
-            }
-          }
-        ]
-      },
-      {
-        "id": "25731d16f56a369d",
-        "type": "tabs",
-        "dimension": 61.85682326621924,
-        "children": [
-          {
-            "id": "dd581ad24668a944",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: 0.SLIDES.md"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ]
@@ -180,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 0.SLIDES"
+              "title": "Sumário de image 1"
             }
           },
           {
@@ -259,8 +234,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd581ad24668a944",
+  "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Criação de Notas Permanentes 1aaafbce366a80d4b2bbd652fa7276b0.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Sem título.canvas",
+    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "OSINT-CASES/METODOLOGIAS/CRAWL.md",
     "OSINT-CASES/METODOLOGIAS/5W1H.md",
     "OSINT-CASES/METODOLOGIAS/_TOC_.md",
@@ -275,7 +253,6 @@
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/2. Como usar o Dataview.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/Dataview/3. Exemplo - DATAVIEW.md",
-    "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/POWERPOINT/INBOX/SLIDE1/FORMATAÇÃO BÁSICA.md",
     "OSINT-CASES/CASOS/CASO-002/Sem título.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_08504.pdf.md",
@@ -296,7 +273,6 @@
     "OSINT-CASES/CASOS/CASE-AULA/media/file_27559.pdf",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_43616.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_43616.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_66419.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_66419.pdf",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_84328.jpeg",

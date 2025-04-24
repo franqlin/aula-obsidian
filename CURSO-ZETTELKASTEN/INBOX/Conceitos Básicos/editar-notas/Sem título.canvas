@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"731112da2e6e79aa","x":-420,"y":220,"width":400,"height":393,"type":"file","file":"CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png"},
+		{"id":"5a3aa3fd4b1a9778","x":-140,"y":-300,"width":400,"height":400,"type":"file","file":"CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Criação de Notas Permanentes 1aaafbce366a80d4b2bbd652fa7276b0.md"},
+		{"id":"d1c80a6c991bf0f3","x":202,"y":376,"width":400,"height":230,"type":"file","file":"CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 2.png"}
+	],
+	"edges":[
+		{"id":"cdbf274c041d573c","fromNode":"5a3aa3fd4b1a9778","fromSide":"bottom","toNode":"731112da2e6e79aa","toSide":"top"},
+		{"id":"9dc66d3bb70c2491","fromNode":"5a3aa3fd4b1a9778","fromSide":"bottom","toNode":"d1c80a6c991bf0f3","toSide":"top"}
+	]
+}
