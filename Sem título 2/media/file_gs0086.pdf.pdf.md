@@ -1,0 +1,1 @@
+![[Sem título 2/media/file_gs0086.pdf.pdf]] From note: [[Sem título 2/Sem título.md]] Original url: https://www.opm.gov/policy-data-oversight/classification-qualifications/classifying-general-schedule-positions/standards/0000/gs0086.pdf

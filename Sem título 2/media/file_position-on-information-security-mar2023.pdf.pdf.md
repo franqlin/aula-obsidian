@@ -1,0 +1,1 @@
+![[Sem título 2/media/file_position-on-information-security-mar2023.pdf.pdf]] From note: [[Sem título 2/Sem título.md]] Original url: https://www.jnj.com/about-jnj/policies-and-positions/our-position-on-information-security

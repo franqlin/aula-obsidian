@@ -1,0 +1,1 @@
+![[Sem título 2/media/file_security-planning.pdf.pdf]] From note: [[Sem título 2/Sem título.md]] Original url: https://it.nc.gov/documents/statewide-policies/scio-security-planning/download?attachment
