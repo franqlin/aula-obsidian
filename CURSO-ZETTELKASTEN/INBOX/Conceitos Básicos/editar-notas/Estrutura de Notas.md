@@ -1,6 +1,7 @@
 
 
 ### **1. Estrutura das Notas**
+[[]]
 
 - **Nota 1**:*"Eve ate an apple in the Garden of Eden, committing the original sin."*
     - Introduz o tema da **maçã como símbolo de discórdia** na narrativa.

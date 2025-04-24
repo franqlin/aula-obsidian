@@ -11,17 +11,10 @@
             "id": "a67fd0d8b5babe40",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Sem título.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 334.8,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sem título"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
             }
           }
         ]
@@ -155,13 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/image 1.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de image 1"
+              "title": "Sumário"
             }
           },
           {
@@ -236,8 +228,9 @@
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
-    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Criação de Notas Permanentes 1aaafbce366a80d4b2bbd652fa7276b0.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Estrutura de Notas.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Sem título.canvas",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Criação de Notas Permanentes 1aaafbce366a80d4b2bbd652fa7276b0.md",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
     "OSINT-CASES/METODOLOGIAS/CRAWL.md",
     "OSINT-CASES/METODOLOGIAS/5W1H.md",
@@ -271,7 +264,6 @@
     "OSINT-CASES/CASOS/CASE-AULA/media/file_81014.pdf",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_27559.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_27559.pdf",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_43616.pdf.md",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_43616.pdf",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_66419.pdf",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
