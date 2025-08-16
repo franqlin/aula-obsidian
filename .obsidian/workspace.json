@@ -6,7 +6,6 @@
       {
         "id": "6df29d262973c9c0",
         "type": "tabs",
-        "dimension": 56.891025641025635,
         "children": [
           {
             "id": "a67fd0d8b5babe40",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/principios-notas-inteligentes/1. A escrita não é o fim do pensamento; é o processo em que o pensamento se desenvolve.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,26 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "1. A escrita não é o fim do pensamento; é o processo em que o pensamento se desenvolve"
+              "title": "0.SLIDES"
             }
           }
         ]
       },
       {
-        "id": "0ff02fd8508f0b39",
+        "id": "9d2d2aefa159c53e",
         "type": "tabs",
-        "dimension": 43.108974358974365,
         "children": [
           {
-            "id": "25fafe5107c81920",
+            "id": "ee1a411e765652ab",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "juggl_view",
+              "type": "reveal-preview-view",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Juggl"
+              "icon": "slides",
+              "title": "Preview: 0.SLIDES.md"
             }
           }
         ]
@@ -182,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/principios-notas-inteligentes/1. A escrita não é o fim do pensamento; é o processo em que o pensamento se desenvolve.md",
+                "file": "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/Apresentação/0.SLIDES.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1. A escrita não é o fim do pensamento; é o processo em que o pensamento se desenvolve"
+              "title": "Sumário de 0.SLIDES"
             }
           },
           {
@@ -236,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,8 +257,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a67fd0d8b5babe40",
+  "active": "ee1a411e765652ab",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/3. Slip-box de Luhmann.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/principios-notas-inteligentes/1. A escrita não é o fim do pensamento; é o processo em que o pensamento se desenvolve.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/principios-notas-inteligentes/3. Ninguém nunca chega do zero.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/5. Zettelkasten Digital.md",
@@ -296,8 +295,6 @@
     "Sem título 2/media/file_16842.pdf.md",
     "Sem título 2/media/file_62847.pdf.md",
     "Sem título 2/media/file_81788.pdf.md",
-    "Sem título 2/media/file_99173.pdf.md",
-    "Sem título 2/media/file_28402.pdf.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Sem título.canvas",
     "OSINT-CASES/CASOS/CASO-002/Sem título.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
