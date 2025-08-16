@@ -6,6 +6,7 @@
       {
         "id": "6df29d262973c9c0",
         "type": "tabs",
+        "dimension": 56.891025641025635,
         "children": [
           {
             "id": "a67fd0d8b5babe40",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem título 2/Sem título.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/principios-notas-inteligentes/1. A escrita não é o fim do pensamento; é o processo em que o pensamento se desenvolve.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +29,26 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sem título"
+              "title": "1. A escrita não é o fim do pensamento; é o processo em que o pensamento se desenvolve"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0ff02fd8508f0b39",
+        "type": "tabs",
+        "dimension": 43.108974358974365,
+        "children": [
+          {
+            "id": "25fafe5107c81920",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Juggl"
             }
           }
         ]
@@ -162,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sem título 2/Sem título.md",
+                "file": "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/principios-notas-inteligentes/1. A escrita não é o fim do pensamento; é o processo em que o pensamento se desenvolve.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sem título"
+              "title": "Sumário de 1. A escrita não é o fim do pensamento; é o processo em que o pensamento se desenvolve"
             }
           },
           {
@@ -216,8 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,11 +256,20 @@
       "slide-note:Slide Note Block Generator": false,
       "marp:Marp: Open Preview": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/2. Como escrever notas inteligentes.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/principios-notas-inteligentes/3. Ninguém nunca chega do zero.md",
+    "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/5. Zettelkasten Digital.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/7. Organizando suas anotações.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/5. Uma introdução aos links.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/4. Crie sua primeira nota.md",
+    "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
+    "Sem título 2/Sem título.md",
     "Sem título 2/media/file_20371.pdf.md",
     "Sem título 2/media/file_20371.pdf",
     "Sem título 2/media/file_40042.pdf.md",
@@ -270,14 +298,6 @@
     "Sem título 2/media/file_81788.pdf.md",
     "Sem título 2/media/file_99173.pdf.md",
     "Sem título 2/media/file_28402.pdf.md",
-    "Sem título 2/media/file_38183.pdf.md",
-    "Sem título 2/media/file_CMS-1763-508C.pdf.pdf.md",
-    "Sem título 2/media/file_35412.pdf.md",
-    "Sem título 2/media/file_LIC115_ID%20Documentation%20Checklist-1222.pdf.pdf.md",
-    "Sem título 2/media/file_77316.pdf.md",
-    "Sem título 2/media/file_52666.pdf.md",
-    "Sem título 2/media/file_93680.pdf.md",
-    "Sem título 2/media/file_55123.pdf.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Sem título.canvas",
     "OSINT-CASES/CASOS/CASO-002/Sem título.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
