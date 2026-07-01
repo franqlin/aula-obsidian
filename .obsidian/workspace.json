@@ -11,24 +11,17 @@
             "id": "a67fd0d8b5babe40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "avatar/foto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Arthur Souza Castro/avatar.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 93,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "foto"
+              "icon": "lucide-layout-dashboard",
+              "title": "avatar"
             }
           }
         ]
@@ -172,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "avatar/foto.md",
+                "file": "Arthur Souza Castro/dados pessoais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de foto"
+              "title": "Sumário de dados pessoais"
             }
           },
           {
@@ -273,11 +266,12 @@
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
+    "Arthur Souza Castro/foto.md",
+    "Arthur Souza Castro/avatar.canvas",
+    "Arthur Souza Castro/dados pessoais.md",
+    "Arthur Souza Castro/avatar01.md",
     "attachments/random-person.jpeg",
-    "dados pessoais.md",
-    "avatar/foto.md",
-    "avatar/avatar01.md",
-    "avatar",
+    "Arthur Souza Castro",
     "MORIN-ZETTEL-KASTEN/INBOX/Edgar Morin propõe sete saberes fundamentais.md",
     "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
@@ -321,7 +315,6 @@
     "OSINT-CASES/CASOS/CASE-AULA/media/file_64995.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_46085.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_34933.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_07676.jpeg",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
