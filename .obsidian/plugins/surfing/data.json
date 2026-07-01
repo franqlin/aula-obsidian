@@ -46,19 +46,7 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "b5fa3679d08e2bd5",
-      "parent": 0,
-      "droppable": true,
-      "text": "City Guesser - Can you guess what city you're in?",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": false,
   "enableTreeView": true,

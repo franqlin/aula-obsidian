@@ -44,7 +44,7 @@
               "type": "reveal-preview-view",
               "state": {},
               "icon": "slides",
-              "title": "Preview: 0.SLIDES.md"
+              "title": "Slide preview"
             }
           }
         ]
@@ -102,6 +102,16 @@
           },
           {
             "id": "d1eeeec7491a8852",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "surfing-tab-tree"
+            }
+          },
+          {
+            "id": "03ded438a4d4b14a",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -193,8 +203,8 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
+              "icon": "lucide-ghost",
+              "title": "juggl_nodes"
             }
           },
           {
@@ -203,8 +213,8 @@
             "state": {
               "type": "juggl_style",
               "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "icon": "lucide-ghost",
+              "title": "juggl_style"
             }
           },
           {
@@ -213,8 +223,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -223,8 +233,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -237,24 +247,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-kanban:Criar um novo quadro": false,
-      "juggl:Juggl global graph": false,
-      "odysseus-plugin:Odysseus::Enquecimento de Mídia\"": false,
-      "media-sync:Media sync": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
-      "slides-extended:Show slide preview": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "slide-note:Slide Note Block Generator": false,
-      "marp:Marp: Open Preview": false,
-      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "slides-extended:Show slide preview": false
     }
   },
   "active": "a67fd0d8b5babe40",
