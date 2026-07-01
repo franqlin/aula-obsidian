@@ -1,1 +1,0 @@
-![[Sem título 2/media/file_data-security-report.pdf";filename*=UTF-8''data-security-report.pdf.pdf]] From note: [[Sem título 2/Sem título.md]] Original url: https://www.oracle.com/a/ocom/docs/data-security-report.pdf
