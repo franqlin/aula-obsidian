@@ -11,16 +11,23 @@
             "id": "a67fd0d8b5babe40",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Arthur Souza Castro/Sem título.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                "file": "MPRJ-LINKEDIN/Sem título.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
+              "icon": "lucide-file",
               "title": "Sem título"
             }
           }
@@ -165,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arthur Souza Castro/dados pessoais.md",
+                "file": "MPRJ-LINKEDIN/Sem título.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de dados pessoais"
+              "title": "Sumário de Sem título"
             }
           },
           {
@@ -267,8 +274,10 @@
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
     "Arthur Souza Castro/Sem título.canvas",
-    "Arthur Souza Castro/foto.md",
+    "MPRJ-LINKEDIN/Sem título.md",
+    "MPRJ-LINKEDIN",
     "Arthur Souza Castro/dados pessoais.md",
+    "Arthur Souza Castro/foto.md",
     "Arthur Souza Castro/avatar01.md",
     "attachments/random-person 1.jpeg",
     "Arthur Souza Castro/avatar.canvas",
@@ -301,12 +310,10 @@
     "Sem título 2/media/file_64209.pdf",
     "Sem título 2/media/file_Nothing to Hide: The False Tradeoff between Privacy and Security.pdf.pdf.md",
     "Sem título 2/media/file_Nothing to Hide: The False Tradeoff between Privacy and Security.pdf.pdf",
-    "Sem título 2/media/file_88653.pdf.md",
     "Sem título 2/media/file_88653.pdf",
     "Sem título 2/media/file_16380.pdf",
     "Sem título 2/media/file_58750.pdf",
     "Sem título 2/media/file_cn_5.pdf.pdf",
-    "Sem título 2/media/file_13900.pdf",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Sem título.canvas",
     "OSINT-CASES/CASOS/CASO-002/Sem título.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
