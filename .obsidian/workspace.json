@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
+                "file": "dados pessoais.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zettelkasten"
+              "title": "dados pessoais"
             }
           }
         ]
@@ -120,8 +120,7 @@
               "title": "Surfing Tab Tree"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
+                "file": "dados pessoais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Zettelkasten"
+              "title": "Sumário de dados pessoais"
             }
           },
           {
@@ -290,6 +289,11 @@
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
+    "avatar/avatar01.md",
+    "dados pessoais.md",
+    "avatar",
+    "MORIN-ZETTEL-KASTEN/INBOX/Edgar Morin propõe sete saberes fundamentais.md",
+    "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Conteúdo Programático.md",
     "CURSO-ZETTELKASTEN/INBOX/1 Conteúdo Programático/Turbinar_a_Inteligncia.png",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/1. Conceitos de Gestão do conhecimento.md",
@@ -321,13 +325,8 @@
     "Sem título 2/media/file_16380.pdf",
     "Sem título 2/media/file_58750.pdf.md",
     "Sem título 2/media/file_58750.pdf",
-    "Sem título 2/media/file_cn_5.pdf.pdf.md",
     "Sem título 2/media/file_cn_5.pdf.pdf",
-    "Sem título 2/media/file_13900.pdf.md",
     "Sem título 2/media/file_13900.pdf",
-    "Sem título 2/media/file_11884.pdf.md",
-    "Sem título 2/media/file_11884.pdf",
-    "Sem título 2/media/file_93244.pdf.md",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Sem título.canvas",
     "OSINT-CASES/CASOS/CASO-002/Sem título.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
