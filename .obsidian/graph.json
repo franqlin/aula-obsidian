@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "#LEAK",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 7.8125,
   "linkStrength": 0.848958333333333,
   "linkDistance": 250,
-  "scale": 0.09895430218637144,
-  "close": true
+  "scale": 0.751434232227761,
+  "close": false
 }
