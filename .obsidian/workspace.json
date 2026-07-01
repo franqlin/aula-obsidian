@@ -11,24 +11,17 @@
             "id": "a67fd0d8b5babe40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MPRJ-LINKEDIN/Matheus Florencio/DADOS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "MPRJ-LINKEDIN/Matheus Florencio/quadro.canvas",
+                "viewState": {
+                  "x": -46.5,
+                  "y": 223.68837286826016,
+                  "zoom": -1.7902402409469604
                 }
               },
-              "icon": "lucide-file",
-              "title": "DADOS"
+              "icon": "lucide-layout-dashboard",
+              "title": "quadro"
             }
           }
         ]
@@ -104,7 +97,8 @@
               "title": "Surfing Tab Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MPRJ-LINKEDIN/Matheus Florencio/DADOS.md",
+                "file": "MPRJ-LINKEDIN/Matheus Florencio/quadro.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de DADOS"
+              "title": "Sumário de quadro"
             }
           },
           {
@@ -271,13 +265,17 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "a67fd0d8b5babe40",
+  "active": "3020db7a3f87e948",
   "lastOpenFiles": [
+    "MPRJ-LINKEDIN/Matheus Florencio/DADOS - LEAK.md",
+    "MPRJ-LINKEDIN/Matheus Florencio/quadro.canvas",
+    "MPRJ-LINKEDIN/Matheus Florencio/DADOS.md",
+    "MPRJ-LINKEDIN/Matheus Florencio/perfil.md",
+    "attachments/Pasted image 20260701173255.png",
+    "MPRJ-LINKEDIN/Larissa Pedroso/Sem título.md",
     "attachments/13.12.2024.pdf",
     "MPRJ-LINKEDIN/PERFIL.md",
-    "MPRJ-LINKEDIN/Matheus Florencio/DADOS.md",
     "attachments/Pasted image 20260701172631.png",
-    "MPRJ-LINKEDIN/Larissa Pedroso/Sem título.md",
     "MPRJ-LINKEDIN/Matheus Florencio",
     "MPRJ-LINKEDIN/Larissa Pedroso",
     "Arthur Souza Castro/Sem título.canvas",
@@ -308,14 +306,11 @@
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/4. Crie sua primeira nota.md",
     "CURSO-ZETTELKASTEN/INBOX/OBSIDIAN/1.  Obsidian.md",
     "Sem título 2/Sem título.md",
-    "Sem título 2/media/file_20371.pdf.md",
     "Sem título 2/media/file_20371.pdf",
-    "Sem título 2/media/file_40042.pdf.md",
     "Sem título 2/media/file_40042.pdf",
     "Sem título 2/media/file_64209.pdf",
     "Sem título 2/media/file_Nothing to Hide: The False Tradeoff between Privacy and Security.pdf.pdf",
     "Sem título 2/media/file_88653.pdf",
-    "Sem título 2/media/file_16380.pdf",
     "CURSO-ZETTELKASTEN/INBOX/Conceitos Básicos/editar-notas/Sem título.canvas",
     "OSINT-CASES/CASOS/CASO-002/Sem título.canvas",
     "OSINT-CASES/CASOS/CASE-AULA/ELON-CANVA.canvas",
@@ -323,11 +318,9 @@
     "OSINT-CASES/CASOS/CASE-AULA/media/file_97361.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_07560.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_55838.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_64995.jpeg",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
-    "Untitled.canvas",
-    "CANVA.canvas"
+    "Untitled.canvas"
   ]
 }

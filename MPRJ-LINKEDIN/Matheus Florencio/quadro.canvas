@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d110eff25b5c1071","type":"file","file":"MPRJ-LINKEDIN/Matheus Florencio/DADOS.md","x":-373,"y":237,"width":400,"height":400},
+		{"id":"5968693ed42a1f39","x":340,"y":340,"width":400,"height":400,"type":"file","file":"MPRJ-LINKEDIN/Matheus Florencio/DADOS - LEAK.md"},
+		{"id":"d4df2175f811d35c","type":"file","file":"MPRJ-LINKEDIN/Matheus Florencio/perfil.md","x":-240,"y":-300,"width":400,"height":400,"color":"3"}
+	],
+	"edges":[
+		{"id":"dbec1e4ff40a674b","fromNode":"d110eff25b5c1071","fromSide":"top","toNode":"d4df2175f811d35c","toSide":"bottom"},
+		{"id":"b2b16cd298eedd63","fromNode":"5968693ed42a1f39","fromSide":"top","toNode":"d4df2175f811d35c","toSide":"bottom"}
+	]
+}
