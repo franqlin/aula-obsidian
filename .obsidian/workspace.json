@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dados pessoais.md",
+                "file": "avatar/foto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dados pessoais"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2c2ff6f6e93ccf85",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8d2bfbfeef80c454",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "slides",
-              "title": "Preview: Impacto Cultural.md"
+              "title": "foto"
             }
           }
         ]
@@ -188,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dados pessoais.md",
+                "file": "avatar/foto.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de dados pessoais"
+              "title": "Sumário de foto"
             }
           },
           {
@@ -289,8 +273,10 @@
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
-    "avatar/avatar01.md",
+    "attachments/random-person.jpeg",
     "dados pessoais.md",
+    "avatar/foto.md",
+    "avatar/avatar01.md",
     "avatar",
     "MORIN-ZETTEL-KASTEN/INBOX/Edgar Morin propõe sete saberes fundamentais.md",
     "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
@@ -321,9 +307,7 @@
     "Sem título 2/media/file_Nothing to Hide: The False Tradeoff between Privacy and Security.pdf.pdf",
     "Sem título 2/media/file_88653.pdf.md",
     "Sem título 2/media/file_88653.pdf",
-    "Sem título 2/media/file_16380.pdf.md",
     "Sem título 2/media/file_16380.pdf",
-    "Sem título 2/media/file_58750.pdf.md",
     "Sem título 2/media/file_58750.pdf",
     "Sem título 2/media/file_cn_5.pdf.pdf",
     "Sem título 2/media/file_13900.pdf",
