@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"d08187b948a3bedc","x":-61,"y":-104,"width":400,"height":400,"type":"file","file":"attachments/random-person 1.jpeg"},
+		{"id":"7e1440bf09b7f2dc","x":-155,"y":-305,"width":250,"height":60,"type":"text","text":""},
+		{"id":"6a6d7db2b10ca09c","x":-155,"y":-320,"width":400,"height":400,"type":"file","file":"Arthur Souza Castro/foto.md"},
+		{"id":"c02c8aad3d86fddc","x":-329,"y":190,"width":400,"height":400,"type":"file","file":"Arthur Souza Castro/dados pessoais.md"}
+	],
+	"edges":[
+		{"id":"39df8ad3989474df","fromNode":"c02c8aad3d86fddc","fromSide":"top","toNode":"d08187b948a3bedc","toSide":"left"}
+	]
+}

@@ -11,24 +11,17 @@
             "id": "a67fd0d8b5babe40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Arthur Souza Castro/dados pessoais.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Arthur Souza Castro/Sem título.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "dados pessoais"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sem título"
             }
           }
         ]
@@ -273,10 +266,11 @@
   },
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
+    "Arthur Souza Castro/Sem título.canvas",
     "Arthur Souza Castro/foto.md",
-    "attachments/random-person 1.jpeg",
-    "Arthur Souza Castro/avatar01.md",
     "Arthur Souza Castro/dados pessoais.md",
+    "Arthur Souza Castro/avatar01.md",
+    "attachments/random-person 1.jpeg",
     "Arthur Souza Castro/avatar.canvas",
     "attachments/random-person.jpeg",
     "Arthur Souza Castro",
@@ -326,7 +320,6 @@
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
     "Untitled.canvas",
-    "CANVA.canvas",
-    "CURSO-OBSIDIAN/inbox/Artigos/CANVAS-ARTICLES.canvas"
+    "CANVA.canvas"
   ]
 }
