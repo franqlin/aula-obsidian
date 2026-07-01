@@ -11,17 +11,24 @@
             "id": "a67fd0d8b5babe40",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Arthur Souza Castro/avatar.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 93,
-                  "zoom": 0
+                "file": "Arthur Souza Castro/dados pessoais.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "avatar"
+              "icon": "lucide-file",
+              "title": "dados pessoais"
             }
           }
         ]
@@ -267,9 +274,10 @@
   "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
     "Arthur Souza Castro/foto.md",
-    "Arthur Souza Castro/avatar.canvas",
-    "Arthur Souza Castro/dados pessoais.md",
+    "attachments/random-person 1.jpeg",
     "Arthur Souza Castro/avatar01.md",
+    "Arthur Souza Castro/dados pessoais.md",
+    "Arthur Souza Castro/avatar.canvas",
     "attachments/random-person.jpeg",
     "Arthur Souza Castro",
     "MORIN-ZETTEL-KASTEN/INBOX/Edgar Morin propõe sete saberes fundamentais.md",
@@ -314,7 +322,6 @@
     "OSINT-CASES/CASOS/CASE-AULA/media/file_55838.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_64995.jpeg",
     "OSINT-CASES/CASOS/CASE-AULA/media/file_46085.jpeg",
-    "OSINT-CASES/CASOS/CASE-AULA/media/file_34933.jpeg",
     "OSINT-CASES/CASOS/CASO-003/CANVA.canvas",
     "Sem título.canvas",
     "CURSO-ZETTELKASTEN/NOTAS-PERMANENTES/NOTAS PERMANENTES.canvas",
