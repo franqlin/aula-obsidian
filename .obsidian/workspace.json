@@ -11,10 +11,24 @@
             "id": "a67fd0d8b5babe40",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Zettelkasten"
             }
           }
         ]
@@ -65,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#git",
+                "query": "tag:#zettelkasten",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +120,8 @@
               "title": "Surfing Tab Tree"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,12 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "MORIN-ZETTEL-KASTEN/INBOX/Zettelkasten.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Zettelkasten"
             }
           },
           {
