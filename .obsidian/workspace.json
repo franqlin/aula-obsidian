@@ -34,11 +34,11 @@
         ]
       },
       {
-        "id": "f7d090ba07db4d56",
+        "id": "a137f04738c83ea2",
         "type": "tabs",
         "children": [
           {
-            "id": "19188b064579d126",
+            "id": "0fbf619d319d997c",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -275,7 +275,6 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "audio-recorder:Começar/parar a gravação de áudio": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "slides-extended:Show slide preview": false,
       "slide-note:Slide Note Block Generator": false,
@@ -284,10 +283,11 @@
       "marp:Marp: Open Preview": false,
       "obsidian-kanban:Create new board": false,
       "juggl:Juggl global graph": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19188b064579d126",
+  "active": "0fbf619d319d997c",
   "lastOpenFiles": [
     "MPRJ-LINKEDIN/Matheus Florencio/DADOS.md",
     "MPRJ-LINKEDIN/Matheus Florencio/DADOS - LEAK.md",
