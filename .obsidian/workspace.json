@@ -44,10 +44,23 @@
               "type": "reveal-preview-view",
               "state": {},
               "icon": "slides",
-              "title": "Preview: dados pessoais.md"
+              "title": "Slide preview"
+            }
+          },
+          {
+            "id": "f72afabdbfd628e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Notas de Lançamento 1.13.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +80,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -95,7 +110,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Marcadores"
             }
@@ -194,7 +212,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de dados pessoais"
+              "title": "Sumário"
             }
           },
           {
@@ -283,11 +301,10 @@
       "marp:Marp: Open Preview": false,
       "obsidian-kanban:Create new board": false,
       "juggl:Juggl global graph": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "0fbf619d319d997c",
+  "active": "f72afabdbfd628e8",
   "lastOpenFiles": [
     "MPRJ-LINKEDIN/Matheus Florencio/DADOS.md",
     "MPRJ-LINKEDIN/Matheus Florencio/DADOS - LEAK.md",
