@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arthur Souza Castro/dados pessoais.md",
+                "file": "MPRJ-LINKEDIN/Matheus Florencio/DADOS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dados pessoais"
+              "title": "DADOS"
             }
           }
         ]
@@ -94,8 +94,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MATHEUS",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arthur Souza Castro/dados pessoais.md",
+                "file": "MPRJ-LINKEDIN/Matheus Florencio/DADOS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -305,14 +305,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f72afabdbfd628e8",
+  "active": "a67fd0d8b5babe40",
   "lastOpenFiles": [
+    "Arthur Souza Castro/dados pessoais.md",
     "MPRJ-LINKEDIN/Matheus Florencio/DADOS.md",
+    "MPRJ-LINKEDIN/Larissa Pedroso/Sem título.md",
     "MPRJ-LINKEDIN/Matheus Florencio/DADOS - LEAK.md",
     "MPRJ-LINKEDIN/Matheus Florencio/quadro.canvas",
     "MPRJ-LINKEDIN/Matheus Florencio/perfil.md",
     "attachments/Pasted image 20260701173255.png",
-    "MPRJ-LINKEDIN/Larissa Pedroso/Sem título.md",
     "attachments/13.12.2024.pdf",
     "MPRJ-LINKEDIN/PERFIL.md",
     "attachments/Pasted image 20260701172631.png",
@@ -320,7 +321,6 @@
     "MPRJ-LINKEDIN/Larissa Pedroso",
     "Arthur Souza Castro/Sem título.canvas",
     "MPRJ-LINKEDIN",
-    "Arthur Souza Castro/dados pessoais.md",
     "Arthur Souza Castro/foto.md",
     "Arthur Souza Castro/avatar01.md",
     "attachments/random-person 1.jpeg",
