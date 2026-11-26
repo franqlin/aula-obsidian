@@ -301,7 +301,8 @@
       "marp:Marp: Open Preview": false,
       "obsidian-kanban:Create new board": false,
       "juggl:Juggl global graph": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f72afabdbfd628e8",
